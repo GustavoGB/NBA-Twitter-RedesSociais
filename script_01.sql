@@ -25,4 +25,10 @@ CREATE TABLE transferencia (
 	PRIMARY KEY (id_transferencia)
 );
 
-        
+CREATE TABLE jogador_tag (
+		id_jogador INT NOT NULL auto_increment,
+        tag VARCHAR(80),
+		FOREIGN KEY (id_jogador)
+			REFERENCES jogador (id_jogador),
+        PRIMARY KEY (id_jogador, tag)
+);
