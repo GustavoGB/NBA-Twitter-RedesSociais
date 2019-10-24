@@ -1,1 +1,1028 @@
-{"Eric Gordon": ["Houston Rockets"], "Caris LeVert": ["Brooklyn Nets"], "J.J. Barea": ["Dallas Mavericks"], "Udonis Haslem": ["Miami Heat"], "Draymond Green": ["Golden State Warriors"], "CJ McCollum": ["Portland Trail Blazers"], "Edmond Sumner": ["Indiana Pacers"], "Jamal Murray": ["Denver Nuggets"], "Gerald Green": ["Houston Rockets"], "Darius Miller": ["New Orleans Pelicans"]}
+{
+ "Pascal Siakam": [
+  "Toronto Raptors"
+ ],
+ "Jaylen Brown": [
+  "Boston Celtics"
+ ],
+ "Dejounte Murray": [
+  "San Antonio Spurs"
+ ],
+ "Domantas Sabonis": [
+  "Oklahoma City Thunder"
+ ],
+ "Taurean Prince": [
+  "Atlanta Hawks"
+ ],
+ "Buddy Hield": [
+  "New Orleans Pelicans"
+ ],
+ "Joe Ingles": [
+  "Utah Jazz"
+ ],
+ "Bradley Beal": [
+  "Washington Wizards"
+ ],
+ "Kyle Lowry": [
+  "Toronto Raptors"
+ ],
+ "Eric Gordon": [
+  "Houston Rockets"
+ ],
+ "Caris LeVert": [
+  "Brooklyn Nets"
+ ],
+ "J.J. Barea": [
+  "Dallas Mavericks"
+ ],
+ "Udonis Haslem": [
+  "Miami Heat"
+ ],
+ "Draymond Green": [
+  "Golden State Warriors"
+ ],
+ "CJ McCollum": [
+  "Portland Trail Blazers"
+ ],
+ "Edmond Sumner": [
+  "Indiana Pacers"
+ ],
+ "Jamal Murray": [
+  "Denver Nuggets"
+ ],
+ "Gerald Green": [
+  "Houston Rockets"
+ ],
+ "Darius Miller": [
+  "New Orleans Pelicans"
+ ],
+ "Kelly Oubre Jr.": [
+  "Phoenix Suns"
+ ],
+ "Ben Simmons": [
+  "Philadelphia 76ers"
+ ],
+ "Daniel Theis": [
+  "Boston Celtics"
+ ],
+ "Danuel House Jr.": [
+  "Houston Rockets"
+ ],
+ "Austin Rivers": [
+  "LA Clippers"
+ ],
+ "Kristaps Porzingis": [
+  "Dallas Mavericks"
+ ],
+ "Ryan Arcidiacono": [
+  "Chicago Bulls"
+ ],
+ "Kevon Looney": [
+  "Golden State Warriors"
+ ],
+ "Khris Middleton": [
+  "Milwaukee Bucks"
+ ],
+ "Tyus Jones": [
+  "Memphis Grizzlies"
+ ],
+ "Jonas Valanciunas": [
+  "Memphis Grizzlies"
+ ],
+ "Patrick Beverley": [
+  "LA Clippers"
+ ],
+ "Tobias Harris": [
+  "Philadelphia 76ers"
+ ],
+ "Maxi Kleber": [
+  "Dallas Mavericks"
+ ],
+ "Ivica Zubac": [
+  "Los Angeles Lakers"
+ ],
+ "Klay Thompson": [
+  "Golden State Warriors"
+ ],
+ "Michael Carter-Williams": [
+  "Orlando Magic"
+ ],
+ "Rodney McGruder": [
+  "LA Clippers"
+ ],
+ "Khem Birch": [
+  "Orlando Magic"
+ ],
+ "Dorian Finney-Smith": [
+  "Dallas Mavericks"
+ ],
+ "Rudy Gay": [
+  "San Antonio Spurs"
+ ],
+ "Harrison Barnes": [
+  "Dallas Mavericks"
+ ],
+ "Shake Milton": [
+  "Philadelphia 76ers"
+ ],
+ "Alex Caruso": [
+  "Los Angeles Lakers"
+ ],
+ "Patrick McCaw": [
+  "Golden State Warriors"
+ ],
+ "Terrence Ross": [
+  "Orlando Magic"
+ ],
+ "Brook Lopez": [
+  "Milwaukee Bucks"
+ ],
+ "Nikola Vucevic": [
+  "Orlando Magic"
+ ],
+ "Damian Lillard": [
+  "Portland Trail Blazers"
+ ],
+ "Rodney Hood": [
+  "Cleveland Cavaliers"
+ ],
+ "Dwight Powell": [
+  "Dallas Mavericks"
+ ],
+ "Kentavious Caldwell-Pope": [
+  "Los Angeles Lakers"
+ ],
+ "JaVale McGee": [
+  "Golden State Warriors"
+ ],
+ "Thomas Bryant": [
+  "Los Angeles Lakers"
+ ],
+ "Nerlens Noel": [
+  "Dallas Mavericks"
+ ],
+ "Jonathan Gibson": [
+  "Boston Celtics"
+ ],
+ "Jordan McRae": [
+  "Washington Wizards"
+ ],
+ "Duncan Robinson": [
+  "Miami Heat"
+ ],
+ "Yante Maten": [
+  "Miami Heat"
+ ],
+ "Deonte Burton": [
+  "Oklahoma City Thunder"
+ ],
+ "Eric Bledsoe": [
+  "Milwaukee Bucks"
+ ],
+ "Jaylen Adams": [
+  "Atlanta Hawks"
+ ],
+ "Chris Boucher": [
+  "Toronto Raptors"
+ ],
+ "Spencer Dinwiddie": [
+  "Brooklyn Nets"
+ ],
+ "Allonzo Trier": [
+  "New York Knicks"
+ ],
+ "Gary Clark": [
+  "Houston Rockets"
+ ],
+ "Myles Turner": [
+  "Indiana Pacers"
+ ],
+ "Larry Nance Jr.": [
+  "Cleveland Cavaliers"
+ ],
+ "Justise Winslow": [
+  "Miami Heat"
+ ],
+ "Alfonzo McKinnie": [
+  "Golden State Warriors"
+ ],
+ "Karl-Anthony Towns": [
+  "Minnesota Timberwolves"
+ ],
+ "De'Anthony Melton": [
+  "Phoenix Suns"
+ ],
+ "Dwyane Wade": [
+  "Miami Heat"
+ ],
+ "Tyrone Wallace": [
+  "LA Clippers"
+ ],
+ "Chimezie Metu": [
+  "San Antonio Spurs"
+ ],
+ "Hamidou Diallo": [
+  "Oklahoma City Thunder"
+ ],
+ "Clint Capela": [
+  "Houston Rockets"
+ ],
+ "Jabari Bird": [
+  "Boston Celtics"
+ ],
+ "Monte Morris": [
+  "Denver Nuggets"
+ ],
+ "Khyri Thomas": [
+  "Detroit Pistons"
+ ],
+ "Isaiah Hartenstein": [
+  "Houston Rockets"
+ ],
+ "Joe Harris": [
+  "Brooklyn Nets"
+ ],
+ "Kevin Love": [
+  "Cleveland Cavaliers"
+ ],
+ "Jonah Bolden": [
+  "Philadelphia 76ers"
+ ],
+ "Montrezl Harrell": [
+  "LA Clippers"
+ ],
+ "Ray Spalding": [
+  "Dallas Mavericks"
+ ],
+ "Lorenzo Brown": [
+  "Toronto Raptors"
+ ],
+ "Bryn Forbes": [
+  "San Antonio Spurs"
+ ],
+ "Marcus Smart": [
+  "Boston Celtics"
+ ],
+ "Antonio Blakeney": [
+  "Chicago Bulls"
+ ],
+ "Alize Johnson": [
+  "Indiana Pacers"
+ ],
+ "Rodions Kurucs": [
+  "Brooklyn Nets"
+ ],
+ "Jalen Brunson": [
+  "Dallas Mavericks"
+ ],
+ "Jevon Carter": [
+  "Memphis Grizzlies"
+ ],
+ "Zach LaVine": [
+  "Chicago Bulls"
+ ],
+ "Wayne Ellington": [
+  "Miami Heat"
+ ],
+ "Georges Niang": [
+  "Indiana Pacers"
+ ],
+ "Dzanan Musa": [
+  "Brooklyn Nets"
+ ],
+ "Davis Bertans": [
+  "San Antonio Spurs"
+ ],
+ "Lonnie Walker IV": [
+  "San Antonio Spurs"
+ ],
+ "Raymond Felton": [
+  "Oklahoma City Thunder"
+ ],
+ "Svi Mykhailiuk": [
+  "Los Angeles Lakers"
+ ],
+ "Jerami Grant": [
+  "Oklahoma City Thunder"
+ ],
+ "Donte DiVincenzo": [
+  "Milwaukee Bucks"
+ ],
+ "Jarred Vanderbilt": [
+  "Denver Nuggets"
+ ],
+ "Avery Bradley": [
+  "LA Clippers"
+ ],
+ "Torrey Craig": [
+  "Denver Nuggets"
+ ],
+ "Nikola Jokic": [
+  "Denver Nuggets"
+ ],
+ "Will Barton": [
+  "Denver Nuggets"
+ ],
+ "Luka Doncic": [
+  "Dallas Mavericks"
+ ],
+ "Kyle Anderson": [
+  "Memphis Grizzlies"
+ ],
+ "Mitchell Robinson": [
+  "New York Knicks"
+ ],
+ "Ian Clark": [
+  "New Orleans Pelicans"
+ ],
+ "Kevin Durant": [
+  "Golden State Warriors"
+ ],
+ "Devin Booker": [
+  "Phoenix Suns"
+ ],
+ "Chris Paul": [
+  "Houston Rockets"
+ ],
+ "Elie Okobo": [
+  "Phoenix Suns"
+ ],
+ "Gary Trent Jr.": [
+  "Portland Trail Blazers"
+ ],
+ "Raul Neto": [
+  "Utah Jazz"
+ ],
+ "Fred VanVleet": [
+  "Toronto Raptors"
+ ],
+ "Dante Exum": [
+  "Utah Jazz"
+ ],
+ "Aaron Gordon": [
+  "Orlando Magic"
+ ],
+ "Melvin Frazier Jr.": [
+  "Orlando Magic"
+ ],
+ "Derrick Favors": [
+  "Utah Jazz"
+ ],
+ "Devonte' Graham": [
+  "Charlotte Hornets"
+ ],
+ "Bruce Brown": [
+  "Detroit Pistons"
+ ],
+ "Isaac Bonga": [
+  "Los Angeles Lakers"
+ ],
+ "Luke Kornet": [
+  "New York Knicks"
+ ],
+ "Paul George": [
+  "Oklahoma City Thunder"
+ ],
+ "Keita Bates-Diop": [
+  "Minnesota Timberwolves"
+ ],
+ "Aron Baynes": [
+  "Boston Celtics"
+ ],
+ "Jusuf Nurkic": [
+  "Portland Trail Blazers"
+ ],
+ "Robert Williams III": [
+  "Boston Celtics"
+ ],
+ "Collin Sexton": [
+  "Cleveland Cavaliers"
+ ],
+ "Landry Shamet": [
+  "Philadelphia 76ers"
+ ],
+ "Jerome Robinson": [
+  "LA Clippers"
+ ],
+ "Kevin Knox II": [
+  "New York Knicks"
+ ],
+ "Troy Brown Jr.": [
+  "Washington Wizards"
+ ],
+ "Wendell Carter Jr.": [
+  "Chicago Bulls"
+ ],
+ "Chandler Hutchison": [
+  "Chicago Bulls"
+ ],
+ "Michael Porter Jr.": [
+  "Denver Nuggets"
+ ],
+ "Shai Gilgeous-Alexander": [
+  "LA Clippers"
+ ],
+ "Miles Bridges": [
+  "Charlotte Hornets"
+ ],
+ "Deandre Ayton": [
+  "Phoenix Suns"
+ ],
+ "Mikal Bridges": [
+  "Phoenix Suns"
+ ],
+ "Josh Okogie": [
+  "Minnesota Timberwolves"
+ ],
+ "Zhaire Smith": [
+  "Philadelphia 76ers"
+ ],
+ "Anfernee Simons": [
+  "Portland Trail Blazers"
+ ],
+ "Grayson Allen": [
+  "Utah Jazz"
+ ],
+ "Mo Bamba": [
+  "Orlando Magic"
+ ],
+ "Derrick Rose": [
+  "Minnesota Timberwolves"
+ ],
+ "Derrick Jones Jr.": [
+  "Miami Heat"
+ ],
+ "Marvin Bagley III": [
+  "Sacramento Kings"
+ ],
+ "Trae Young": [
+  "Atlanta Hawks"
+ ],
+ "Kevin Huerter": [
+  "Atlanta Hawks"
+ ],
+ "Omari Spellman": [
+  "Atlanta Hawks"
+ ],
+ "Aaron Holiday": [
+  "Indiana Pacers"
+ ],
+ "Moritz Wagner": [
+  "Los Angeles Lakers"
+ ],
+ "Jaren Jackson Jr.": [
+  "Memphis Grizzlies"
+ ],
+ "Jacob Evans": [
+  "Golden State Warriors"
+ ],
+ "Quinn Cook": [
+  "Golden State Warriors"
+ ],
+ "C.J. Williams": [
+  "LA Clippers"
+ ],
+ "Wade Baldwin IV": [
+  "Memphis Grizzlies"
+ ],
+ "Lou Williams": [
+  "LA Clippers"
+ ],
+ "Dwight Buycks": [
+  "Detroit Pistons"
+ ],
+ "Demetrius Jackson": [
+  "Boston Celtics"
+ ],
+ "Alex Poythress": [
+  "Indiana Pacers"
+ ],
+ "Tyler Cavanaugh": [
+  "Atlanta Hawks"
+ ],
+ "Robert Covington": [
+  "Philadelphia 76ers"
+ ],
+ "LaMarcus Aldridge": [
+  "San Antonio Spurs"
+ ],
+ "Gary Harris": [
+  "Denver Nuggets"
+ ],
+ "Andrew Wiggins": [
+  "Minnesota Timberwolves"
+ ],
+ "Joel Embiid": [
+  "Philadelphia 76ers"
+ ],
+ "Norman Powell": [
+  "Toronto Raptors"
+ ],
+ "Russell Westbrook": [
+  "Oklahoma City Thunder"
+ ],
+ "JaMychal Green": [
+  "Memphis Grizzlies"
+ ],
+ "T.J. Warren": [
+  "Phoenix Suns"
+ ],
+ "Nikola Mirotic": [
+  "Chicago Bulls"
+ ],
+ "Beno Udrih": [
+  "Detroit Pistons"
+ ],
+ "Dante Cunningham": [
+  "New Orleans Pelicans"
+ ],
+ "Alex Len": [
+  "Phoenix Suns"
+ ],
+ "Mason Plumlee": [
+  "Denver Nuggets"
+ ],
+ "Ivan Rabb": [
+  "Memphis Grizzlies"
+ ],
+ "Josh Richardson": [
+  "Miami Heat"
+ ],
+ "Jason Terry": [
+  "Milwaukee Bucks"
+ ],
+ "Manu Ginobili": [
+  "San Antonio Spurs"
+ ],
+ "Damyean Dotson": [
+  "New York Knicks"
+ ],
+ "Patty Mills": [
+  "San Antonio Spurs"
+ ],
+ "Tony Snell": [
+  "Milwaukee Bucks"
+ ],
+ "Terrance Ferguson": [
+  "Oklahoma City Thunder"
+ ],
+ "Alan Williams": [
+  "Phoenix Suns"
+ ],
+ "Sindarius Thornwell": [
+  "LA Clippers"
+ ],
+ "John Wall": [
+  "Washington Wizards"
+ ],
+ "Wes Iwundu": [
+  "Orlando Magic"
+ ],
+ "Mike Muscala": [
+  "Atlanta Hawks"
+ ],
+ "Troy Williams": [
+  "Houston Rockets"
+ ],
+ "Pau Gasol": [
+  "San Antonio Spurs"
+ ],
+ "Dakari Johnson": [
+  "Oklahoma City Thunder"
+ ],
+ "Dillon Brooks": [
+  "Memphis Grizzlies"
+ ],
+ "Nick Collison": [
+  "Oklahoma City Thunder"
+ ],
+ "Ersan Ilyasova": [
+  "Atlanta Hawks"
+ ],
+ "Jarrett Allen": [
+  "Brooklyn Nets"
+ ],
+ "Guerschon Yabusele": [
+  "Boston Celtics"
+ ],
+ "Otto Porter Jr.": [
+  "Washington Wizards"
+ ],
+ "Cedi Osman": [
+  "Cleveland Cavaliers"
+ ],
+ "Semi Ojeleye": [
+  "Boston Celtics"
+ ],
+ "Blake Griffin": [
+  "LA Clippers"
+ ],
+ "Andre Roberson": [
+  "Oklahoma City Thunder"
+ ],
+ "Reggie Bullock": [
+  "Detroit Pistons"
+ ],
+ "Tyler Dorsey": [
+  "Atlanta Hawks"
+ ],
+ "Abdel Nader": [
+  "Boston Celtics"
+ ],
+ "Bogdan Bogdanovic": [
+  "Sacramento Kings"
+ ],
+ "Ike Anigbogu": [
+  "Indiana Pacers"
+ ],
+ "Kyle Korver": [
+  "Cleveland Cavaliers"
+ ],
+ "Frank Mason": [
+  "Sacramento Kings"
+ ],
+ "Shaun Livingston": [
+  "Golden State Warriors"
+ ],
+ "Jawun Evans": [
+  "LA Clippers"
+ ],
+ "Andre Iguodala": [
+  "Golden State Warriors"
+ ],
+ "Tim Hardaway Jr.": [
+  "New York Knicks"
+ ],
+ "Frank Jackson": [
+  "New Orleans Pelicans"
+ ],
+ "Markelle Fultz": [
+  "Philadelphia 76ers"
+ ],
+ "Sterling Brown": [
+  "Milwaukee Bucks"
+ ],
+ "Zaza Pachulia": [
+  "Golden State Warriors"
+ ],
+ "Jordan Bell": [
+  "Golden State Warriors"
+ ],
+ "Serge Ibaka": [
+  "Toronto Raptors"
+ ],
+ "Dion Waiters": [
+  "Miami Heat"
+ ],
+ "James Johnson": [
+  "Miami Heat"
+ ],
+ "De'Aaron Fox": [
+  "Sacramento Kings"
+ ],
+ "OG Anunoby": [
+  "Toronto Raptors"
+ ],
+ "Tyler Lydon": [
+  "Denver Nuggets"
+ ],
+ "Dwayne Bacon": [
+  "Charlotte Hornets"
+ ],
+ "Cristiano Felicio": [
+  "Chicago Bulls"
+ ],
+ "Derrick White": [
+  "San Antonio Spurs"
+ ],
+ "Justin Jackson": [
+  "Sacramento Kings"
+ ],
+ "Davon Reed": [
+  "Phoenix Suns"
+ ],
+ "D.J. Wilson": [
+  "Milwaukee Bucks"
+ ],
+ "Dirk Nowitzki": [
+  "Dallas Mavericks"
+ ],
+ "Jrue Holiday": [
+  "New Orleans Pelicans"
+ ],
+ "Stephen Curry": [
+  "Golden State Warriors"
+ ],
+ "David West": [
+  "Golden State Warriors"
+ ],
+ "Dennis Smith Jr.": [
+  "Dallas Mavericks"
+ ],
+ "Lauri Markkanen": [
+  "Chicago Bulls"
+ ],
+ "Donovan Mitchell": [
+  "Utah Jazz"
+ ],
+ "Tony Bradley": [
+  "Utah Jazz"
+ ],
+ "Frank Ntilikina": [
+  "New York Knicks"
+ ],
+ "Furkan Korkmaz": [
+  "Philadelphia 76ers"
+ ],
+ "Justin Patton": [
+  "Minnesota Timberwolves"
+ ],
+ "Kyle Kuzma": [
+  "Los Angeles Lakers"
+ ],
+ "Josh Hart": [
+  "Los Angeles Lakers"
+ ],
+ "Lonzo Ball": [
+  "Los Angeles Lakers"
+ ],
+ "Josh Jackson": [
+  "Phoenix Suns"
+ ],
+ "Zach Collins": [
+  "Portland Trail Blazers"
+ ],
+ "Caleb Swanigan": [
+  "Portland Trail Blazers"
+ ],
+ "Harry Giles III": [
+  "Sacramento Kings"
+ ],
+ "Malik Monk": [
+  "Charlotte Hornets"
+ ],
+ "John Collins": [
+  "Atlanta Hawks"
+ ],
+ "Bam Adebayo": [
+  "Miami Heat"
+ ],
+ "Wayne Selden": [
+  "Memphis Grizzlies"
+ ],
+ "Jonathan Isaac": [
+  "Orlando Magic"
+ ],
+ "Jayson Tatum": [
+  "Boston Celtics"
+ ],
+ "Ante Zizic": [
+  "Boston Celtics"
+ ],
+ "Luke Kennard": [
+  "Detroit Pistons"
+ ],
+ "TJ Leaf": [
+  "Indiana Pacers"
+ ],
+ "Steven Adams": [
+  "Oklahoma City Thunder"
+ ],
+ "Rudy Gobert": [
+  "Utah Jazz"
+ ],
+ "Gorgui Dieng": [
+  "Minnesota Timberwolves"
+ ],
+ "Victor Oladipo": [
+  "Oklahoma City Thunder"
+ ],
+ "Cody Zeller": [
+  "Charlotte Hornets"
+ ],
+ "Dennis Schroder": [
+  "Atlanta Hawks"
+ ],
+ "JR Smith": [
+  "Cleveland Cavaliers"
+ ],
+ "Giannis Antetokounmpo": [
+  "Milwaukee Bucks"
+ ],
+ "Elton Brand": [
+  "Philadelphia 76ers"
+ ],
+ "Steve Novak": [
+  "Milwaukee Bucks"
+ ],
+ "Brandon Ingram": [
+  "Los Angeles Lakers"
+ ],
+ "Tarik Black": [
+  "Los Angeles Lakers"
+ ],
+ "Marcus Paige": [
+  "Utah Jazz"
+ ],
+ "Semaj Christon": [
+  "Oklahoma City Thunder"
+ ],
+ "Joel Bolomboy": [
+  "Utah Jazz"
+ ],
+ "LeBron James": [
+  "Cleveland Cavaliers"
+ ],
+ "Marcelo Huertas": [
+  "Los Angeles Lakers"
+ ],
+ "Kay Felder": [
+  "Cleveland Cavaliers"
+ ],
+ "Miles Plumlee": [
+  "Milwaukee Bucks"
+ ],
+ "James Jones": [
+  "Cleveland Cavaliers"
+ ],
+ "Thon Maker": [
+  "Milwaukee Bucks"
+ ],
+ "Malcolm Brogdon": [
+  "Milwaukee Bucks"
+ ],
+ "Richard Jefferson": [
+  "Cleveland Cavaliers"
+ ],
+ "Juancho Hernangomez": [
+  "Denver Nuggets"
+ ],
+ "Tyler Zeller": [
+  "Boston Celtics"
+ ],
+ "Maurice Harkless": [
+  "Portland Trail Blazers"
+ ],
+ "Ben Bentil": [
+  "Boston Celtics"
+ ],
+ "Alex Abrines": [
+  "Oklahoma City Thunder"
+ ],
+ "Cheick Diallo": [
+  "New Orleans Pelicans"
+ ],
+ "Tomas Satoransky": [
+  "Washington Wizards"
+ ],
+ "Mike Miller": [
+  "Denver Nuggets"
+ ],
+ "Chinanu Onuaku": [
+  "Houston Rockets"
+ ],
+ "Henry Ellenson": [
+  "Detroit Pistons"
+ ],
+ "Denzel Valentine": [
+  "Chicago Bulls"
+ ],
+ "Andre Drummond": [
+  "Detroit Pistons"
+ ],
+ "Skal Labissiere": [
+  "Sacramento Kings"
+ ],
+ "Paul Zipser": [
+  "Chicago Bulls"
+ ],
+ "Dario Saric": [
+  "Philadelphia 76ers"
+ ],
+ "Michael Gbinije": [
+  "Detroit Pistons"
+ ],
+ "DeMar DeRozan": [
+  "Toronto Raptors"
+ ],
+ "Mike Conley": [
+  "Memphis Grizzlies"
+ ],
+ "Sasha Vujacic": [
+  "New York Knicks"
+ ],
+ "Diamond Stone": [
+  "LA Clippers"
+ ],
+ "Kris Humphries": [
+  "Atlanta Hawks"
+ ],
+ "DeAndre' Bembry": [
+  "Atlanta Hawks"
+ ],
+ "Georgios Papagiannis": [
+  "Sacramento Kings"
+ ],
+ "Damian Jones": [
+  "Golden State Warriors"
+ ],
+ "Allen Crabbe": [
+  "Portland Trail Blazers"
+ ],
+ "Tyler Johnson": [
+  "Miami Heat"
+ ],
+ "Boban Marjanovic": [
+  "Detroit Pistons"
+ ],
+ "Malachi Richardson": [
+  "Sacramento Kings"
+ ],
+ "Brice Johnson": [
+  "LA Clippers"
+ ],
+ "Malik Beasley": [
+  "Denver Nuggets"
+ ],
+ "Marvin Williams": [
+  "Charlotte Hornets"
+ ],
+ "Meyers Leonard": [
+  "Portland Trail Blazers"
+ ],
+ "Deyonta Davis": [
+  "Memphis Grizzlies"
+ ],
+ "Andrew Harrison": [
+  "Memphis Grizzlies"
+ ],
+ "James Harden": [
+  "Houston Rockets"
+ ],
+ "AJ Hammons": [
+  "Dallas Mavericks"
+ ],
+ "Lance Thomas": [
+  "New York Knicks"
+ ],
+ "Deron Williams": [
+  "Dallas Mavericks"
+ ],
+ "Jamal Crawford": [
+  "LA Clippers"
+ ],
+ "Isaiah Whitehead": [
+  "Brooklyn Nets"
+ ],
+ "Darrell Arthur": [
+  "Denver Nuggets"
+ ],
+ "Jakob Poeltl": [
+  "Toronto Raptors"
+ ],
+ "Jake Layman": [
+  "Portland Trail Blazers"
+ ],
+ "Nicolas Batum": [
+  "Charlotte Hornets"
+ ],
+ "Kent Bazemore": [
+  "Atlanta Hawks"
+ ],
+ "Stephen Zimmerman": [
+  "Orlando Magic"
+ ],
+ "Evan Fournier": [
+  "Orlando Magic"
+ ],
+ "Jordan Clarkson": [
+  "Los Angeles Lakers"
+ ],
+ "Hassan Whiteside": [
+  "Miami Heat"
+ ],
+ "Wesley Johnson": [
+  "LA Clippers"
+ ],
+ "Luc Mbah": [
+  "LA Clippers"
+ ],
+ "Tyler Ulis": [
+  "Phoenix Suns"
+ ],
+ "Dragan Bender": [
+  "Phoenix Suns"
+ ],
+ "Marquese Chriss": [
+  "Phoenix Suns"
+ ],
+ "Willy Hernangomez": [
+  "New York Knicks"
+ ],
+ "Kris Dunn": [
+  "Minnesota Timberwolves"
+ ],
+ "Timothe Luwawu-Cabarrot": [
+  "Philadelphia 76ers"
+ ]
+}

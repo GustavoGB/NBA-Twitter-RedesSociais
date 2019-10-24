@@ -16,6 +16,9 @@ def change_order(old_string):
         new_string = words[-1] + " " + words[0]
     return new_string
 
+#Para incluir jogadores históricos
+hist_players_button = driver.find_element_by_xpath("//div[@class='switch tiny']/label[@class='switch-paddle']")
+hist_players_button.click()
 
 players = driver.find_elements_by_xpath("//li[@class='players-list__name']")
 
