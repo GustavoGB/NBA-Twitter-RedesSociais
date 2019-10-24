@@ -60,32 +60,38 @@ transfers = driver.find_elements_by_xpath("//div[@class='transactions-list__desc
 #years = driver.find_elements_by_xpath("//div[@class='small-12 large-2 columns transactions-list__date']/span")
 years = []
 for i in range(len(containers)):
+    print(i)
+    all_containers_transfers = []
     arg = "//div[@class='transactions-list__date columns large-12']" + "[" + str(i+1) + "]" + "/" + "div[@class='small-12 large-2 columns transactions-list__date']/span"
     year = driver.find_element_by_xpath(arg)
 
+    arg_last ="//div[@class='transactions-list__date columns large-12']" + "[" + str(i+1) + "]"+ "/div[@class='small-12 large-10 columns']/div[@class='small-12 large-12 columns transactions-list__container last']/div[@class='transactions-list__description small-6 medium-5 large-6 columns']"
+    last = driver.find_element_by_xpath(arg_last)
+    all_containers_transfers.append(last.text)
+
     j=1
-    all_containers_transfers = []
     while(1):
         try:
-            arg_last ="//div[@class='transactions-list__date columns large-12']" + "[" + str(i+1) + "]"+ "/div[@class='small-12 large-10 columns']/div[@class='small-12 large-12 columns transactions-list__container']" + "[" + str(j) + "]"+ "/div[@class='transactions-list__description small-6 medium-5 large-6 columns']"
-            last = driver.find_element_by_xpath(arg_last)
-
+            print("j:",j)
             arg1 ="//div[@class='transactions-list__date columns large-12']" + "[" + str(i+1) + "]"+ "/div[@class='small-12 large-10 columns']/div[@class='small-12 large-12 columns transactions-list__container']" + "[" + str(j) + "]"+ "/div[@class='transactions-list__description small-6 medium-5 large-6 columns']"
-            container_transfers = driver.find_elements_by_xpath(arg1)
-            if(len(container_transfers)>0):
-                for transfer in container_transfers:
-                    all_containers_transfers.append(transfer.text)
-                    all_containers_transfers.append(last.text)            
+            container_transfer = driver.find_element_by_xpath(arg1)
+            if(container_transfer):
+                all_containers_transfers.append(container_transfer.text)
+                j = j + 1
+ 
             else:
                 break
+        except Exception as e:
+            break
+    print("sai")
     virg1 = year.text.find(",")
     string = year.text[virg1+1:] #Achando só o ano
     virg2 = string.find(",")
     string = string[virg2+1:]
 
-    for transfer in container_transfers: #criando uma lista de anos com o mesmo tamanho
+    for i in range(len(all_containers_transfers)): #criando uma lista de anos com o mesmo tamanho
         years.append(string)
-        print(len(container_transfers))
+
 
 print(len(years), len(transfers))
 
