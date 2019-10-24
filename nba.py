@@ -55,9 +55,30 @@ for i in range(1):
 
     see_more.click()
 
+containers = driver.find_elements_by_xpath("//div[@class='transactions-list__date columns large-12']")
 transfers = driver.find_elements_by_xpath("//div[@class='transactions-list__description small-6 medium-5 large-6 columns']")
+#years = driver.find_elements_by_xpath("//div[@class='small-12 large-2 columns transactions-list__date']/span")
+years = []
+for i in range(len(containers)):
+    arg = "//div[@class='transactions-list__date columns large-12']" + "[" + str(i+1) + "]" + "/" + "div[@class='small-12 large-2 columns transactions-list__date']/span"
+    year = driver.find_element_by_xpath(arg)
+    arg1 ="//div[@class='transactions-list__date columns large-12']" + "[" + str(i+1) + "]"+ "/div[@class='small-12 large-10 columns']/div[@class='small-12 large-12 columns transactions-list__container'][3]/div[@class='transactions-list__description small-6 medium-5 large-6 columns']"
+    container_transfers = driver.find_elements_by_xpath(arg1)
 
+    ###
+    virg1 = year.text.find(",")
+    string = year.text[virg1+1:] #Achando só o ano
+    virg2 = string.find(",")
+    string = string[virg2+1:]
+    ###
 
+    for transfer in container_transfers: #criando uma lista de anos com o mesmo tamanho
+        years.append(string)
+        print(len(container_transfers))
+
+print(len(years), len(transfers))
+
+'''
 for t in transfers:
     if "re-signed" in t.text:
         list_re_signed.append(t.text)
@@ -85,3 +106,4 @@ with open("re_signed.json", "w") as f:
         if dict_json != -1:
             dict_re_signed.update(dict_json)
     json.dump(dict_re_signed, f, indent=1)
+    '''

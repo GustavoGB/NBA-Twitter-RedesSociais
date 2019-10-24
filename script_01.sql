@@ -18,6 +18,7 @@ CREATE TABLE transferencia (
 	id_transferencia INT NOT NULL auto_increment,
     id_jogador INT NOT NULL,
     id_time INT NOT NULL,
+	ano INT NOT NULL,
 	FOREIGN KEY (id_jogador)
 		REFERENCES jogador (id_jogador),
 	FOREIGN KEY (id_time)
