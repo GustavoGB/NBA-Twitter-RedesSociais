@@ -62,15 +62,26 @@ years = []
 for i in range(len(containers)):
     arg = "//div[@class='transactions-list__date columns large-12']" + "[" + str(i+1) + "]" + "/" + "div[@class='small-12 large-2 columns transactions-list__date']/span"
     year = driver.find_element_by_xpath(arg)
-    arg1 ="//div[@class='transactions-list__date columns large-12']" + "[" + str(i+1) + "]"+ "/div[@class='small-12 large-10 columns']/div[@class='small-12 large-12 columns transactions-list__container'][3]/div[@class='transactions-list__description small-6 medium-5 large-6 columns']"
-    container_transfers = driver.find_elements_by_xpath(arg1)
 
-    ###
+    j=1
+    all_containers_transfers = []
+    while(1):
+        try:
+            arg_last ="//div[@class='transactions-list__date columns large-12']" + "[" + str(i+1) + "]"+ "/div[@class='small-12 large-10 columns']/div[@class='small-12 large-12 columns transactions-list__container']" + "[" + str(j) + "]"+ "/div[@class='transactions-list__description small-6 medium-5 large-6 columns']"
+            last = driver.find_element_by_xpath(arg_last)
+
+            arg1 ="//div[@class='transactions-list__date columns large-12']" + "[" + str(i+1) + "]"+ "/div[@class='small-12 large-10 columns']/div[@class='small-12 large-12 columns transactions-list__container']" + "[" + str(j) + "]"+ "/div[@class='transactions-list__description small-6 medium-5 large-6 columns']"
+            container_transfers = driver.find_elements_by_xpath(arg1)
+            if(len(container_transfers)>0):
+                for transfer in container_transfers:
+                    all_containers_transfers.append(transfer.text)
+                    all_containers_transfers.append(last.text)            
+            else:
+                break
     virg1 = year.text.find(",")
     string = year.text[virg1+1:] #Achando só o ano
     virg2 = string.find(",")
     string = string[virg2+1:]
-    ###
 
     for transfer in container_transfers: #criando uma lista de anos com o mesmo tamanho
         years.append(string)
