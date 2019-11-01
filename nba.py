@@ -49,21 +49,24 @@ driver.get("https://stats.nba.com/transactions/")
 print(driver.current_url)
 assert "" in driver.current_url
 
-for i in range(25):
-    see_more = driver.find_element_by_xpath("//div[@class='button-container small-12 columns']/a[@class='button']")
+for i in range(100):
+    try:
+        see_more = driver.find_element_by_xpath("//div[@class='button-container small-12 columns']/a[@class='button']")
 
-    actions = ActionChains(driver)
-    actions.move_to_element(see_more)
-    actions.perform()
+        actions = ActionChains(driver)
+        actions.move_to_element(see_more)
+        actions.perform()
 
-    see_more.click()
+        see_more.click()
+    except:
+        break #CHEGOU NO COMEÇO DE 2015 
 
 containers = driver.find_elements_by_xpath("//div[@class='transactions-list__date columns large-12']")
 transfers = driver.find_elements_by_xpath("//div[@class='transactions-list__description small-6 medium-5 large-6 columns']")
 years = []
 years_waived = []
 for i in range(len(containers)):
-    print("Containeir: ",i+1)
+    print("Container: ",i+1)
     all_containers_transfers = []
     arg = "//div[@class='transactions-list__date columns large-12']" + "[" + str(i+1) + "]" + "/" + "div[@class='small-12 large-2 columns transactions-list__date']/span"
     year = driver.find_element_by_xpath(arg)
@@ -98,7 +101,7 @@ for i in range(len(containers)):
             years.append(string) #Apenas os signed importam, então o 
                                 #tamanho dessas listas deve ser igual
         elif("waived" in all_containers_transfers[i]):
-            print("waived")
+            #print("waived")
             years_waived.append(string) #Precisamos de uma lista sincronizada só para os waiveds
 for t in transfers:
     if "re-signed" in t.text:
