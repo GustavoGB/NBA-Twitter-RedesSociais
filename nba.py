@@ -89,6 +89,7 @@ for i in range(len(containers)):
                 break
         except Exception as e:
             break
+            
     virg1 = year.text.find(",")
     string = year.text[virg1+1:] #Achando só o ano
     virg2 = string.find(",")
