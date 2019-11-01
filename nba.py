@@ -49,7 +49,7 @@ driver.get("https://stats.nba.com/transactions/")
 print(driver.current_url)
 assert "" in driver.current_url
 
-for i in range(15):
+for i in range(25):
     see_more = driver.find_element_by_xpath("//div[@class='button-container small-12 columns']/a[@class='button']")
 
     actions = ActionChains(driver)
