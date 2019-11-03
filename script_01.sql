@@ -4,7 +4,7 @@ USE redes;
 
 CREATE TABLE jogador (
 		id_jogador INT NOT NULL auto_increment,
-        nome VARCHAR(80),
+        nome VARCHAR(80) UNIQUE,
         PRIMARY KEY (id_jogador)
 );	
 
@@ -23,7 +23,7 @@ CREATE TABLE transferencia (
 		REFERENCES jogador (id_jogador),
 	FOREIGN KEY (id_time)
 		REFERENCES times (id_time),
-	PRIMARY KEY (id_transferencia)
+	PRIMARY KEY (id_transferencia, id_jogador, id_time, ano)
 );
 
 
@@ -36,7 +36,7 @@ CREATE TABLE waived (
 		REFERENCES jogador (id_jogador),
 	FOREIGN KEY (id_time)
 		REFERENCES times (id_time),
-	PRIMARY KEY (id_waived)
+	PRIMARY KEY (id_waived, id_jogador, id_time)
 );
 
 CREATE TABLE jogador_tag (
