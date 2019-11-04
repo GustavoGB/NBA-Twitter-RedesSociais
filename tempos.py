@@ -122,3 +122,228 @@ with open("in_fim_2019_waived.json", 'w') as f: #colocar jogador e time
     if dict_json2 != -1:
         dict_waived_2019.update(dict_json2)
     json.dump(dict_waived_2019, f, indent=1)
+
+
+### 2018-2019 lista ###
+driver.get("https://www.basketball-reference.com/leagues/NBA_2019_transactions.html")
+print(driver.current_url)
+assert "basketball-reference" in driver.current_url
+paragrafos = driver.find_elements_by_xpath("//p")
+j = 0
+a = 0
+signed = -1
+waived = -1
+for i in range(len(paragrafos)):
+    print(i)
+    try: 
+        if("re-signed" in paragrafos[i].text):
+            pass
+        elif("assigned" in paragrafos[i].text):
+            pass
+        elif(("signed" in paragrafos[i].text) and (j == 0)):
+            first_signed = paragrafos[i].text
+            j = 1
+        elif( ("signed" in paragrafos[i].text) and (j == 1) ):
+            signed = paragrafos[i].text
+        elif( ("waived" in paragrafos[i].text) and (a == 0) ):
+            first_waived = paragrafos[i].text
+            a = 1  
+        elif( ("waived" in paragrafos[i].text) and (a == 1) ):
+            waived = paragrafos[i].text
+        
+        if(signed != -1):
+            last_signed = signed
+        if(waived != -1):
+            last_waived = waived
+
+    except Exception as e:
+        print(e)
+        break
+dict_signed_2018 = {}
+with open("in_fim_2018_signed.json", 'w') as f: #colocar jogador e time
+    dict_json = parse_to_json(first_signed, list_teams, all_players)
+    dict_json2 = parse_to_json(last_signed, list_teams, all_players)
+    if dict_json != -1:
+        dict_signed_2018.update(dict_json)
+    if dict_json2 != -1:
+        dict_signed_2018.update(dict_json2)
+    json.dump(dict_signed_2018, f, indent=1)
+
+dict_waived_2018 = {}
+with open("in_fim_2018_waived.json", 'w') as f: #colocar jogador e time
+    dict_json = parse_to_json(first_waived, list_teams, all_players)
+    dict_json2 = parse_to_json(last_waived, list_teams, all_players)
+    if dict_json != -1:
+        dict_waived_2018.update(dict_json)
+    if dict_json2 != -1:
+        dict_waived_2018.update(dict_json2)
+    json.dump(dict_waived_2018, f, indent=1)
+
+
+
+### 2017-2018 lista ###
+driver.get("https://www.basketball-reference.com/leagues/NBA_2018_transactions.html")
+print(driver.current_url)
+assert "basketball-reference" in driver.current_url
+paragrafos = driver.find_elements_by_xpath("//p")
+j = 0
+a = 0
+signed = -1
+waived = -1
+for i in range(len(paragrafos)):
+    print(i)
+    try: 
+        if("re-signed" in paragrafos[i].text):
+            pass
+        elif("assigned" in paragrafos[i].text):
+            pass
+        elif(("signed" in paragrafos[i].text) and (j == 0)):
+            first_signed = paragrafos[i].text
+            j = 1
+        elif( ("signed" in paragrafos[i].text) and (j == 1) ):
+            signed = paragrafos[i].text
+        elif( ("waived" in paragrafos[i].text) and (a == 0) ):
+            first_waived = paragrafos[i].text
+            a = 1  
+        elif( ("waived" in paragrafos[i].text) and (a == 1) ):
+            waived = paragrafos[i].text
+        
+        if(signed != -1):
+            last_signed = signed
+        if(waived != -1):
+            last_waived = waived
+
+    except Exception as e:
+        print(e)
+        break
+dict_signed_2017 = {}
+with open("in_fim_2017_signed.json", 'w') as f: #colocar jogador e time
+    dict_json = parse_to_json(first_signed, list_teams, all_players)
+    dict_json2 = parse_to_json(last_signed, list_teams, all_players)
+    if dict_json != -1:
+        dict_signed_2017.update(dict_json)
+    if dict_json2 != -1:
+        dict_signed_2017.update(dict_json2)
+    json.dump(dict_signed_2017, f, indent=1)
+
+dict_waived_2017 = {}
+with open("in_fim_2017_waived.json", 'w') as f: #colocar jogador e time
+    dict_json = parse_to_json(first_waived, list_teams, all_players)
+    dict_json2 = parse_to_json(last_waived, list_teams, all_players)
+    if dict_json != -1:
+        dict_waived_2017.update(dict_json)
+    if dict_json2 != -1:
+        dict_waived_2017.update(dict_json2)
+    json.dump(dict_waived_2017, f, indent=1)
+
+
+### 2016-2017 lista ###
+driver.get("https://www.basketball-reference.com/leagues/NBA_2017_transactions.html")
+print(driver.current_url)
+assert "basketball-reference" in driver.current_url
+paragrafos = driver.find_elements_by_xpath("//p")
+j = 0
+a = 0
+signed = -1
+waived = -1
+for i in range(len(paragrafos)):
+    print(i)
+    try: 
+        if("re-signed" in paragrafos[i].text):
+            pass
+        elif("assigned" in paragrafos[i].text):
+            pass
+        elif(("signed" in paragrafos[i].text) and (j == 0)):
+            first_signed = paragrafos[i].text
+            j = 1
+        elif( ("signed" in paragrafos[i].text) and (j == 1) ):
+            signed = paragrafos[i].text
+        elif( ("waived" in paragrafos[i].text) and (a == 0) ):
+            first_waived = paragrafos[i].text
+            a = 1  
+        elif( ("waived" in paragrafos[i].text) and (a == 1) ):
+            waived = paragrafos[i].text
+        
+        if(signed != -1):
+            last_signed = signed
+        if(waived != -1):
+            last_waived = waived
+
+    except Exception as e:
+        print(e)
+        break
+dict_signed_2016 = {}
+with open("in_fim_2016_signed.json", 'w') as f: #colocar jogador e time
+    dict_json = parse_to_json(first_signed, list_teams, all_players)
+    dict_json2 = parse_to_json(last_signed, list_teams, all_players)
+    if dict_json != -1:
+        dict_signed_2016.update(dict_json)
+    if dict_json2 != -1:
+        dict_signed_2016.update(dict_json2)
+    json.dump(dict_signed_2016, f, indent=1)
+
+dict_waived_2016 = {}
+with open("in_fim_2016_waived.json", 'w') as f: #colocar jogador e time
+    dict_json = parse_to_json(first_waived, list_teams, all_players)
+    dict_json2 = parse_to_json(last_waived, list_teams, all_players)
+    if dict_json != -1:
+        dict_waived_2016.update(dict_json)
+    if dict_json2 != -1:
+        dict_waived_2016.update(dict_json2)
+    json.dump(dict_waived_2016, f, indent=1)
+
+
+### 2015-2016 lista ###
+driver.get("https://www.basketball-reference.com/leagues/NBA_2016_transactions.html")
+print(driver.current_url)
+assert "basketball-reference" in driver.current_url
+paragrafos = driver.find_elements_by_xpath("//p")
+j = 0
+a = 0
+signed = -1
+waived = -1
+for i in range(len(paragrafos)):
+    print(i)
+    try: 
+        if("re-signed" in paragrafos[i].text):
+            pass
+        elif("assigned" in paragrafos[i].text):
+            pass
+        elif(("signed" in paragrafos[i].text) and (j == 0)):
+            first_signed = paragrafos[i].text
+            j = 1
+        elif( ("signed" in paragrafos[i].text) and (j == 1) ):
+            signed = paragrafos[i].text
+        elif( ("waived" in paragrafos[i].text) and (a == 0) ):
+            first_waived = paragrafos[i].text
+            a = 1  
+        elif( ("waived" in paragrafos[i].text) and (a == 1) ):
+            waived = paragrafos[i].text
+        
+        if(signed != -1):
+            last_signed = signed
+        if(waived != -1):
+            last_waived = waived
+
+    except Exception as e:
+        print(e)
+        break
+dict_signed_2015 = {}
+with open("in_fim_2015_signed.json", 'w') as f: #colocar jogador e time
+    dict_json = parse_to_json(first_signed, list_teams, all_players)
+    dict_json2 = parse_to_json(last_signed, list_teams, all_players)
+    if dict_json != -1:
+        dict_signed_2015.update(dict_json)
+    if dict_json2 != -1:
+        dict_signed_2015.update(dict_json2)
+    json.dump(dict_signed_2015, f, indent=1)
+
+dict_waived_2015 = {}
+with open("in_fim_2015_waived.json", 'w') as f: #colocar jogador e time
+    dict_json = parse_to_json(first_waived, list_teams, all_players)
+    dict_json2 = parse_to_json(last_waived, list_teams, all_players)
+    if dict_json != -1:
+        dict_waived_2015.update(dict_json)
+    if dict_json2 != -1:
+        dict_waived_2015.update(dict_json2)
+    json.dump(dict_waived_2015, f, indent=1)
