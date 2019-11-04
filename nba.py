@@ -31,12 +31,14 @@ def parse_to_json(transfer, list_teams, list_players):
         if player in transfer:
             key = player
     if key == None: #Caso o jogador não esteja na base, não queremos adicionar uma chave vazia
+        print(player)
         return -1
     
     for team in list_teams:
         if team in transfer:
             key_team = team
     if key_team == None: #Caso o time não esteja na base, não queremos adicionar uma chave vazia
+        print(team)
         return -1
     l_temp = []
     l_temp.append(key_team)
@@ -49,7 +51,7 @@ driver.get("https://stats.nba.com/transactions/")
 print(driver.current_url)
 assert "" in driver.current_url
 
-for i in range(100):
+for i in range(15):
     try:
         see_more = driver.find_element_by_xpath("//div[@class='button-container small-12 columns']/a[@class='button']")
 
@@ -104,6 +106,7 @@ for i in range(len(containers)):
         elif("waived" in all_containers_transfers[i]):
             #print("waived")
             years_waived.append(string) #Precisamos de uma lista sincronizada só para os waiveds
+
 for t in transfers:
     if "re-signed" in t.text:
         list_re_signed.append(t.text)
