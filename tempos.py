@@ -5,6 +5,40 @@ from selenium.webdriver.common.action_chains import ActionChains
 import json
 import os
 
+if "all_players.json":
+    with open("all_players.json", 'r') as f:
+        all_players = json.load(f)
+
+list_teams = ["Golden State Warriors", "LA Clippers","Boston Celtics", "Chicago Bulls", "Houston Rockets", "Cleveland Cavaliers", 
+                "Dallas Mavericks", "Los Angeles Lakers", "Brooklyn Nets", "Memphis Grizzlies", "Washington Wizards", "Oklahoma City Thunder", 
+                "Miami Heat", "Minnesota Timberwolves", "Indiana Pacers", "Denver Nuggets", "Charlotte Hornets", "Philadelphia 76ers", 
+                "Portland Trail Blazers", "Boston Celtics", "Milwaukee Bucks", "New Orleans Pelicans", "Toronto Raptors", "Phoenix Suns",
+                "New York Knicks", "Detroit Pistons", "Utah Jazz", "Sacramento Kings", "Atlanta Hawks", "Orlando Magic", "San Antonio Spurs"]
+
+
+def parse_to_json(transfer, list_teams, list_players):
+    dict_json = {}
+    key = None
+    key_team = None
+
+    for player in list_players:
+        if player in transfer:
+            key = player
+    if key == None: #Caso o jogador não esteja na base, não queremos adicionar uma chave vazia
+        print(player)
+        return -1
+    
+    for team in list_teams:
+        if team in transfer:
+            key_team = team
+    if key_team == None: #Caso o time não esteja na base, não queremos adicionar uma chave vazia
+        print(team)
+        return -1
+    l_temp = []
+    l_temp.append(key_team)
+    dict_json[key] = l_temp
+    return dict_json
+
 options = webdriver.ChromeOptions()
 options.add_argument('--ignore-certificate-errors')
 options.add_argument('--ignore-ssl-errors')
@@ -48,5 +82,43 @@ for i in range(len(paragrafos)):
         print(e)
         break
 
-print(first_signed, last_signed)
-print(first_waived, last_waived)
+try:
+    os.remove("in_fim_2019_signed.json")
+    os.remove("in_fim_2019_waived.json")
+
+    os.remove("in_fim_2018_signed.json")
+    os.remove("in_fim_2018_waived.json")
+
+    os.remove("in_fim_2017_signed.json")
+    os.remove("in_fim_2017_waived.json")
+
+    os.remove("in_fim_2016_signed.json")
+    os.remove("in_fim_2016_waived.json")
+
+    os.remove("in_fim_2015_signed.json")
+    os.remove("in_fim_2015_waived.json")
+
+    os.remove("in_fim_2014_signed.json")
+    os.remove("in_fim_2014_waived.json")
+except:
+    pass
+
+dict_signed_2019 = {}
+with open("in_fim_2019_signed.json", 'w') as f: #colocar jogador e time
+    dict_json = parse_to_json(first_signed, list_teams, all_players)
+    dict_json2 = parse_to_json(last_signed, list_teams, all_players)
+    if dict_json != -1:
+        dict_signed_2019.update(dict_json)
+    if dict_json2 != -1:
+        dict_signed_2019.update(dict_json2)
+    json.dump(dict_signed_2019, f, indent=1)
+
+dict_waived_2019 = {}
+with open("in_fim_2019_waived.json", 'w') as f: #colocar jogador e time
+    dict_json = parse_to_json(first_waived, list_teams, all_players)
+    dict_json2 = parse_to_json(last_waived, list_teams, all_players)
+    if dict_json != -1:
+        dict_waived_2019.update(dict_json)
+    if dict_json2 != -1:
+        dict_waived_2019.update(dict_json2)
+    json.dump(dict_waived_2019, f, indent=1)
