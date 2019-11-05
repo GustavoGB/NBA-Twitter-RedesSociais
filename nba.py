@@ -51,7 +51,7 @@ driver.get("https://stats.nba.com/transactions/")
 print(driver.current_url)
 assert "" in driver.current_url
 
-for i in range(1):
+for i in range(15):
     try:
         see_more = driver.find_element_by_xpath("//div[@class='button-container small-12 columns']/a[@class='button']")
 
@@ -90,26 +90,26 @@ if "in_fim_2019_signed.json" and "in_fim_2019_waived.json" and "in_fim_2018_sign
     with open("in_fim_2015_waived.json", 'r') as f:
         in_fim_2015_waived = json.load(f)
 
-    dict_[list(in_fim_2019_signed.keys())[1]] = in_fim_2019_signed[list(in_fim_2019_signed.keys())[1]]
-    dict_[list(in_fim_2019_waived.keys())[1]] = in_fim_2019_waived[list(in_fim_2019_waived.keys())[1]]
-    dict_[list(in_fim_2018_signed.keys())[1]] = in_fim_2018_signed[list(in_fim_2018_signed.keys())[1]]
-    dict_[list(in_fim_2018_waived.keys())[1]] = in_fim_2018_waived[list(in_fim_2018_waived.keys())[1]]
-    dict_[list(in_fim_2017_signed.keys())[1]] = in_fim_2017_signed[list(in_fim_2017_signed.keys())[1]]
-    dict_[list(in_fim_2017_waived.keys())[1]] = in_fim_2017_waived[list(in_fim_2017_waived.keys())[1]]
-    dict_[list(in_fim_2016_signed.keys())[1]] = in_fim_2016_signed[list(in_fim_2016_signed.keys())[1]]
-    dict_[list(in_fim_2016_waived.keys())[1]] = in_fim_2016_waived[list(in_fim_2016_waived.keys())[1]]
-    dict_[list(in_fim_2015_signed.keys())[1]] = in_fim_2015_signed[list(in_fim_2015_signed.keys())[1]]
-    dict_[list(in_fim_2015_waived.keys())[1]] = in_fim_2015_waived[list(in_fim_2015_waived.keys())[1]]
+    dict_[list(in_fim_2019_signed.keys())[0]] = in_fim_2019_signed[list(in_fim_2019_signed.keys())[0]]
+    dict_[list(in_fim_2019_waived.keys())[0]] = in_fim_2019_waived[list(in_fim_2019_waived.keys())[0]]
+    dict_[list(in_fim_2018_signed.keys())[0]] = in_fim_2018_signed[list(in_fim_2018_signed.keys())[0]]
+    dict_[list(in_fim_2018_waived.keys())[0]] = in_fim_2018_waived[list(in_fim_2018_waived.keys())[0]]
+    dict_[list(in_fim_2017_signed.keys())[0]] = in_fim_2017_signed[list(in_fim_2017_signed.keys())[0]]
+    dict_[list(in_fim_2017_waived.keys())[0]] = in_fim_2017_waived[list(in_fim_2017_waived.keys())[0]]
+    dict_[list(in_fim_2016_signed.keys())[0]] = in_fim_2016_signed[list(in_fim_2016_signed.keys())[0]]
+    dict_[list(in_fim_2016_waived.keys())[0]] = in_fim_2016_waived[list(in_fim_2016_waived.keys())[0]]
+    dict_[list(in_fim_2015_signed.keys())[0]] = in_fim_2015_signed[list(in_fim_2015_signed.keys())[0]]
+    dict_[list(in_fim_2015_waived.keys())[0]] = in_fim_2015_waived[list(in_fim_2015_waived.keys())[0]]
 
-    in_fim_signed.append(list(in_fim_2019_signed.keys())[1])
-    in_fim_signed.append(list(in_fim_2018_signed.keys())[1])
-    in_fim_signed.append(list(in_fim_2017_signed.keys())[1])
-    in_fim_signed.append(list(in_fim_2016_signed.keys())[1])
+    in_fim_signed.append(list(in_fim_2019_signed.keys())[0])
+    in_fim_signed.append(list(in_fim_2018_signed.keys())[0])
+    in_fim_signed.append(list(in_fim_2017_signed.keys())[0])
+    in_fim_signed.append(list(in_fim_2016_signed.keys())[0])
 
-    in_fim_waived.append(list(in_fim_2019_waived.keys())[1])
-    in_fim_waived.append(list(in_fim_2018_waived.keys())[1])
-    in_fim_waived.append(list(in_fim_2017_waived.keys())[1])
-    in_fim_waived.append(list(in_fim_2016_waived.keys())[1])
+    in_fim_waived.append(list(in_fim_2019_waived.keys())[0])
+    in_fim_waived.append(list(in_fim_2018_waived.keys())[0])
+    in_fim_waived.append(list(in_fim_2017_waived.keys())[0])
+    in_fim_waived.append(list(in_fim_2016_waived.keys())[0])
 
 
     years_signed = []
@@ -129,6 +129,7 @@ if "in_fim_2019_signed.json" and "in_fim_2019_waived.json" and "in_fim_2018_sign
             years_signed.append(year_signed)
         elif "waived" in t.text:
             if(in_fim_waived[0] in t.text) and (dict_[in_fim_waived[0]][0] in t.text):
+                print(t.text)
                 year_waived-=1
                 in_fim_waived = in_fim_waived[1:]
             list_waived.append(t.text)
