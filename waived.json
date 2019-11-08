@@ -1,274 +1,4242 @@
 {
  "Joe Johnson": [
-  "Detroit Pistons",
-  "2019"
+  [
+   "Detroit Pistons",
+   "2019"
+  ],
+  [
+   "Sacramento Kings",
+   "2018"
+  ],
+  [
+   "Brooklyn Nets",
+   "2016"
+  ]
  ],
  "Demetrius Jackson": [
-  "Los Angeles Lakers",
-  "2019"
+  [
+   "Los Angeles Lakers",
+   "2019"
+  ],
+  [
+   "Boston Celtics",
+   "2017"
+  ]
  ],
  "Tyrone Wallace": [
-  "Minnesota Timberwolves",
-  "2019"
+  [
+   "Minnesota Timberwolves",
+   "2019"
+  ],
+  [
+   "LA Clippers",
+   "2019"
+  ],
+  [
+   "LA Clippers",
+   "2017"
+  ]
  ],
  "Tyler Lydon": [
-  "Sacramento Kings",
-  "2019"
+  [
+   "Sacramento Kings",
+   "2019"
+  ]
  ],
  "Hollis Thompson": [
-  "Sacramento Kings",
-  "2019"
- ],
- "Isaiah Taylor": [
-  "Toronto Raptors",
-  "2019"
+  [
+   "Sacramento Kings",
+   "2019"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2017"
+  ]
  ],
  "Tyler Ulis": [
-  "Sacramento Kings",
-  "2019"
+  [
+   "Sacramento Kings",
+   "2019"
+  ],
+  [
+   "Golden State Warriors",
+   "2018"
+  ],
+  [
+   "Phoenix Suns",
+   "2018"
+  ]
+ ],
+ "Isaiah Taylor": [
+  [
+   "Toronto Raptors",
+   "2019"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2018"
+  ],
+  [
+   "Atlanta Hawks",
+   "2018"
+  ],
+  [
+   "Houston Rockets",
+   "2017"
+  ],
+  [
+   "Houston Rockets",
+   "2016"
+  ]
  ],
  "Yante Maten": [
-  "Boston Celtics",
-  "2019"
+  [
+   "Boston Celtics",
+   "2019"
+  ],
+  [
+   "Miami Heat",
+   "2019"
+  ]
  ],
  "Max Strus": [
-  "Boston Celtics",
-  "2019"
+  [
+   "Boston Celtics",
+   "2019"
+  ]
  ],
  "Lance Thomas": [
-  "Brooklyn Nets",
-  "2019"
+  [
+   "Brooklyn Nets",
+   "2019"
+  ],
+  [
+   "New York Knicks",
+   "2019"
+  ]
  ],
  "C.J. Williams": [
-  "Brooklyn Nets",
-  "2019"
+  [
+   "Brooklyn Nets",
+   "2019"
+  ],
+  [
+   "LA Clippers",
+   "2018"
+  ],
+  [
+   "Dallas Mavericks",
+   "2016"
+  ]
  ],
  "Milton Doyle": [
-  "Chicago Bulls",
-  "2019"
+  [
+   "Chicago Bulls",
+   "2019"
+  ],
+  [
+   "Brooklyn Nets",
+   "2017"
+  ]
  ],
  "Jarell Martin": [
-  "Cleveland Cavaliers",
-  "2019"
+  [
+   "Cleveland Cavaliers",
+   "2019"
+  ]
  ],
  "Jared Cunningham": [
-  "Golden State Warriors",
-  "2019"
+  [
+   "Golden State Warriors",
+   "2019"
+  ],
+  [
+   "Orlando Magic",
+   "2016"
+  ]
  ],
  "Andrew Harrison": [
-  "Golden State Warriors",
-  "2019"
+  [
+   "Golden State Warriors",
+   "2019"
+  ],
+  [
+   "Memphis Grizzlies",
+   "2018"
+  ]
  ],
  "Alfonzo McKinnie": [
-  "Golden State Warriors",
-  "2019"
+  [
+   "Golden State Warriors",
+   "2019"
+  ],
+  [
+   "Toronto Raptors",
+   "2018"
+  ]
  ],
  "Shamorie Ponds": [
-  "Houston Rockets",
-  "2019"
+  [
+   "Houston Rockets",
+   "2019"
+  ]
  ],
  "Ray Spalding": [
-  "Atlanta Hawks",
-  "2019"
+  [
+   "Houston Rockets",
+   "2019"
+  ],
+  [
+   "Atlanta Hawks",
+   "2019"
+  ],
+  [
+   "Dallas Mavericks",
+   "2019"
+  ]
  ],
  "Donte Grantham": [
-  "LA Clippers",
-  "2019"
+  [
+   "LA Clippers",
+   "2019"
+  ],
+  [
+   "Oklahoma City Thunder",
+   "2018"
+  ]
  ],
  "Miles Plumlee": [
-  "Memphis Grizzlies",
-  "2019"
+  [
+   "Memphis Grizzlies",
+   "2019"
+  ]
  ],
  "Ivan Rabb": [
-  "Memphis Grizzlies",
-  "2019"
+  [
+   "Memphis Grizzlies",
+   "2019"
+  ]
  ],
  "Davon Reed": [
-  "Miami Heat",
-  "2019"
+  [
+   "Miami Heat",
+   "2019"
+  ],
+  [
+   "Phoenix Suns",
+   "2018"
+  ]
  ],
  "Jemerrio Jones": [
-  "Washington Wizards",
-  "2019"
+  [
+   "Milwaukee Bucks",
+   "2019"
+  ],
+  [
+   "Washington Wizards",
+   "2019"
+  ]
  ],
  "Vincent Edwards": [
-  "Oklahoma City Thunder",
-  "2019"
+  [
+   "Oklahoma City Thunder",
+   "2019"
+  ]
  ],
  "Isaac Humphries": [
-  "Orlando Magic",
-  "2019"
+  [
+   "Orlando Magic",
+   "2019"
+  ],
+  [
+   "Atlanta Hawks",
+   "2018"
+  ]
  ],
  "DaQuan Jeffries": [
-  "Orlando Magic",
-  "2019"
+  [
+   "Orlando Magic",
+   "2019"
+  ]
  ],
  "BJ Johnson": [
-  "Orlando Magic",
-  "2019"
+  [
+   "Orlando Magic",
+   "2019"
+  ],
+  [
+   "Sacramento Kings",
+   "2019"
+  ],
+  [
+   "Orlando Magic",
+   "2018"
+  ]
  ],
  "Haywood Highsmith": [
-  "Philadelphia 76ers",
-  "2019"
+  [
+   "Philadelphia 76ers",
+   "2019"
+  ]
  ],
  "Xavier Munford": [
-  "Philadelphia 76ers",
-  "2019"
+  [
+   "Philadelphia 76ers",
+   "2019"
+  ],
+  [
+   "Milwaukee Bucks",
+   "2017"
+  ],
+  [
+   "LA Clippers",
+   "2016"
+  ]
  ],
  "Julian Washburn": [
-  "Philadelphia 76ers",
-  "2019"
+  [
+   "Philadelphia 76ers",
+   "2019"
+  ],
+  [
+   "San Antonio Spurs",
+   "2018"
+  ],
+  [
+   "San Antonio Spurs",
+   "2015"
+  ]
  ],
  "Troy Williams": [
-  "Phoenix Suns",
-  "2019"
+  [
+   "Phoenix Suns",
+   "2019"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2018"
+  ],
+  [
+   "New York Knicks",
+   "2018"
+  ],
+  [
+   "Houston Rockets",
+   "2018"
+  ],
+  [
+   "Memphis Grizzlies",
+   "2017"
+  ]
  ],
  "Tyler Ennis": [
-  "Toronto Raptors",
-  "2019"
+  [
+   "Toronto Raptors",
+   "2019"
+  ],
+  [
+   "Los Angeles Lakers",
+   "2018"
+  ]
  ],
  "Cameron Payne": [
-  "Toronto Raptors",
-  "2019"
+  [
+   "Toronto Raptors",
+   "2019"
+  ],
+  [
+   "Chicago Bulls",
+   "2019"
+  ]
  ],
  "Devin Robinson": [
-  "Toronto Raptors",
-  "2019"
+  [
+   "Toronto Raptors",
+   "2019"
+  ]
  ],
  "Jalen Jones": [
-  "Washington Wizards",
-  "2019"
- ],
- "Mike Scott": [
-  "Utah Jazz",
-  "2019"
+  [
+   "Washington Wizards",
+   "2019"
+  ],
+  [
+   "Dallas Mavericks",
+   "2018"
+  ],
+  [
+   "Boston Celtics",
+   "2016"
+  ]
  ],
  "Marcus Derrickson": [
-  "Atlanta Hawks",
-  "2019"
+  [
+   "Atlanta Hawks",
+   "2019"
+  ]
  ],
  "Tahjere McCall": [
-  "Atlanta Hawks",
-  "2019"
+  [
+   "Atlanta Hawks",
+   "2019"
+  ],
+  [
+   "Brooklyn Nets",
+   "2018"
+  ],
+  [
+   "Brooklyn Nets",
+   "2017"
+  ]
  ],
  "Jordan Sibert": [
-  "Atlanta Hawks",
-  "2019"
+  [
+   "Atlanta Hawks",
+   "2019"
+  ],
+  [
+   "Orlando Magic",
+   "2015"
+  ]
  ],
  "Luol Deng": [
-  "Chicago Bulls",
-  "2019"
+  [
+   "Chicago Bulls",
+   "2019"
+  ],
+  [
+   "Los Angeles Lakers",
+   "2018"
+  ]
  ],
  "Tyler Zeller": [
-  "Denver Nuggets",
-  "2019"
+  [
+   "Denver Nuggets",
+   "2019"
+  ],
+  [
+   "Milwaukee Bucks",
+   "2018"
+  ],
+  [
+   "Boston Celtics",
+   "2017"
+  ]
  ],
  "Troy Caupain": [
-  "Portland Trail Blazers",
-  "2019"
+  [
+   "Portland Trail Blazers",
+   "2019"
+  ],
+  [
+   "Orlando Magic",
+   "2017"
+  ]
  ],
  "London Perrantes": [
-  "Portland Trail Blazers",
-  "2019"
+  [
+   "Portland Trail Blazers",
+   "2019"
+  ],
+  [
+   "San Antonio Spurs",
+   "2017"
+  ]
+ ],
+ "Mike Scott": [
+  [
+   "Utah Jazz",
+   "2019"
+  ],
+  [
+   "Phoenix Suns",
+   "2017"
+  ]
  ],
  "Jaron Blossomgame": [
-  "Houston Rockets",
-  "2019"
+  [
+   "Houston Rockets",
+   "2019"
+  ],
+  [
+   "San Antonio Spurs",
+   "2018"
+  ]
  ],
  "Michael Frazier": [
-  "Houston Rockets",
-  "2019"
+  [
+   "Houston Rockets",
+   "2019"
+  ],
+  [
+   "Los Angeles Lakers",
+   "2015"
+  ]
  ],
  "Reggie Hearn": [
-  "Los Angeles Lakers",
-  "2019"
+  [
+   "Los Angeles Lakers",
+   "2019"
+  ],
+  [
+   "Sacramento Kings",
+   "2017"
+  ]
  ],
  "Jarrod Uthoff": [
-  "Memphis Grizzlies",
-  "2019"
+  [
+   "Memphis Grizzlies",
+   "2019"
+  ],
+  [
+   "Indiana Pacers",
+   "2017"
+  ],
+  [
+   "Houston Rockets",
+   "2017"
+  ],
+  [
+   "Toronto Raptors",
+   "2016"
+  ]
  ],
  "DeVaughn Akoon-Purcell": [
-  "Oklahoma City Thunder",
-  "2019"
+  [
+   "Oklahoma City Thunder",
+   "2019"
+  ]
  ],
  "Myke Henry": [
-  "Oklahoma City Thunder",
-  "2019"
+  [
+   "Oklahoma City Thunder",
+   "2019"
+  ]
  ],
  "Eric Moreland": [
-  "Oklahoma City Thunder",
-  "2019"
+  [
+   "Oklahoma City Thunder",
+   "2019"
+  ],
+  [
+   "Phoenix Suns",
+   "2019"
+  ],
+  [
+   "Toronto Raptors",
+   "2018"
+  ],
+  [
+   "Detroit Pistons",
+   "2018"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2016"
+  ],
+  [
+   "Sacramento Kings",
+   "2015"
+  ]
  ],
  "Kyle Collinsworth": [
-  "Utah Jazz",
-  "2019"
+  [
+   "Utah Jazz",
+   "2019"
+  ],
+  [
+   "Toronto Raptors",
+   "2018"
+  ],
+  [
+   "Dallas Mavericks",
+   "2018"
+  ],
+  [
+   "Dallas Mavericks",
+   "2016"
+  ]
  ],
  "Daniel Hamilton": [
-  "Cleveland Cavaliers",
-  "2019"
+  [
+   "Cleveland Cavaliers",
+   "2019"
+  ],
+  [
+   "Atlanta Hawks",
+   "2019"
+  ]
  ],
  "Timothe Luwawu-Cabarrot": [
-  "Cleveland Cavaliers",
-  "2019"
+  [
+   "Cleveland Cavaliers",
+   "2019"
+  ]
  ],
  "J.P. Macura": [
-  "Cleveland Cavaliers",
-  "2019"
+  [
+   "Cleveland Cavaliers",
+   "2019"
+  ]
  ],
  "Sindarius Thornwell": [
-  "Cleveland Cavaliers",
-  "2019"
+  [
+   "Cleveland Cavaliers",
+   "2019"
+  ],
+  [
+   "LA Clippers",
+   "2019"
+  ]
  ],
  "C.J. Wilcox": [
-  "Indiana Pacers",
-  "2019"
+  [
+   "Indiana Pacers",
+   "2019"
+  ],
+  [
+   "Orlando Magic",
+   "2017"
+  ]
  ],
  "Kenny Williams": [
-  "San Antonio Spurs",
-  "2019"
+  [
+   "San Antonio Spurs",
+   "2019"
+  ]
  ],
  "Justin Anderson": [
-  "Washington Wizards",
-  "2019"
+  [
+   "Washington Wizards",
+   "2019"
+  ]
  ],
  "David Stockton": [
-  "Los Angeles Lakers",
-  "2019"
+  [
+   "Los Angeles Lakers",
+   "2019"
+  ],
+  [
+   "Utah Jazz",
+   "2018"
+  ],
+  [
+   "Sacramento Kings",
+   "2017"
+  ],
+  [
+   "Sacramento Kings",
+   "2015"
+  ]
  ],
  "Dusty Hannahs": [
-  "Memphis Grizzlies",
-  "2019"
+  [
+   "Memphis Grizzlies",
+   "2019"
+  ]
  ],
  "Deng Adel": [
-  "Brooklyn Nets",
-  "2019"
+  [
+   "Brooklyn Nets",
+   "2019"
+  ],
+  [
+   "Toronto Raptors",
+   "2018"
+  ]
  ],
  "Jaylen Adams": [
-  "Milwaukee Bucks",
-  "2019"
+  [
+   "Milwaukee Bucks",
+   "2019"
+  ],
+  [
+   "Atlanta Hawks",
+   "2019"
+  ]
  ],
  "Joe Chealey": [
-  "Charlotte Hornets",
-  "2019"
+  [
+   "Charlotte Hornets",
+   "2019"
+  ]
  ],
  "Trevon Bluiett": [
-  "Utah Jazz",
-  "2019"
+  [
+   "Utah Jazz",
+   "2019"
+  ]
+ ],
+ "Thomas Welsh": [
+  [
+   "Charlotte Hornets",
+   "2019"
+  ]
  ],
  "Anthony Bennett": [
-  "Houston Rockets",
-  "2019"
+  [
+   "Houston Rockets",
+   "2019"
+  ],
+  [
+   "Phoenix Suns",
+   "2017"
+  ],
+  [
+   "Brooklyn Nets",
+   "2017"
+  ],
+  [
+   "Toronto Raptors",
+   "2016"
+  ],
+  [
+   "Minnesota Timberwolves",
+   "2015"
+  ]
  ],
  "Elijah Millsap": [
-  "Denver Nuggets",
-  "2019"
+  [
+   "Denver Nuggets",
+   "2019"
+  ],
+  [
+   "Phoenix Suns",
+   "2017"
+  ],
+  [
+   "Utah Jazz",
+   "2016"
+  ]
  ],
  "Jorge Gutierrez": [
-  "Denver Nuggets",
-  "2019"
+  [
+   "Denver Nuggets",
+   "2019"
+  ],
+  [
+   "Brooklyn Nets",
+   "2016"
+  ],
+  [
+   "Milwaukee Bucks",
+   "2015"
+  ]
  ],
  "Devyn Marble": [
-  "Golden State Warriors",
-  "2019"
+  [
+   "Golden State Warriors",
+   "2019"
+  ],
+  [
+   "LA Clippers",
+   "2016"
+  ]
+ ],
+ "Markel Brown": [
+  [
+   "Oklahoma City Thunder",
+   "2019"
+  ],
+  [
+   "Oklahoma City Thunder",
+   "2017"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2016"
+  ]
+ ],
+ "Antonio Blakeney": [
+  [
+   "Chicago Bulls",
+   "2019"
+  ]
+ ],
+ "Dwight Howard": [
+  [
+   "Memphis Grizzlies",
+   "2019"
+  ],
+  [
+   "Brooklyn Nets",
+   "2018"
+  ]
+ ],
+ "Tarik Phillip": [
+  [
+   "Washington Wizards",
+   "2019"
+  ]
+ ],
+ "Patrick Patterson": [
+  [
+   "Oklahoma City Thunder",
+   "2019"
+  ]
+ ],
+ "Chris Chiozza": [
+  [
+   "Houston Rockets",
+   "2019"
+  ],
+  [
+   "Washington Wizards",
+   "2018"
+  ]
+ ],
+ "Deyonta Davis": [
+  [
+   "Houston Rockets",
+   "2019"
+  ],
+  [
+   "Atlanta Hawks",
+   "2019"
+  ],
+  [
+   "Golden State Warriors",
+   "2018"
+  ],
+  [
+   "Sacramento Kings",
+   "2018"
+  ]
+ ],
+ "JR Smith": [
+  [
+   "Cleveland Cavaliers",
+   "2019"
+  ]
+ ],
+ "Christian Wood": [
+  [
+   "New Orleans Pelicans",
+   "2019"
+  ],
+  [
+   "Milwaukee Bucks",
+   "2019"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2016"
+  ]
+ ],
+ "Shaun Livingston": [
+  [
+   "Golden State Warriors",
+   "2019"
+  ]
+ ],
+ "Guerschon Yabusele": [
+  [
+   "Boston Celtics",
+   "2019"
+  ]
+ ],
+ "Jon Leuer": [
+  [
+   "Milwaukee Bucks",
+   "2019"
+  ]
+ ],
+ "Kyle Korver": [
+  [
+   "Phoenix Suns",
+   "2019"
+  ]
+ ],
+ "Dairis Bertans": [
+  [
+   "New Orleans Pelicans",
+   "2019"
+  ]
+ ],
+ "Jonathon Simmons": [
+  [
+   "Washington Wizards",
+   "2019"
+  ]
+ ],
+ "Shaquille Harrison": [
+  [
+   "Chicago Bulls",
+   "2019"
+  ],
+  [
+   "Phoenix Suns",
+   "2018"
+  ],
+  [
+   "Phoenix Suns",
+   "2016"
+  ]
+ ],
+ "Avery Bradley": [
+  [
+   "Memphis Grizzlies",
+   "2019"
+  ]
+ ],
+ "Ryan Anderson": [
+  [
+   "Miami Heat",
+   "2019"
+  ]
+ ],
+ "Timofey Mozgov": [
+  [
+   "Orlando Magic",
+   "2019"
+  ]
+ ],
+ "Frank Mason": [
+  [
+   "Sacramento Kings",
+   "2019"
+  ]
+ ],
+ "Tony Parker": [
+  [
+   "Charlotte Hornets",
+   "2019"
+  ]
+ ],
+ "George Hill": [
+  [
+   "Milwaukee Bucks",
+   "2019"
+  ]
+ ],
+ "Raul Neto": [
+  [
+   "Utah Jazz",
+   "2019"
+  ]
+ ],
+ "Cameron Reynolds": [
+  [
+   "Minnesota Timberwolves",
+   "2019"
+  ],
+  [
+   "Sacramento Kings",
+   "2018"
+  ]
+ ],
+ "Luc Mbah": [
+  [
+   "LA Clippers",
+   "2019"
+  ]
+ ],
+ "Rodney McGruder": [
+  [
+   "Miami Heat",
+   "2019"
+  ]
+ ],
+ "Wesley Johnson": [
+  [
+   "Washington Wizards",
+   "2019"
+  ]
+ ],
+ "Isaiah Briscoe": [
+  [
+   "Orlando Magic",
+   "2019"
+  ],
+  [
+   "Portland Trail Blazers",
+   "2017"
+  ]
+ ],
+ "Justin Patton": [
+  [
+   "Philadelphia 76ers",
+   "2019"
+  ]
+ ],
+ "Jason Smith": [
+  [
+   "New Orleans Pelicans",
+   "2019"
+  ]
+ ],
+ "Pau Gasol": [
+  [
+   "San Antonio Spurs",
+   "2019"
+  ]
+ ],
+ "Tim Frazier": [
+  [
+   "New Orleans Pelicans",
+   "2019"
+  ],
+  [
+   "Milwaukee Bucks",
+   "2018"
+  ],
+  [
+   "Portland Trail Blazers",
+   "2016"
+  ]
+ ],
+ "Jeremy Lin": [
+  [
+   "Atlanta Hawks",
+   "2019"
+  ]
+ ],
+ "Henry Ellenson": [
+  [
+   "Detroit Pistons",
+   "2019"
+  ]
+ ],
+ "Michael Beasley": [
+  [
+   "LA Clippers",
+   "2019"
+  ]
+ ],
+ "Alex Abrines": [
+  [
+   "Oklahoma City Thunder",
+   "2019"
+  ]
+ ],
+ "Jabari Bird": [
+  [
+   "Atlanta Hawks",
+   "2019"
+  ]
+ ],
+ "Shelvin Mack": [
+  [
+   "Atlanta Hawks",
+   "2019"
+  ],
+  [
+   "Orlando Magic",
+   "2018"
+  ]
+ ],
+ "Greg Monroe": [
+  [
+   "Brooklyn Nets",
+   "2019"
+  ],
+  [
+   "Phoenix Suns",
+   "2018"
+  ]
+ ],
+ "Zach Randolph": [
+  [
+   "Dallas Mavericks",
+   "2019"
+  ]
+ ],
+ "Wade Baldwin IV": [
+  [
+   "Indiana Pacers",
+   "2019"
+  ],
+  [
+   "Memphis Grizzlies",
+   "2017"
+  ]
+ ],
+ "Nik Stauskas": [
+  [
+   "Indiana Pacers",
+   "2019"
+  ]
+ ],
+ "Marcin Gortat": [
+  [
+   "LA Clippers",
+   "2019"
+  ]
+ ],
+ "Milos Teodosic": [
+  [
+   "LA Clippers",
+   "2019"
+  ]
+ ],
+ "Omri Casspi": [
+  [
+   "Memphis Grizzlies",
+   "2019"
+  ],
+  [
+   "Golden State Warriors",
+   "2018"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2017"
+  ]
+ ],
+ "Markieff Morris": [
+  [
+   "New Orleans Pelicans",
+   "2019"
+  ]
+ ],
+ "Malachi Richardson": [
+  [
+   "Philadelphia 76ers",
+   "2019"
+  ]
+ ],
+ "Salah Mejri": [
+  [
+   "Dallas Mavericks",
+   "2019"
+  ]
+ ],
+ "Ike Anigbogu": [
+  [
+   "Indiana Pacers",
+   "2019"
+  ]
+ ],
+ "Enes Kanter": [
+  [
+   "New York Knicks",
+   "2019"
+  ]
+ ],
+ "Wesley Matthews": [
+  [
+   "New York Knicks",
+   "2019"
+  ]
+ ],
+ "Wayne Ellington": [
+  [
+   "Phoenix Suns",
+   "2019"
+  ]
+ ],
+ "Ben McLemore": [
+  [
+   "Sacramento Kings",
+   "2019"
+  ]
+ ],
+ "Carmelo Anthony": [
+  [
+   "Chicago Bulls",
+   "2019"
+  ],
+  [
+   "Atlanta Hawks",
+   "2018"
+  ]
+ ],
+ "Kenneth Faried": [
+  [
+   "Brooklyn Nets",
+   "2019"
+  ]
+ ],
+ "MarShon Brooks": [
+  [
+   "Chicago Bulls",
+   "2019"
+  ]
+ ],
+ "Michael Carter-Williams": [
+  [
+   "Chicago Bulls",
+   "2019"
+  ]
+ ],
+ "Patrick McCaw": [
+  [
+   "Cleveland Cavaliers",
+   "2019"
+  ]
+ ],
+ "James Nunnally": [
+  [
+   "Minnesota Timberwolves",
+   "2019"
+  ]
+ ],
+ "Lorenzo Brown": [
+  [
+   "Toronto Raptors",
+   "2019"
+  ],
+  [
+   "Detroit Pistons",
+   "2016"
+  ],
+  [
+   "Minnesota Timberwolves",
+   "2015"
+  ]
+ ],
+ "Ron Baker": [
+  [
+   "Washington Wizards",
+   "2019"
+  ],
+  [
+   "New York Knicks",
+   "2018"
+  ]
+ ],
+ "Nick Young": [
+  [
+   "Denver Nuggets",
+   "2018"
+  ]
+ ],
+ "Okaro White": [
+  [
+   "Washington Wizards",
+   "2018"
+  ],
+  [
+   "San Antonio Spurs",
+   "2018"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2018"
+  ],
+  [
+   "Atlanta Hawks",
+   "2018"
+  ],
+  [
+   "Miami Heat",
+   "2016"
+  ]
+ ],
+ "Austin Rivers": [
+  [
+   "Phoenix Suns",
+   "2018"
+  ]
+ ],
+ "Brandon Goodwin": [
+  [
+   "Denver Nuggets",
+   "2018"
+  ],
+  [
+   "Memphis Grizzlies",
+   "2018"
+  ]
+ ],
+ "Danuel House Jr.": [
+  [
+   "Houston Rockets",
+   "2018"
+  ],
+  [
+   "Golden State Warriors",
+   "2018"
+  ],
+  [
+   "Houston Rockets",
+   "2017"
+  ],
+  [
+   "Washington Wizards",
+   "2017"
+  ]
+ ],
+ "Isaiah Canaan": [
+  [
+   "Phoenix Suns",
+   "2018"
+  ],
+  [
+   "Phoenix Suns",
+   "2018"
+  ],
+  [
+   "Houston Rockets",
+   "2017"
+  ],
+  [
+   "Oklahoma City Thunder",
+   "2017"
+  ],
+  [
+   "Chicago Bulls",
+   "2017"
+  ]
+ ],
+ "Jodie Meeks": [
+  [
+   "Milwaukee Bucks",
+   "2018"
+  ]
+ ],
+ "Chasson Randle": [
+  [
+   "Washington Wizards",
+   "2018"
+  ],
+  [
+   "Washington Wizards",
+   "2018"
+  ],
+  [
+   "New York Knicks",
+   "2017"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2017"
+  ],
+  [
+   "New York Knicks",
+   "2016"
+  ]
+ ],
+ "Tyson Chandler": [
+  [
+   "Phoenix Suns",
+   "2018"
+  ]
+ ],
+ "Ben Moore": [
+  [
+   "Indiana Pacers",
+   "2018"
+  ],
+  [
+   "Indiana Pacers",
+   "2017"
+  ]
+ ],
+ "Omer Asik": [
+  [
+   "Chicago Bulls",
+   "2018"
+  ]
+ ],
+ "Alexis Ajinca": [
+  [
+   "LA Clippers",
+   "2018"
+  ]
+ ],
+ "Jawun Evans": [
+  [
+   "LA Clippers",
+   "2018"
+  ]
+ ],
+ "Darrell Arthur": [
+  [
+   "Phoenix Suns",
+   "2018"
+  ]
+ ],
+ "Manu Ginobili": [
+  [
+   "San Antonio Spurs",
+   "2018"
+  ]
+ ],
+ "RJ Hunter": [
+  [
+   "Atlanta Hawks",
+   "2018"
+  ],
+  [
+   "Chicago Bulls",
+   "2016"
+  ],
+  [
+   "Boston Celtics",
+   "2016"
+  ]
+ ],
+ "Thomas Robinson": [
+  [
+   "Atlanta Hawks",
+   "2018"
+  ]
+ ],
+ "Marcus Georges-Hunt": [
+  [
+   "Boston Celtics",
+   "2018"
+  ],
+  [
+   "Orlando Magic",
+   "2017"
+  ],
+  [
+   "Boston Celtics",
+   "2016"
+  ]
+ ],
+ "Mitchell Creek": [
+  [
+   "Brooklyn Nets",
+   "2018"
+  ]
+ ],
+ "Drew Gordon": [
+  [
+   "Brooklyn Nets",
+   "2018"
+  ]
+ ],
+ "Antonius Cleveland": [
+  [
+   "Chicago Bulls",
+   "2018"
+  ],
+  [
+   "Atlanta Hawks",
+   "2018"
+  ],
+  [
+   "Golden State Warriors",
+   "2017"
+  ]
+ ],
+ "JaKarr Sampson": [
+  [
+   "Chicago Bulls",
+   "2018"
+  ],
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ],
+  [
+   "Denver Nuggets",
+   "2016"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2016"
+  ]
+ ],
+ "Derrick Walton Jr.": [
+  [
+   "Chicago Bulls",
+   "2018"
+  ]
+ ],
+ "Bonzie Colson": [
+  [
+   "Cleveland Cavaliers",
+   "2018"
+  ]
+ ],
+ "Kobi Simmons": [
+  [
+   "Cleveland Cavaliers",
+   "2018"
+  ]
+ ],
+ "Emanuel Terry": [
+  [
+   "Cleveland Cavaliers",
+   "2018"
+  ],
+  [
+   "Denver Nuggets",
+   "2018"
+  ]
+ ],
+ "Xavier Silas": [
+  [
+   "Denver Nuggets",
+   "2018"
+  ]
+ ],
+ "Bruno Caboclo": [
+  [
+   "Houston Rockets",
+   "2018"
+  ]
+ ],
+ "Brandon Sampson": [
+  [
+   "Houston Rockets",
+   "2018"
+  ]
+ ],
+ "Jamel Artis": [
+  [
+   "LA Clippers",
+   "2018"
+  ],
+  [
+   "Sacramento Kings",
+   "2018"
+  ],
+  [
+   "New York Knicks",
+   "2017"
+  ]
+ ],
+ "Scott Machado": [
+  [
+   "Los Angeles Lakers",
+   "2018"
+  ]
+ ],
+ "Johnathan Williams": [
+  [
+   "Los Angeles Lakers",
+   "2018"
+  ]
+ ],
+ "Rodney Purvis": [
+  [
+   "Miami Heat",
+   "2018"
+  ],
+  [
+   "Boston Celtics",
+   "2018"
+  ],
+  [
+   "Orlando Magic",
+   "2017"
+  ]
+ ],
+ "Jarnell Stokes": [
+  [
+   "Miami Heat",
+   "2018"
+  ],
+  [
+   "Denver Nuggets",
+   "2016"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2016"
+  ]
+ ],
+ "Briante Weber": [
+  [
+   "Miami Heat",
+   "2018"
+  ],
+  [
+   "Los Angeles Lakers",
+   "2017"
+  ],
+  [
+   "Charlotte Hornets",
+   "2017"
+  ],
+  [
+   "Miami Heat",
+   "2016"
+  ],
+  [
+   "Miami Heat",
+   "2015"
+  ]
+ ],
+ "Darius Johnson-Odom": [
+  [
+   "Minnesota Timberwolves",
+   "2018"
+  ]
+ ],
+ "Jarrett Jack": [
+  [
+   "New Orleans Pelicans",
+   "2018"
+  ],
+  [
+   "Atlanta Hawks",
+   "2016"
+  ],
+  [
+   "Brooklyn Nets",
+   "2016"
+  ]
+ ],
+ "Kadeem Allen": [
+  [
+   "New York Knicks",
+   "2018"
+  ]
+ ],
+ "Joakim Noah": [
+  [
+   "New York Knicks",
+   "2018"
+  ]
+ ],
+ "Cory Jefferson": [
+  [
+   "Philadelphia 76ers",
+   "2018"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2016"
+  ],
+  [
+   "Phoenix Suns",
+   "2016"
+  ],
+  [
+   "Brooklyn Nets",
+   "2015"
+  ]
+ ],
+ "Emeka Okafor": [
+  [
+   "Philadelphia 76ers",
+   "2018"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2018"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2017"
+  ]
+ ],
+ "Chinanu Onuaku": [
+  [
+   "Portland Trail Blazers",
+   "2018"
+  ],
+  [
+   "Dallas Mavericks",
+   "2018"
+  ]
+ ],
+ "Gary Payton II": [
+  [
+   "Portland Trail Blazers",
+   "2018"
+  ],
+  [
+   "Milwaukee Bucks",
+   "2017"
+  ],
+  [
+   "Houston Rockets",
+   "2016"
+  ]
+ ],
+ "Kalin Lucas": [
+  [
+   "Sacramento Kings",
+   "2018"
+  ],
+  [
+   "Orlando Magic",
+   "2017"
+  ]
+ ],
+ "Nick Johnson": [
+  [
+   "San Antonio Spurs",
+   "2018"
+  ],
+  [
+   "Orlando Magic",
+   "2016"
+  ],
+  [
+   "Denver Nuggets",
+   "2015"
+  ]
+ ],
+ "Kay Felder": [
+  [
+   "Toronto Raptors",
+   "2018"
+  ],
+  [
+   "Chicago Bulls",
+   "2017"
+  ],
+  [
+   "Atlanta Hawks",
+   "2017"
+  ]
+ ],
+ "Malcolm Miller": [
+  [
+   "Toronto Raptors",
+   "2018"
+  ],
+  [
+   "Boston Celtics",
+   "2015"
+  ]
+ ],
+ "Lavoy Allen": [
+  [
+   "Washington Wizards",
+   "2018"
+  ]
+ ],
+ "Donald Sloan": [
+  [
+   "Denver Nuggets",
+   "2018"
+  ],
+  [
+   "Washington Wizards",
+   "2017"
+  ]
+ ],
+ "Kendrick Nunn": [
+  [
+   "Golden State Warriors",
+   "2018"
+  ]
+ ],
+ "Darius Morris": [
+  [
+   "New Orleans Pelicans",
+   "2018"
+  ]
+ ],
+ "Scotty Hopson": [
+  [
+   "Oklahoma City Thunder",
+   "2018"
+  ]
+ ],
+ "Jordan McLaughlin": [
+  [
+   "Brooklyn Nets",
+   "2018"
+  ]
+ ],
+ "Rashad Vaughn": [
+  [
+   "Dallas Mavericks",
+   "2018"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2018"
+  ]
+ ],
+ "Will Cherry": [
+  [
+   "Golden State Warriors",
+   "2018"
+  ]
+ ],
+ "Omari Johnson": [
+  [
+   "Indiana Pacers",
+   "2018"
+  ],
+  [
+   "Memphis Grizzlies",
+   "2018"
+  ],
+  [
+   "Portland Trail Blazers",
+   "2015"
+  ]
+ ],
+ "Charles Cooke": [
+  [
+   "Miami Heat",
+   "2018"
+  ]
+ ],
+ "DeAndre Liggins": [
+  [
+   "Miami Heat",
+   "2018"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2018"
+  ],
+  [
+   "Milwaukee Bucks",
+   "2018"
+  ],
+  [
+   "Miami Heat",
+   "2017"
+  ],
+  [
+   "Atlanta Hawks",
+   "2017"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2017"
+  ]
+ ],
+ "Shabazz Muhammad": [
+  [
+   "Milwaukee Bucks",
+   "2018"
+  ],
+  [
+   "Minnesota Timberwolves",
+   "2018"
+  ]
+ ],
+ "Josh Huestis": [
+  [
+   "San Antonio Spurs",
+   "2018"
+  ]
+ ],
+ "KJ McDaniels": [
+  [
+   "Oklahoma City Thunder",
+   "2018"
+  ],
+  [
+   "Toronto Raptors",
+   "2017"
+  ]
+ ],
+ "Anthony Brown": [
+  [
+   "Philadelphia 76ers",
+   "2018"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2016"
+  ],
+  [
+   "Los Angeles Lakers",
+   "2016"
+  ]
+ ],
+ "Norvel Pelle": [
+  [
+   "Philadelphia 76ers",
+   "2018"
+  ]
+ ],
+ "Chris McCullough": [
+  [
+   "Detroit Pistons",
+   "2018"
+  ]
+ ],
+ "Billy Garrett": [
+  [
+   "New York Knicks",
+   "2018"
+  ]
+ ],
+ "John Jenkins": [
+  [
+   "New York Knicks",
+   "2018"
+  ],
+  [
+   "Atlanta Hawks",
+   "2017"
+  ],
+  [
+   "Phoenix Suns",
+   "2017"
+  ],
+  [
+   "Dallas Mavericks",
+   "2016"
+  ]
+ ],
+ "Cole Aldrich": [
+  [
+   "Atlanta Hawks",
+   "2018"
+  ],
+  [
+   "Minnesota Timberwolves",
+   "2018"
+  ]
+ ],
+ "James Young": [
+  [
+   "Milwaukee Bucks",
+   "2018"
+  ],
+  [
+   "Milwaukee Bucks",
+   "2017"
+  ]
+ ],
+ "Corey Williams": [
+  [
+   "Cleveland Cavaliers",
+   "2018"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2017"
+  ]
+ ],
+ "Dakari Johnson": [
+  [
+   "Memphis Grizzlies",
+   "2018"
+  ]
+ ],
+ "Kyle Singler": [
+  [
+   "Oklahoma City Thunder",
+   "2018"
+  ]
+ ],
+ "Brandon Jennings": [
+  [
+   "Milwaukee Bucks",
+   "2018"
+  ],
+  [
+   "New York Knicks",
+   "2017"
+  ]
+ ],
+ "Brandon Paul": [
+  [
+   "San Antonio Spurs",
+   "2018"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2016"
+  ]
+ ],
+ "Jaylen Morris": [
+  [
+   "Atlanta Hawks",
+   "2018"
+  ]
+ ],
+ "Georgios Papagiannis": [
+  [
+   "Portland Trail Blazers",
+   "2018"
+  ],
+  [
+   "Sacramento Kings",
+   "2018"
+  ]
+ ],
+ "Kendrick Perkins": [
+  [
+   "Cleveland Cavaliers",
+   "2018"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2017"
+  ]
+ ],
+ "Isaiah Whitehead": [
+  [
+   "Denver Nuggets",
+   "2018"
+  ]
+ ],
+ "Julyan Stone": [
+  [
+   "Chicago Bulls",
+   "2018"
+  ],
+  [
+   "Indiana Pacers",
+   "2016"
+  ],
+  [
+   "Oklahoma City Thunder",
+   "2015"
+  ]
+ ],
+ "Paul Zipser": [
+  [
+   "Chicago Bulls",
+   "2018"
+  ]
+ ],
+ "Sean Kilpatrick": [
+  [
+   "Chicago Bulls",
+   "2018"
+  ],
+  [
+   "Milwaukee Bucks",
+   "2018"
+  ],
+  [
+   "Brooklyn Nets",
+   "2017"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2015"
+  ]
+ ],
+ "Dwight Buycks": [
+  [
+   "Detroit Pistons",
+   "2018"
+  ]
+ ],
+ "Nigel Hayes": [
+  [
+   "Sacramento Kings",
+   "2018"
+  ],
+  [
+   "New York Knicks",
+   "2017"
+  ]
+ ],
+ "Jonas Jerebko": [
+  [
+   "Utah Jazz",
+   "2018"
+  ]
+ ],
+ "Alex Poythress": [
+  [
+   "Indiana Pacers",
+   "2018"
+  ],
+  [
+   "Indiana Pacers",
+   "2016"
+  ]
+ ],
+ "Aaron Jackson": [
+  [
+   "Houston Rockets",
+   "2018"
+  ]
+ ],
+ "Al Jefferson": [
+  [
+   "Indiana Pacers",
+   "2018"
+  ]
+ ],
+ "Alan Williams": [
+  [
+   "Phoenix Suns",
+   "2018"
+  ]
+ ],
+ "Thomas Bryant": [
+  [
+   "Los Angeles Lakers",
+   "2018"
+  ]
+ ],
+ "Tyler Cavanaugh": [
+  [
+   "Atlanta Hawks",
+   "2018"
+  ],
+  [
+   "Atlanta Hawks",
+   "2017"
+  ]
+ ],
+ "Tim Quarterman": [
+  [
+   "Houston Rockets",
+   "2018"
+  ],
+  [
+   "Houston Rockets",
+   "2017"
+  ]
+ ],
+ "Marquis Teague": [
+  [
+   "Memphis Grizzlies",
+   "2018"
+  ]
+ ],
+ "Brice Johnson": [
+  [
+   "Memphis Grizzlies",
+   "2018"
+  ]
+ ],
+ "Brandan Wright": [
+  [
+   "Houston Rockets",
+   "2018"
+  ],
+  [
+   "Memphis Grizzlies",
+   "2018"
+  ]
+ ],
+ "Mirza Teletovic": [
+  [
+   "Milwaukee Bucks",
+   "2018"
+  ]
+ ],
+ "Trevor Booker": [
+  [
+   "Philadelphia 76ers",
+   "2018"
+  ]
+ ],
+ "Corey Brewer": [
+  [
+   "Los Angeles Lakers",
+   "2018"
+  ]
+ ],
+ "Ersan Ilyasova": [
+  [
+   "Atlanta Hawks",
+   "2018"
+  ]
+ ],
+ "Bobby Brown": [
+  [
+   "Houston Rockets",
+   "2018"
+  ],
+  [
+   "Houston Rockets",
+   "2018"
+  ],
+  [
+   "Houston Rockets",
+   "2016"
+  ]
+ ],
+ "Josh McRoberts": [
+  [
+   "Dallas Mavericks",
+   "2018"
+  ]
+ ],
+ "Marco Belinelli": [
+  [
+   "Atlanta Hawks",
+   "2018"
+  ]
+ ],
+ "Derrick Rose": [
+  [
+   "Utah Jazz",
+   "2018"
+  ]
+ ],
+ "Sheldon Mac": [
+  [
+   "Atlanta Hawks",
+   "2018"
+  ]
+ ],
+ "Tony Allen": [
+  [
+   "Chicago Bulls",
+   "2018"
+  ]
+ ],
+ "Willie Reed": [
+  [
+   "Chicago Bulls",
+   "2018"
+  ]
+ ],
+ "AJ Hammons": [
+  [
+   "Miami Heat",
+   "2018"
+  ]
+ ],
+ "Johnny O'Bryant III": [
+  [
+   "New York Knicks",
+   "2018"
+  ],
+  [
+   "Washington Wizards",
+   "2016"
+  ],
+  [
+   "Milwaukee Bucks",
+   "2016"
+  ]
+ ],
+ "Quincy Pondexter": [
+  [
+   "Chicago Bulls",
+   "2018"
+  ]
+ ],
+ "Ramon Sessions": [
+  [
+   "New York Knicks",
+   "2018"
+  ]
+ ],
+ "Damien Wilkins": [
+  [
+   "Indiana Pacers",
+   "2018"
+  ],
+  [
+   "Charlotte Hornets",
+   "2015"
+  ]
+ ],
+ "Joel Bolomboy": [
+  [
+   "Milwaukee Bucks",
+   "2018"
+  ],
+  [
+   "Utah Jazz",
+   "2017"
+  ]
+ ],
+ "Andrew Bogut": [
+  [
+   "Los Angeles Lakers",
+   "2018"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2017"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2017"
+  ]
+ ],
+ "Mike James": [
+  [
+   "Phoenix Suns",
+   "2017"
+  ]
+ ],
+ "Jeff Withey": [
+  [
+   "Dallas Mavericks",
+   "2017"
+  ]
+ ],
+ "Nicolas Brussino": [
+  [
+   "Atlanta Hawks",
+   "2017"
+  ],
+  [
+   "Dallas Mavericks",
+   "2017"
+  ]
+ ],
+ "Derrick Jones Jr.": [
+  [
+   "Phoenix Suns",
+   "2017"
+  ]
+ ],
+ "Mindaugas Kuzminskas": [
+  [
+   "New York Knicks",
+   "2017"
+  ]
+ ],
+ "Josh Smith": [
+  [
+   "New Orleans Pelicans",
+   "2017"
+  ]
+ ],
+ "Carrick Felix": [
+  [
+   "Washington Wizards",
+   "2017"
+  ]
+ ],
+ "Jordan Crawford": [
+  [
+   "New Orleans Pelicans",
+   "2017"
+  ],
+  [
+   "Chicago Bulls",
+   "2015"
+  ]
+ ],
+ "Jameer Nelson": [
+  [
+   "Denver Nuggets",
+   "2017"
+  ]
+ ],
+ "Jarell Eddie": [
+  [
+   "Chicago Bulls",
+   "2017"
+  ],
+  [
+   "Washington Wizards",
+   "2016"
+  ],
+  [
+   "Golden State Warriors",
+   "2015"
+  ]
+ ],
+ "Diamond Stone": [
+  [
+   "Chicago Bulls",
+   "2017"
+  ],
+  [
+   "Atlanta Hawks",
+   "2017"
+  ]
+ ],
+ "Quinn Cook": [
+  [
+   "Atlanta Hawks",
+   "2017"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2017"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2016"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2015"
+  ]
+ ],
+ "Jeremy Evans": [
+  [
+   "Atlanta Hawks",
+   "2017"
+  ],
+  [
+   "Indiana Pacers",
+   "2016"
+  ]
+ ],
+ "Richard Jefferson": [
+  [
+   "Atlanta Hawks",
+   "2017"
+  ]
+ ],
+ "Daniel Ochefu": [
+  [
+   "Boston Celtics",
+   "2017"
+  ],
+  [
+   "Washington Wizards",
+   "2017"
+  ]
+ ],
+ "Isaiah Hicks": [
+  [
+   "Charlotte Hornets",
+   "2017"
+  ]
+ ],
+ "PJ Dozier": [
+  [
+   "Dallas Mavericks",
+   "2017"
+  ]
+ ],
+ "Jameel Warney": [
+  [
+   "Dallas Mavericks",
+   "2017"
+  ],
+  [
+   "Dallas Mavericks",
+   "2016"
+  ]
+ ],
+ "Maalik Wayns": [
+  [
+   "Dallas Mavericks",
+   "2017"
+  ]
+ ],
+ "Beno Udrih": [
+  [
+   "Detroit Pistons",
+   "2017"
+  ],
+  [
+   "Miami Heat",
+   "2016"
+  ],
+  [
+   "Miami Heat",
+   "2016"
+  ]
+ ],
+ "Michael Gbinije": [
+  [
+   "Golden State Warriors",
+   "2017"
+  ],
+  [
+   "Detroit Pistons",
+   "2017"
+  ]
+ ],
+ "Georges Niang": [
+  [
+   "Golden State Warriors",
+   "2017"
+  ],
+  [
+   "Indiana Pacers",
+   "2017"
+  ]
+ ],
+ "DeQuan Jones": [
+  [
+   "Indiana Pacers",
+   "2017"
+  ],
+  [
+   "Atlanta Hawks",
+   "2015"
+  ]
+ ],
+ "Trey McKinney-Jones": [
+  [
+   "Indiana Pacers",
+   "2017"
+  ]
+ ],
+ "Marshall Plumlee": [
+  [
+   "LA Clippers",
+   "2017"
+  ],
+  [
+   "New York Knicks",
+   "2017"
+  ]
+ ],
+ "Vander Blue": [
+  [
+   "Los Angeles Lakers",
+   "2017"
+  ]
+ ],
+ "Travis Wear": [
+  [
+   "Los Angeles Lakers",
+   "2017"
+  ],
+  [
+   "Los Angeles Lakers",
+   "2016"
+  ]
+ ],
+ "Erik McCree": [
+  [
+   "Miami Heat",
+   "2017"
+  ]
+ ],
+ "Tony Mitchell": [
+  [
+   "Miami Heat",
+   "2017"
+  ],
+  [
+   "Golden State Warriors",
+   "2015"
+  ]
+ ],
+ "Joel Anthony": [
+  [
+   "Milwaukee Bucks",
+   "2017"
+  ],
+  [
+   "San Antonio Spurs",
+   "2016"
+  ],
+  [
+   "Detroit Pistons",
+   "2016"
+  ]
+ ],
+ "Gerald Green": [
+  [
+   "Milwaukee Bucks",
+   "2017"
+  ]
+ ],
+ "Brandon Rush": [
+  [
+   "Milwaukee Bucks",
+   "2017"
+  ]
+ ],
+ "Amile Jefferson": [
+  [
+   "Minnesota Timberwolves",
+   "2017"
+  ]
+ ],
+ "Shawne Williams": [
+  [
+   "Minnesota Timberwolves",
+   "2017"
+  ]
+ ],
+ "Cliff Alexander": [
+  [
+   "New Orleans Pelicans",
+   "2017"
+  ],
+  [
+   "Brooklyn Nets",
+   "2017"
+  ],
+  [
+   "Orlando Magic",
+   "2016"
+  ],
+  [
+   "Portland Trail Blazers",
+   "2016"
+  ]
+ ],
+ "Perry Jones III": [
+  [
+   "New Orleans Pelicans",
+   "2017"
+  ],
+  [
+   "Boston Celtics",
+   "2015"
+  ]
+ ],
+ "Trey Burke": [
+  [
+   "New York Knicks",
+   "2017"
+  ]
+ ],
+ "Xavier Rathan-Mayes": [
+  [
+   "New York Knicks",
+   "2017"
+  ]
+ ],
+ "Semaj Christon": [
+  [
+   "Oklahoma City Thunder",
+   "2017"
+  ]
+ ],
+ "Chris Wright": [
+  [
+   "Oklahoma City Thunder",
+   "2017"
+  ],
+  [
+   "Oklahoma City Thunder",
+   "2016"
+  ]
+ ],
+ "Damjan Rudez": [
+  [
+   "Orlando Magic",
+   "2017"
+  ]
+ ],
+ "Kris Humphries": [
+  [
+   "Philadelphia 76ers",
+   "2017"
+  ],
+  [
+   "Phoenix Suns",
+   "2016"
+  ]
+ ],
+ "James Webb III": [
+  [
+   "Philadelphia 76ers",
+   "2017"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2016"
+  ]
+ ],
+ "Archie Goodwin": [
+  [
+   "Portland Trail Blazers",
+   "2017"
+  ],
+  [
+   "Brooklyn Nets",
+   "2017"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2016"
+  ],
+  [
+   "Phoenix Suns",
+   "2016"
+  ]
+ ],
+ "Anthony Morrow": [
+  [
+   "Portland Trail Blazers",
+   "2017"
+  ]
+ ],
+ "Naz Mitrou-Long": [
+  [
+   "Utah Jazz",
+   "2017"
+  ]
+ ],
+ "Chris Johnson": [
+  [
+   "Houston Rockets",
+   "2017"
+  ],
+  [
+   "Utah Jazz",
+   "2016"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2015"
+  ]
+ ],
+ "Andrew White III": [
+  [
+   "Boston Celtics",
+   "2017"
+  ]
+ ],
+ "Larry Drew II": [
+  [
+   "Miami Heat",
+   "2017"
+  ]
+ ],
+ "Edy Tavares": [
+  [
+   "Cleveland Cavaliers",
+   "2017"
+  ],
+  [
+   "Atlanta Hawks",
+   "2016"
+  ]
+ ],
+ "Josh Childress": [
+  [
+   "Denver Nuggets",
+   "2017"
+  ]
+ ],
+ "Marcus Williams": [
+  [
+   "Sacramento Kings",
+   "2017"
+  ]
+ ],
+ "Stephen Zimmerman": [
+  [
+   "Los Angeles Lakers",
+   "2017"
+  ],
+  [
+   "Orlando Magic",
+   "2017"
+  ]
+ ],
+ "Kendall Marshall": [
+  [
+   "Milwaukee Bucks",
+   "2017"
+  ],
+  [
+   "Utah Jazz",
+   "2016"
+  ]
+ ],
+ "Andy Rautins": [
+  [
+   "Toronto Raptors",
+   "2017"
+  ]
+ ],
+ "Kyle Wiltjer": [
+  [
+   "Toronto Raptors",
+   "2017"
+  ],
+  [
+   "LA Clippers",
+   "2017"
+  ]
+ ],
+ "Martell Webster": [
+  [
+   "New Orleans Pelicans",
+   "2017"
+  ],
+  [
+   "Washington Wizards",
+   "2015"
+  ]
+ ],
+ "Shawn Long": [
+  [
+   "Houston Rockets",
+   "2017"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2016"
+  ]
+ ],
+ "Dwyane Wade": [
+  [
+   "Chicago Bulls",
+   "2017"
+  ]
+ ],
+ "Spencer Hawes": [
+  [
+   "Milwaukee Bucks",
+   "2017"
+  ]
+ ],
+ "Andrew Nicholson": [
+  [
+   "Portland Trail Blazers",
+   "2017"
+  ]
+ ],
+ "Jason Maxiell": [
+  [
+   "Detroit Pistons",
+   "2017"
+  ]
+ ],
+ "Patricio Garino": [
+  [
+   "Orlando Magic",
+   "2017"
+  ],
+  [
+   "San Antonio Spurs",
+   "2016"
+  ]
+ ],
+ "Kevin Seraphin": [
+  [
+   "Indiana Pacers",
+   "2017"
+  ]
+ ],
+ "Axel Toupane": [
+  [
+   "New Orleans Pelicans",
+   "2017"
+  ],
+  [
+   "Denver Nuggets",
+   "2016"
+  ],
+  [
+   "Toronto Raptors",
+   "2015"
+  ]
+ ],
+ "Paul Pierce": [
+  [
+   "Boston Celtics",
+   "2017"
+  ],
+  [
+   "LA Clippers",
+   "2017"
+  ]
+ ],
+ "Justin Hamilton": [
+  [
+   "Toronto Raptors",
+   "2017"
+  ]
+ ],
+ "Jordan Mickey": [
+  [
+   "Boston Celtics",
+   "2017"
+  ]
+ ],
+ "Boris Diaw": [
+  [
+   "Utah Jazz",
+   "2017"
+  ]
+ ],
+ "David Nwaba": [
+  [
+   "Los Angeles Lakers",
+   "2017"
+  ]
+ ],
+ "Mike Miller": [
+  [
+   "Denver Nuggets",
+   "2017"
+  ],
+  [
+   "Portland Trail Blazers",
+   "2015"
+  ]
+ ],
+ "C.J. Watson": [
+  [
+   "Orlando Magic",
+   "2017"
+  ]
+ ],
+ "Jamal Crawford": [
+  [
+   "Atlanta Hawks",
+   "2017"
+  ]
+ ],
+ "Ryan Kelly": [
+  [
+   "Houston Rockets",
+   "2017"
+  ],
+  [
+   "Atlanta Hawks",
+   "2017"
+  ],
+  [
+   "Boston Celtics",
+   "2016"
+  ],
+  [
+   "Atlanta Hawks",
+   "2016"
+  ]
+ ],
+ "Rakeem Christmas": [
+  [
+   "Indiana Pacers",
+   "2017"
+  ]
+ ],
+ "Monta Ellis": [
+  [
+   "Indiana Pacers",
+   "2017"
+  ]
+ ],
+ "Chris Bosh": [
+  [
+   "Miami Heat",
+   "2017"
+  ]
+ ],
+ "Leandro Barbosa": [
+  [
+   "Phoenix Suns",
+   "2017"
+  ]
+ ],
+ "Tarik Black": [
+  [
+   "Los Angeles Lakers",
+   "2017"
+  ]
+ ],
+ "Mike Dunleavy": [
+  [
+   "Atlanta Hawks",
+   "2017"
+  ]
+ ],
+ "Rajon Rondo": [
+  [
+   "Chicago Bulls",
+   "2017"
+  ]
+ ],
+ "Maurice Ndour": [
+  [
+   "New York Knicks",
+   "2017"
+  ],
+  [
+   "Dallas Mavericks",
+   "2015"
+  ]
+ ],
+ "Gerald Henderson": [
+  [
+   "Philadelphia 76ers",
+   "2017"
+  ]
+ ],
+ "Festus Ezeli": [
+  [
+   "Portland Trail Blazers",
+   "2017"
+  ]
+ ],
+ "Darrun Hilliard": [
+  [
+   "LA Clippers",
+   "2017"
+  ]
+ ],
+ "Jordan Hill": [
+  [
+   "Minnesota Timberwolves",
+   "2017"
+  ]
+ ],
+ "Arron Afflalo": [
+  [
+   "Sacramento Kings",
+   "2017"
+  ]
+ ],
+ "Nikola Pekovic": [
+  [
+   "Minnesota Timberwolves",
+   "2017"
+  ]
+ ],
+ "Anthony Tolliver": [
+  [
+   "Sacramento Kings",
+   "2017"
+  ]
+ ],
+ "Larry Sanders": [
+  [
+   "Cleveland Cavaliers",
+   "2017"
+  ]
+ ],
+ "Terrence Jones": [
+  [
+   "Milwaukee Bucks",
+   "2017"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2017"
+  ]
+ ],
+ "Rodney Stuckey": [
+  [
+   "Indiana Pacers",
+   "2017"
+  ]
+ ],
+ "Toney Douglas": [
+  [
+   "Memphis Grizzlies",
+   "2017"
+  ],
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2016"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2016"
+  ],
+  [
+   "Indiana Pacers",
+   "2015"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2015"
+  ]
+ ],
+ "Jose Calderon": [
+  [
+   "Golden State Warriors",
+   "2017"
+  ],
+  [
+   "Los Angeles Lakers",
+   "2017"
+  ]
+ ],
+ "Jordan McRae": [
+  [
+   "Cleveland Cavaliers",
+   "2017"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2015"
+  ]
+ ],
+ "Luis Scola": [
+  [
+   "Brooklyn Nets",
+   "2017"
+  ]
+ ],
+ "Lamar Patterson": [
+  [
+   "Atlanta Hawks",
+   "2017"
+  ],
+  [
+   "Sacramento Kings",
+   "2016"
+  ],
+  [
+   "Sacramento Kings",
+   "2016"
+  ],
+  [
+   "Atlanta Hawks",
+   "2016"
+  ]
+ ],
+ "Marcelo Huertas": [
+  [
+   "Houston Rockets",
+   "2017"
+  ]
+ ],
+ "Jared Sullinger": [
+  [
+   "Phoenix Suns",
+   "2017"
+  ]
+ ],
+ "Marcus Thornton": [
+  [
+   "Brooklyn Nets",
+   "2017"
+  ],
+  [
+   "Houston Rockets",
+   "2016"
+  ]
+ ],
+ "Deron Williams": [
+  [
+   "Dallas Mavericks",
+   "2017"
+  ],
+  [
+   "Brooklyn Nets",
+   "2015"
+  ]
+ ],
+ "Matt Barnes": [
+  [
+   "Sacramento Kings",
+   "2017"
+  ]
+ ],
+ "Chris Andersen": [
+  [
+   "Charlotte Hornets",
+   "2017"
+  ]
+ ],
+ "Derrick Williams": [
+  [
+   "Miami Heat",
+   "2017"
+  ]
+ ],
+ "Anderson Varejao": [
+  [
+   "Golden State Warriors",
+   "2017"
+  ],
+  [
+   "Portland Trail Blazers",
+   "2016"
+  ]
+ ],
+ "Steve Novak": [
+  [
+   "Milwaukee Bucks",
+   "2017"
+  ],
+  [
+   "Denver Nuggets",
+   "2016"
+  ]
+ ],
+ "Mo Williams": [
+  [
+   "Denver Nuggets",
+   "2017"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2017"
+  ],
+  [
+   "Denver Nuggets",
+   "2017"
+  ]
+ ],
+ "John Lucas III": [
+  [
+   "Minnesota Timberwolves",
+   "2017"
+  ],
+  [
+   "Miami Heat",
+   "2015"
+  ]
+ ],
+ "Arinze Onuaku": [
+  [
+   "Orlando Magic",
+   "2017"
+  ]
+ ],
+ "Pierre Jackson": [
+  [
+   "Dallas Mavericks",
+   "2017"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2015"
+  ]
+ ],
+ "Alonzo Gee": [
+  [
+   "Denver Nuggets",
+   "2017"
+  ],
+  [
+   "New Orleans Pelicans",
+   "2016"
+  ]
+ ],
+ "Aaron Harrison": [
+  [
+   "Charlotte Hornets",
+   "2017"
+  ]
+ ],
+ "Reggie Williams": [
+  [
+   "New Orleans Pelicans",
+   "2017"
+  ],
+  [
+   "Oklahoma City Thunder",
+   "2016"
+  ],
+  [
+   "San Antonio Spurs",
+   "2015"
+  ]
+ ],
+ "Jonathan Gibson": [
+  [
+   "Dallas Mavericks",
+   "2016"
+  ],
+  [
+   "Dallas Mavericks",
+   "2016"
+  ]
+ ],
+ "Nicolas Laprovittola": [
+  [
+   "San Antonio Spurs",
+   "2016"
+  ]
+ ],
+ "Yogi Ferrell": [
+  [
+   "Brooklyn Nets",
+   "2016"
+  ],
+  [
+   "Brooklyn Nets",
+   "2016"
+  ]
+ ],
+ "Quincy Acy": [
+  [
+   "Dallas Mavericks",
+   "2016"
+  ]
+ ],
+ "Greivis Vasquez": [
+  [
+   "Brooklyn Nets",
+   "2016"
+  ]
+ ],
+ "Lance Stephenson": [
+  [
+   "New Orleans Pelicans",
+   "2016"
+  ]
+ ],
+ "Jordan Farmar": [
+  [
+   "Sacramento Kings",
+   "2016"
+  ],
+  [
+   "Sacramento Kings",
+   "2016"
+  ]
+ ],
+ "Dahntay Jones": [
+  [
+   "Cleveland Cavaliers",
+   "2016"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2016"
+  ],
+  [
+   "Brooklyn Nets",
+   "2015"
+  ]
+ ],
+ "Ray McCallum": [
+  [
+   "Detroit Pistons",
+   "2016"
+  ],
+  [
+   "San Antonio Spurs",
+   "2016"
+  ]
+ ],
+ "Pablo Prigioni": [
+  [
+   "Houston Rockets",
+   "2016"
+  ],
+  [
+   "Denver Nuggets",
+   "2015"
+  ]
+ ],
+ "Ben Bentil": [
+  [
+   "Indiana Pacers",
+   "2016"
+  ],
+  [
+   "Boston Celtics",
+   "2016"
+  ]
+ ],
+ "Jianlian Yi": [
+  [
+   "Los Angeles Lakers",
+   "2016"
+  ]
+ ],
+ "Jordan Adams": [
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ]
+ ],
+ "Matt Costello": [
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ],
+  [
+   "Atlanta Hawks",
+   "2016"
+  ]
+ ],
+ "Mitch McGary": [
+  [
+   "Oklahoma City Thunder",
+   "2016"
+  ]
+ ],
+ "Ronnie Price": [
+  [
+   "Oklahoma City Thunder",
+   "2016"
+  ]
+ ],
+ "Dionte Christmas": [
+  [
+   "Philadelphia 76ers",
+   "2016"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2015"
+  ]
+ ],
+ "Josh Magette": [
+  [
+   "Atlanta Hawks",
+   "2016"
+  ]
+ ],
+ "Mike Tobey": [
+  [
+   "Charlotte Hornets",
+   "2016"
+  ]
+ ],
+ "John Holland": [
+  [
+   "Cleveland Cavaliers",
+   "2016"
+  ],
+  [
+   "Boston Celtics",
+   "2016"
+  ]
+ ],
+ "Robbie Hummel": [
+  [
+   "Denver Nuggets",
+   "2016"
+  ]
+ ],
+ "Nate Wolters": [
+  [
+   "Denver Nuggets",
+   "2016"
+  ]
+ ],
+ "PJ Hairston": [
+  [
+   "Houston Rockets",
+   "2016"
+  ]
+ ],
+ "Wayne Selden": [
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ]
+ ],
+ "DJ Stephens": [
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ],
+  [
+   "Cleveland Cavaliers",
+   "2015"
+  ]
+ ],
+ "Luis Montero": [
+  [
+   "Miami Heat",
+   "2016"
+  ],
+  [
+   "Portland Trail Blazers",
+   "2016"
+  ]
+ ],
+ "Orlando Johnson": [
+  [
+   "Milwaukee Bucks",
+   "2016"
+  ]
+ ],
+ "JJ O'Brien": [
+  [
+   "Milwaukee Bucks",
+   "2016"
+  ],
+  [
+   "Utah Jazz",
+   "2015"
+  ]
+ ],
+ "Rasual Butler": [
+  [
+   "Minnesota Timberwolves",
+   "2016"
+  ],
+  [
+   "San Antonio Spurs",
+   "2016"
+  ]
+ ],
+ "Toure' Murry": [
+  [
+   "Minnesota Timberwolves",
+   "2016"
+  ],
+  [
+   "Washington Wizards",
+   "2015"
+  ]
+ ],
+ "Elton Brand": [
+  [
+   "Philadelphia 76ers",
+   "2016"
+  ]
+ ],
+ "Grant Jerrett": [
+  [
+   "Portland Trail Blazers",
+   "2016"
+  ],
+  [
+   "Utah Jazz",
+   "2015"
+  ]
+ ],
+ "Ryan Arcidiacono": [
+  [
+   "San Antonio Spurs",
+   "2016"
+  ]
+ ],
+ "Casper Ware": [
+  [
+   "Washington Wizards",
+   "2016"
+  ]
+ ],
+ "Greg Stiemsma": [
+  [
+   "Portland Trail Blazers",
+   "2016"
+  ],
+  [
+   "Orlando Magic",
+   "2015"
+  ]
+ ],
+ "Will Bynum": [
+  [
+   "Atlanta Hawks",
+   "2016"
+  ]
+ ],
+ "Spencer Dinwiddie": [
+  [
+   "Chicago Bulls",
+   "2016"
+  ],
+  [
+   "Chicago Bulls",
+   "2016"
+  ]
+ ],
+ "Robert Sacre": [
+  [
+   "New Orleans Pelicans",
+   "2016"
+  ]
+ ],
+ "Lou Amundson": [
+  [
+   "New York Knicks",
+   "2016"
+  ]
+ ],
+ "Damien Inglis": [
+  [
+   "New York Knicks",
+   "2016"
+  ],
+  [
+   "Milwaukee Bucks",
+   "2016"
+  ]
+ ],
+ "Cleanthony Early": [
+  [
+   "New York Knicks",
+   "2016"
+  ]
+ ],
+ "Henry Sims": [
+  [
+   "Utah Jazz",
+   "2016"
+  ],
+  [
+   "Phoenix Suns",
+   "2015"
+  ]
+ ],
+ "Damion Lee": [
+  [
+   "Boston Celtics",
+   "2016"
+  ]
+ ],
+ "Phil Pressey": [
+  [
+   "Golden State Warriors",
+   "2016"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2015"
+  ],
+  [
+   "Utah Jazz",
+   "2015"
+  ],
+  [
+   "Portland Trail Blazers",
+   "2015"
+  ],
+  [
+   "Boston Celtics",
+   "2015"
+  ]
+ ],
+ "Elliot Williams": [
+  [
+   "Golden State Warriors",
+   "2016"
+  ],
+  [
+   "Charlotte Hornets",
+   "2015"
+  ]
+ ],
+ "Chris Crawford": [
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ]
+ ],
+ "Vincent Hunter": [
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ],
+  [
+   "Chicago Bulls",
+   "2016"
+  ],
+  [
+   "Sacramento Kings",
+   "2015"
+  ]
+ ],
+ "Chase Budinger": [
+  [
+   "Brooklyn Nets",
+   "2016"
+  ],
+  [
+   "Indiana Pacers",
+   "2016"
+  ]
+ ],
+ "Keith Benson": [
+  [
+   "Miami Heat",
+   "2016"
+  ],
+  [
+   "Miami Heat",
+   "2015"
+  ]
+ ],
+ "Branden Dawson": [
+  [
+   "Orlando Magic",
+   "2016"
+  ],
+  [
+   "LA Clippers",
+   "2016"
+  ]
+ ],
+ "Kevin Murphy": [
+  [
+   "Orlando Magic",
+   "2016"
+  ]
+ ],
+ "Alex Caruso": [
+  [
+   "Oklahoma City Thunder",
+   "2016"
+  ]
+ ],
+ "D.J. Kennedy": [
+  [
+   "Denver Nuggets",
+   "2016"
+  ]
+ ],
+ "Eric Dawson": [
+  [
+   "Utah Jazz",
+   "2016"
+  ]
+ ],
+ "Marcus Paige": [
+  [
+   "Utah Jazz",
+   "2016"
+  ]
+ ],
+ "Dorell Wright": [
+  [
+   "LA Clippers",
+   "2016"
+  ]
+ ],
+ "Tony Wroten": [
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ],
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ],
+  [
+   "New York Knicks",
+   "2016"
+  ],
+  [
+   "Philadelphia 76ers",
+   "2015"
+  ]
+ ],
+ "Jabari Brown": [
+  [
+   "Milwaukee Bucks",
+   "2016"
+  ],
+  [
+   "Los Angeles Lakers",
+   "2015"
+  ]
+ ],
+ "Chris Copeland": [
+  [
+   "New Orleans Pelicans",
+   "2016"
+  ],
+  [
+   "Orlando Magic",
+   "2016"
+  ],
+  [
+   "Milwaukee Bucks",
+   "2016"
+  ]
+ ],
+ "Kevin Garnett": [
+  [
+   "Minnesota Timberwolves",
+   "2016"
+  ]
+ ],
+ "Xavier Henry": [
+  [
+   "Milwaukee Bucks",
+   "2016"
+  ],
+  [
+   "Golden State Warriors",
+   "2015"
+  ]
+ ],
+ "Carl Landry": [
+  [
+   "Philadelphia 76ers",
+   "2016"
+  ]
+ ],
+ "Tibor Pleiss": [
+  [
+   "Philadelphia 76ers",
+   "2016"
+  ]
+ ],
+ "Shayne Whittington": [
+  [
+   "Indiana Pacers",
+   "2016"
+  ]
+ ],
+ "Amar'e Stoudemire": [
+  [
+   "New York Knicks",
+   "2016"
+  ]
+ ],
+ "Sasha Kaun": [
+  [
+   "Philadelphia 76ers",
+   "2016"
+  ]
+ ],
+ "Tim Duncan": [
+  [
+   "San Antonio Spurs",
+   "2016"
+  ]
+ ],
+ "Andrew Goudelock": [
+  [
+   "Houston Rockets",
+   "2016"
+  ]
+ ],
+ "JaVale McGee": [
+  [
+   "Dallas Mavericks",
+   "2016"
+  ]
+ ],
+ "Cameron Bairstow": [
+  [
+   "Detroit Pistons",
+   "2016"
+  ]
+ ],
+ "Drew Gooden": [
+  [
+   "Washington Wizards",
+   "2016"
+  ]
+ ],
+ "Caron Butler": [
+  [
+   "Sacramento Kings",
+   "2016"
+  ]
+ ],
+ "Duje Dukan": [
+  [
+   "Sacramento Kings",
+   "2016"
+  ]
+ ],
+ "Greg Smith": [
+  [
+   "Minnesota Timberwolves",
+   "2016"
+  ]
+ ],
+ "Ryan Hollins": [
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ],
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ],
+  [
+   "Washington Wizards",
+   "2015"
+  ],
+  [
+   "Memphis Grizzlies",
+   "2015"
+  ]
+ ],
+ "Sonny Weems": [
+  [
+   "Philadelphia 76ers",
+   "2016"
+  ],
+  [
+   "Phoenix Suns",
+   "2016"
+  ]
+ ],
+ "Mario Chalmers": [
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ]
+ ],
+ "Gary Neal": [
+  [
+   "Washington Wizards",
+   "2016"
+  ]
+ ],
+ "Ty Lawson": [
+  [
+   "Houston Rockets",
+   "2016"
+  ]
+ ],
+ "Kevin Martin": [
+  [
+   "Minnesota Timberwolves",
+   "2016"
+  ]
+ ],
+ "James Ennis III": [
+  [
+   "Memphis Grizzlies",
+   "2016"
+  ]
+ ],
+ "Andre Miller": [
+  [
+   "Minnesota Timberwolves",
+   "2016"
+  ]
+ ],
+ "DeJuan Blair": [
+  [
+   "Phoenix Suns",
+   "2016"
+  ]
+ ],
+ "Jason Thompson": [
+  [
+   "Golden State Warriors",
+   "2016"
+  ]
+ ],
+ "Andrea Bargnani": [
+  [
+   "Brooklyn Nets",
+   "2016"
+  ]
+ ],
+ "David Lee": [
+  [
+   "Boston Celtics",
+   "2016"
+  ]
+ ],
+ "JJ Hickson": [
+  [
+   "Denver Nuggets",
+   "2016"
+  ]
+ ],
+ "Joe Harris": [
+  [
+   "Orlando Magic",
+   "2016"
+  ]
+ ],
+ "Kostas Papanikolaou": [
+  [
+   "Denver Nuggets",
+   "2016"
+  ],
+  [
+   "Denver Nuggets",
+   "2015"
+  ]
+ ],
+ "Bryce Cotton": [
+  [
+   "Phoenix Suns",
+   "2016"
+  ],
+  [
+   "Utah Jazz",
+   "2015"
+  ]
+ ],
+ "Russ Smith": [
+  [
+   "Memphis Grizzlies",
+   "2015"
+  ]
+ ],
+ "Jimmer Fredette": [
+  [
+   "New Orleans Pelicans",
+   "2015"
+  ],
+  [
+   "San Antonio Spurs",
+   "2015"
+  ]
+ ],
+ "Chuck Hayes": [
+  [
+   "Houston Rockets",
+   "2015"
+  ],
+  [
+   "LA Clippers",
+   "2015"
+  ]
+ ],
+ "Erick Green": [
+  [
+   "Denver Nuggets",
+   "2015"
+  ]
+ ],
+ "Nate Robinson": [
+  [
+   "New Orleans Pelicans",
+   "2015"
+  ]
+ ],
+ "Justin Harper": [
+  [
+   "Brooklyn Nets",
+   "2015"
+  ]
+ ],
+ "Danny Granger": [
+  [
+   "Detroit Pistons",
+   "2015"
+  ]
+ ],
+ "Furkan Aldemir": [
+  [
+   "Philadelphia 76ers",
+   "2015"
+  ]
+ ],
+ "Earl Barron": [
+  [
+   "Atlanta Hawks",
+   "2015"
+  ]
+ ],
+ "Samuel Dalembert": [
+  [
+   "Dallas Mavericks",
+   "2015"
+  ]
+ ],
+ "Jamil Wilson": [
+  [
+   "Dallas Mavericks",
+   "2015"
+  ]
+ ],
+ "Yakhouba Diawara": [
+  [
+   "Memphis Grizzlies",
+   "2015"
+  ]
+ ],
+ "Alex Stepheson": [
+  [
+   "Memphis Grizzlies",
+   "2015"
+  ]
+ ],
+ "Jeff Adrien": [
+  [
+   "New Orleans Pelicans",
+   "2015"
+  ]
+ ],
+ "Bryce Dejean-Jones": [
+  [
+   "New Orleans Pelicans",
+   "2015"
+  ]
+ ],
+ "Josh Harrellson": [
+  [
+   "Washington Wizards",
+   "2015"
+  ]
+ ],
+ "Ish Smith": [
+  [
+   "Washington Wizards",
+   "2015"
+  ]
+ ],
+ "Jack Cooley": [
+  [
+   "Cleveland Cavaliers",
+   "2015"
+  ],
+  [
+   "Utah Jazz",
+   "2015"
+  ]
+ ],
+ "Austin Daye": [
+  [
+   "Cleveland Cavaliers",
+   "2015"
+  ],
+  [
+   "Atlanta Hawks",
+   "2015"
+  ]
+ ],
+ "Oleksiy Pecherov": [
+  [
+   "Denver Nuggets",
+   "2015"
+  ]
+ ],
+ "Chris Babb": [
+  [
+   "Golden State Warriors",
+   "2015"
+  ]
+ ],
+ "Jeremy Tyler": [
+  [
+   "Houston Rockets",
+   "2015"
+  ]
+ ],
+ "Chris Douglas-Roberts": [
+  [
+   "New Orleans Pelicans",
+   "2015"
+  ]
+ ],
+ "DaJuan Summers": [
+  [
+   "New York Knicks",
+   "2015"
+  ]
+ ],
+ "Thanasis Antetokounmpo": [
+  [
+   "New York Knicks",
+   "2015"
+  ]
+ ],
+ "Cartier Martin": [
+  [
+   "Detroit Pistons",
+   "2015"
+  ]
+ ],
+ "Adonis Thomas": [
+  [
+   "Detroit Pistons",
+   "2015"
+  ]
+ ],
+ "Marcus Landry": [
+  [
+   "Milwaukee Bucks",
+   "2015"
+  ]
+ ],
+ "Josh Powell": [
+  [
+   "Milwaukee Bucks",
+   "2015"
+  ]
+ ],
+ "Coty Clarke": [
+  [
+   "Boston Celtics",
+   "2015"
+  ]
+ ],
+ "Quincy Miller": [
+  [
+   "Brooklyn Nets",
+   "2015"
+  ]
+ ],
+ "Treveon Graham": [
+  [
+   "Utah Jazz",
+   "2015"
+  ]
+ ],
+ "Keith Appling": [
+  [
+   "Orlando Magic",
+   "2015"
+  ]
+ ],
+ "Jerome Jordan": [
+  [
+   "New Orleans Pelicans",
+   "2015"
+  ]
+ ],
+ "Terrico White": [
+  [
+   "Phoenix Suns",
+   "2015"
+  ]
+ ],
+ "Ben Gordon": [
+  [
+   "Golden State Warriors",
+   "2015"
+  ]
+ ],
+ "Deonte Burton": [
+  [
+   "Phoenix Suns",
+   "2015"
+  ]
+ ],
+ "Nikoloz Tskitishvili": [
+  [
+   "LA Clippers",
+   "2015"
+  ]
+ ],
+ "Gerald Wallace": [
+  [
+   "Philadelphia 76ers",
+   "2015"
+  ]
+ ],
+ "Jason Richardson": [
+  [
+   "Atlanta Hawks",
+   "2015"
+  ]
+ ],
+ "Patrick Christopher": [
+  [
+   "Memphis Grizzlies",
+   "2015"
+  ]
+ ],
+ "Joey Dorsey": [
+  [
+   "Denver Nuggets",
+   "2015"
+  ]
+ ],
+ "Earl Clark": [
+  [
+   "Brooklyn Nets",
+   "2015"
+  ]
+ ],
+ "Zoran Dragic": [
+  [
+   "Boston Celtics",
+   "2015"
+  ]
+ ],
+ "Jordan Hamilton": [
+  [
+   "LA Clippers",
+   "2015"
+  ]
+ ],
+ "Brendan Haywood": [
+  [
+   "Portland Trail Blazers",
+   "2015"
+  ]
+ ],
+ "Ricky Ledo": [
+  [
+   "New York Knicks",
+   "2015"
+  ]
+ ],
+ "Henry Walker": [
+  [
+   "Miami Heat",
+   "2015"
+  ]
+ ],
+ "Jerel McNeal": [
+  [
+   "Phoenix Suns",
+   "2015"
+  ]
+ ],
+ "Lester Hudson": [
+  [
+   "LA Clippers",
+   "2015"
+  ]
+ ],
+ "Jamaal Franklin": [
+  [
+   "Denver Nuggets",
+   "2015"
+  ]
+ ],
+ "Luke Ridnour": [
+  [
+   "Toronto Raptors",
+   "2015"
+  ]
  ]
 }

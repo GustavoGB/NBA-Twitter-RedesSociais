@@ -4,6 +4,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import json
 import os
+from collections import defaultdict
+
 
 list_teams = ["Golden State Warriors", "LA Clippers","Boston Celtics", "Chicago Bulls", "Houston Rockets", "Cleveland Cavaliers", 
                 "Dallas Mavericks", "Los Angeles Lakers", "Brooklyn Nets", "Memphis Grizzlies", "Washington Wizards", "Oklahoma City Thunder", 
@@ -11,6 +13,9 @@ list_teams = ["Golden State Warriors", "LA Clippers","Boston Celtics", "Chicago 
                 "Portland Trail Blazers", "Boston Celtics", "Milwaukee Bucks", "New Orleans Pelicans", "Toronto Raptors", "Phoenix Suns",
                 "New York Knicks", "Detroit Pistons", "Utah Jazz", "Sacramento Kings", "Atlanta Hawks", "Orlando Magic", "San Antonio Spurs"]
 
+if "all_players.json":
+    with open("all_players.json", 'r') as f:
+        all_players = json.load(f)
 
 def parse_to_json(transfer, year, list_teams, list_players):
     dict_json = {}
@@ -20,15 +25,13 @@ def parse_to_json(transfer, year, list_teams, list_players):
     for player in list_players:
         if player in transfer:
             key = player
-    if key == None: #Caso o jogador não esteja na base, não queremos adicionar uma chave vazia
-        print(player)
+    if key == None: 
         return -1
     
     for team in list_teams:
         if team in transfer:
             key_team = team
     if key_team == None: #Caso o time não esteja na base, não queremos adicionar uma chave vazia
-        print(team)
         return -1
     l_temp = []
     l_temp.append(key_team)
@@ -42,7 +45,7 @@ driver.get("https://stats.nba.com/transactions/")
 print(driver.current_url)
 assert "" in driver.current_url
 
-for i in range(25):
+for i in range(100):
     try:
         see_more = driver.find_element_by_xpath("//div[@class='button-container small-12 columns']/a[@class='button']")
 
@@ -58,7 +61,10 @@ for i in range(25):
 containers = driver.find_elements_by_xpath("//div[@class='transactions-list__date columns large-12']")
 dict_transferencias_signed = {}
 dict_transferencias_waived = {}
+dict_waived = defaultdict(list)
+dict_signed = defaultdict(list)
 for i in range(len(containers)):
+    dict_json = {}
     all_container_transfers = 0
     container_transfer = 0
     #i+1 pega cada container
@@ -84,20 +90,55 @@ for i in range(len(containers)):
             if "re-signed" in container_transfer.text:
                 pass
             elif "signed" in container_transfer.text:
-                dict_transferencias_signed[container_transfer.text] = string_ano
-                dict_transferencias_signed[last_transf.text] = string_ano
-            elif "waived" in container_transfer.text:
-                dict_transferencias_waived[container_transfer.text] = string_ano
-                dict_transferencias_waived[last_transf.text] = string_ano
+                dict_json = parse_to_json(container_transfer.text, string_ano, list_teams, all_players) 
+                if dict_json != -1:
+                    for key,value in dict_json.items():
+                        if(key in dict_signed):
+                            print("repetido signed", dict_json)
+                            dict_signed[key].append(value)
+                        else:
+                            l_temp = []
+                            l_temp.append(value)
+                            dict_signed[key] = l_temp
 
-    else:
-        #colocar a last na lista
-        if "re-signed" in last_transf.text:
-            pass
-        elif "signed" in last_transf.text:
-            dict_transferencias_signed[last_transf.text] = string_ano
-        elif "waived" in last_transf.text:
-            dict_transferencias_waived[last_transf.text] = string_ano
+            elif "waived" in container_transfer.text:
+                dict_json = parse_to_json(container_transfer.text, string_ano, list_teams, all_players) 
+                if dict_json != -1:
+                    for key,value in dict_json.items():
+                        if(key in dict_waived):
+                            print("repetido waived", dict_json)
+                            dict_waived[key].append(value)
+                        else:
+                            l_temp = []
+                            l_temp.append(value)
+                            dict_waived[key] = l_temp
+
+    #colocar a last na lista
+    if "re-signed" in last_transf.text:
+        pass
+    elif "signed" in last_transf.text:
+        dict_json = parse_to_json(last_transf.text, string_ano, list_teams, all_players) 
+        if dict_json != -1:
+            for key,value in dict_json.items():
+                if(key in dict_signed):
+                    print("repetido signed", dict_json)
+                    dict_signed[key].append(value)
+                else:
+                    l_temp = []
+                    l_temp.append(value)
+                    dict_signed[key] = l_temp
+
+    elif "waived" in last_transf.text:
+        dict_json = parse_to_json(last_transf.text, string_ano, list_teams, all_players) 
+        if dict_json != -1:
+            for key,value in dict_json.items():
+                if(key in dict_waived):
+                    print("repetido waived", dict_json)
+                    dict_waived[key].append(value)
+                else:
+                    l_temp = []
+                    l_temp.append(value)
+                    dict_waived[key] = l_temp
 
 try:
     os.remove("signed.json")
@@ -105,33 +146,8 @@ try:
 except:
     pass
 
-if "all_players.json":
-    with open("all_players.json", 'r') as f:
-        all_players = json.load(f)
-print("Colocando nos jsons...")
-dict_signed = {}
 with open("signed.json", 'w') as f:
-    for key in dict_transferencias_signed:
-        dict_json = parse_to_json(key, dict_transferencias_signed[key], list_teams, all_players) 
-        if dict_json != -1:
-            if all(key in dict_signed.items() for key,value in dict_json.items()):
-                print("repetido signed", dict_json)
-                for key,value in dict_json.items(): 
-                    dict_signed[key].append(value)
-            else:
-                dict_signed.update(dict_json)
     json.dump(dict_signed, f, indent=1)
 
-dict_json = {}
-dict_waived = {}
 with open("waived.json", "w") as f:
-    for key in dict_transferencias_waived:
-        dict_json = parse_to_json(key, dict_transferencias_waived[key], list_teams, all_players) 
-        if dict_json != -1:
-            if all(key in dict_waived.items() for key,value in dict_json.items()):
-                print("repetido waived", dict_json)
-                for key,value in dict_json.items(): 
-                    dict_waived[dict_json].append(value)
-            else:
-                dict_waived.update(dict_json)
     json.dump(dict_waived, f, indent=1)
