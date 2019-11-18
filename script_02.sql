@@ -9,5 +9,5 @@ CREATE TABLE rivalidade (
 		REFERENCES times (id_time),
 	FOREIGN KEY (id_time2)
 		REFERENCES times (id_time),
-	PRIMARY KEY (id_time1, id_time2)
+	PRIMARY KEY (id_time1, id_time2, ano)
 );
