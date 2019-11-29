@@ -15,7 +15,7 @@ CREATE TABLE times (
 );
 
 CREATE TABLE transferencia (
-	id_transferencia INT NOT NULL auto_increment,
+	id_transferencia INT NOT NULL DEFAULT 0,
     id_jogador INT NOT NULL,
     id_time INT NOT NULL,
 	ano INT NOT NULL,
@@ -23,9 +23,8 @@ CREATE TABLE transferencia (
 		REFERENCES jogador (id_jogador),
 	FOREIGN KEY (id_time)
 		REFERENCES times (id_time),
-	PRIMARY KEY (id_transferencia, id_jogador, id_time, ano)
+	PRIMARY KEY (id_jogador, id_time, ano)
 );
-
 
 CREATE TABLE waived (
 	id_waived INT NOT NULL auto_increment,
