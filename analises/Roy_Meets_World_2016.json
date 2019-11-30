@@ -1,0 +1,1806 @@
+{
+  "Roy_Meets_World": [
+    [
+      "Roy Hibbert sera absent ce soir face \u00e0 @ UtahJazz_France mais a une petite chance de jouer face a @ RaptorsFanFr vendredi. @ Roy_Meets_World https://twitter.com/HornetsPR/status/796388445988016128 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.25
+      }
+    ],
+    [
+      "@ maxxmarino24 @KyFlynn8 you were saying?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I don't think it's that great of a pickup. But I just hope he plays well while he's here",
+      {
+        "neg": 0.0,
+        "neu": 0.51,
+        "pos": 0.49,
+        "compound": 0.8898
+      }
+    ],
+    [
+      "wow. So he's just a bench rider who wants to get injured the second he puts on a Hornets uniform",
+      {
+        "neg": 0.12,
+        "neu": 0.711,
+        "pos": 0.169,
+        "compound": 0.2732
+      }
+    ],
+    [
+      "and if it is true, he is just a bench rider with no rebounds. Lol",
+      {
+        "neg": 0.117,
+        "neu": 0.585,
+        "pos": 0.298,
+        "compound": 0.5267
+      }
+    ],
+    [
+      "that has to be false",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "gotta jump to have jumpers knee but Roy has been hurt for years and Cho is the dumb one to sign him",
+      {
+        "neg": 0.312,
+        "neu": 0.688,
+        "pos": 0.0,
+        "compound": -0.8765
+      }
+    ],
+    [
+      "Working hard to get back to it @ Roy_Meets_World (Vine by @ hornets)https://vine.co/v/5jHixlJWFr5",
+      {
+        "neg": 0.123,
+        "neu": 0.877,
+        "pos": 0.0,
+        "compound": -0.1027
+      }
+    ],
+    [
+      "I've never seen someone miss so many games for \"knee soreness\"",
+      {
+        "neg": 0.0,
+        "neu": 0.874,
+        "pos": 0.126,
+        "compound": 0.1139
+      }
+    ],
+    [
+      "Put some Tussin' on that knee and let's get at it tomorrow! # BeatUtah",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Working hard to get back to it @ Roy_Meets_World https://vine.co/v/5jHixlJWFr5",
+      {
+        "neg": 0.149,
+        "neu": 0.851,
+        "pos": 0.0,
+        "compound": -0.1027
+      }
+    ],
+    [
+      "@ Roy_Meets_World better hurry up, he's missing all the fun!!!! pic.twitter.com/WIMeiUy7KO",
+      {
+        "neg": 0.154,
+        "neu": 0.561,
+        "pos": 0.285,
+        "compound": 0.4344
+      }
+    ],
+    [
+      "happy to hear it man I'm hoping for the best good luck big dog",
+      {
+        "neg": 0.0,
+        "neu": 0.352,
+        "pos": 0.648,
+        "compound": 0.9485
+      }
+    ],
+    [
+      "hopefully soon. I'm working so hard to get back.",
+      {
+        "neg": 0.161,
+        "neu": 0.605,
+        "pos": 0.233,
+        "compound": 0.2105
+      }
+    ],
+    [
+      "@ AlliWebb do u guys franchise?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World You look nice in your suit. Sure wish your knees would let you play. Miss you!",
+      {
+        "neg": 0.066,
+        "neu": 0.498,
+        "pos": 0.435,
+        "compound": 0.8356
+      }
+    ],
+    [
+      "@ Roy_Meets_World Serious question...you ever going to play against the @ Pacers?",
+      {
+        "neg": 0.111,
+        "neu": 0.684,
+        "pos": 0.205,
+        "compound": 0.2732
+      }
+    ],
+    [
+      "@ Roy_Meets_World when might we be able to expect your return and see you back on the court?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ chucktodd on @ Roy_Meets_World just asked \"How is America coming together on November 9?\" Has America ever been together? # whiteprivilege",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "h",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "they aren't doing the race to master prestige. They're doing it for charity.",
+      {
+        "neg": 0.0,
+        "neu": 0.811,
+        "pos": 0.189,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "they're not even close going to win the race to master prestige",
+      {
+        "neg": 0.0,
+        "neu": 0.743,
+        "pos": 0.257,
+        "compound": 0.5859
+      }
+    ],
+    [
+      "Love what @ CallofDuty is doing to support # veterans w/ # RaceToPrestige. Watch NOW! @ Twitch http://bit.ly/CODERTP @ CODE4Vets",
+      {
+        "neg": 0.0,
+        "neu": 0.644,
+        "pos": 0.356,
+        "compound": 0.8016
+      }
+    ],
+    [
+      "bruh you need to get a ps4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "masterpiece? lmfao",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.8225
+      }
+    ],
+    [
+      "@ InfinityWard @ CallofDuty thank you for this masterpiece.pic.twitter.com/DwLt3ssk16",
+      {
+        "neg": 0.0,
+        "neu": 0.706,
+        "pos": 0.294,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "Game day! Hornets at Nets tonight, BKN without @ JLin7, CHA without @ Roy_Meets_World and @ jlamb. # LetsGetTheW",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "COD or nah?!? @ Dloading @JClark5on @ Larrydn22 @ Roy_Meets_World @ J30_RANDLE @ B_Ingram13 @ CallofDuty # InfiniteWarfare # COD",
+      {
+        "neg": 0.157,
+        "neu": 0.843,
+        "pos": 0.0,
+        "compound": -0.2621
+      }
+    ],
+    [
+      "Roy Hibbert @ Roy_Meets_World no jugara este viernes @ hornets contra el cuadro de los @ BrooklynNets",
+      {
+        "neg": 0.145,
+        "neu": 0.855,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "Get Well Soon @ Roy_Meets_World & @ jlamb ... missing you guys out on the Court!!https://twitter.com/HornetsPR/status/794246114807578625 \u2026",
+      {
+        "neg": 0.175,
+        "neu": 0.693,
+        "pos": 0.132,
+        "compound": -0.1739
+      }
+    ],
+    [
+      "...or @ Roy_Meets_World",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Also learned during that Hornets timeout: @ Roy_Meets_World is not so great at spinning a ball on his finger. Keep tryin', Roy!",
+      {
+        "neg": 0.189,
+        "neu": 0.811,
+        "pos": 0.0,
+        "compound": -0.6631
+      }
+    ],
+    [
+      "I wanna go to the game to Roy. @ Roy_Meets_World or we can just have @ gucci1017 bless me with a 10 min interview while he in town",
+      {
+        "neg": 0.0,
+        "neu": 0.891,
+        "pos": 0.109,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "@ JR_Surg @ Roy_Meets_World I'm in the city. I'm coming to the game with you Wop",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "hahaha haha that's dope",
+      {
+        "neg": 0.0,
+        "neu": 0.233,
+        "pos": 0.767,
+        "compound": 0.765
+      }
+    ],
+    [
+      "@ Roy_Meets_World @ hunterkerley lol Big Roy getting the Hornets some new fans",
+      {
+        "neg": 0.0,
+        "neu": 0.781,
+        "pos": 0.219,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "lol this is so beautiful.",
+      {
+        "neg": 0.0,
+        "neu": 0.278,
+        "pos": 0.722,
+        "compound": 0.8312
+      }
+    ],
+    [
+      "Don't forget a brotha",
+      {
+        "neg": 0.0,
+        "neu": 0.546,
+        "pos": 0.454,
+        "compound": 0.1695
+      }
+    ],
+    [
+      "where at??",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ gucci1017 I see u gonna be in Charlotte NC Nov 26th. We have a home game that night. I want 2leave you some Tix to the game before ur show",
+      {
+        "neg": 0.0,
+        "neu": 0.951,
+        "pos": 0.049,
+        "compound": 0.0772
+      }
+    ],
+    [
+      "@ Rainbow6Game I know you'd ball me up but let's run that rainbow 1v1 g",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World had me rolling in his appearance on @ ericandre",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I don't know... @ Roy_Meets_World you still playing?",
+      {
+        "neg": 0.0,
+        "neu": 0.735,
+        "pos": 0.265,
+        "compound": 0.2023
+      }
+    ],
+    [
+      "@ Roy_Meets_World please vote for # indianapolis to win a $30k # BenefulDogPark makeover! http://Wm6.walmart.com/beneful pic.twitter.com/YZJ9OSGuUV",
+      {
+        "neg": 0.0,
+        "neu": 0.61,
+        "pos": 0.39,
+        "compound": 0.75
+      }
+    ],
+    [
+      "You play rainbow six? @ Larrydn22 @ Roy_Meets_World",
+      {
+        "neg": 0.0,
+        "neu": 0.676,
+        "pos": 0.324,
+        "compound": 0.34
+      }
+    ],
+    [
+      "@ Rainbow6Game do we get a charm again at the end of the season with ranked like a plat or diamond 1?",
+      {
+        "neg": 0.0,
+        "neu": 0.678,
+        "pos": 0.322,
+        "compound": 0.765
+      }
+    ],
+    [
+      "we know you sorry Larry",
+      {
+        "neg": 0.245,
+        "neu": 0.755,
+        "pos": 0.0,
+        "compound": -0.0772
+      }
+    ],
+    [
+      "There will be plenty of Operation Red Crow info for you after your next few games. Good luck!",
+      {
+        "neg": 0.0,
+        "neu": 0.721,
+        "pos": 0.279,
+        "compound": 0.7345
+      }
+    ],
+    [
+      "Big Roy we need you back in Indy man our defense is shit ty.",
+      {
+        "neg": 0.193,
+        "neu": 0.588,
+        "pos": 0.219,
+        "compound": -0.128
+      }
+    ],
+    [
+      "come play with me Google",
+      {
+        "neg": 0.0,
+        "neu": 0.625,
+        "pos": 0.375,
+        "compound": 0.34
+      }
+    ],
+    [
+      "@ Roy_Meets_World Roy you want to be tonight with us on Black Ops 3 having some fun until cod 4 comes out. Bucks fan but i saw u nd hornets",
+      {
+        "neg": 0.0,
+        "neu": 0.816,
+        "pos": 0.184,
+        "compound": 0.4497
+      }
+    ],
+    [
+      "my center a gamer y'all. # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ waypoint hit me with a follow",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ tconscout @ MrSpab @ CParnur @ drob178 @ xericrussellx @ TripleBob59 @ ThisOnes4TPS @ KILO_CUTS @ Roy_Meets_World @PRZ_V_President",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World good stuff these past 3 games, hope your not hurt too bad # CLT # Hornets # Esports",
+      {
+        "neg": 0.0,
+        "neu": 0.491,
+        "pos": 0.509,
+        "compound": 0.8867
+      }
+    ],
+    [
+      "@ Roy_Meets_World you like third person shooters? Check out # HHOUR by @ SOFstudios trying to get this game to # PS4 it's on @ steam_games EA.",
+      {
+        "neg": 0.0,
+        "neu": 0.894,
+        "pos": 0.106,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "@ Roy_Meets_World Damn Roy call of duty really",
+      {
+        "neg": 0.31,
+        "neu": 0.69,
+        "pos": 0.0,
+        "compound": -0.4019
+      }
+    ],
+    [
+      "that controller looks awesome!",
+      {
+        "neg": 0.0,
+        "neu": 0.406,
+        "pos": 0.594,
+        "compound": 0.6588
+      }
+    ],
+    [
+      "really sick my 1 yr old scuf is starting to show it's wear, would love an infinity 4ps for # IW",
+      {
+        "neg": 0.145,
+        "neu": 0.686,
+        "pos": 0.169,
+        "compound": 0.1548
+      }
+    ],
+    [
+      "@ Roy_Meets_World @ SCUFDunc @ CallofDuty @ PlayStation",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Sick photo @ Roy_Meets_World @ ScufGaming @ CallofDuty @ PlayStation",
+      {
+        "neg": 0.398,
+        "neu": 0.602,
+        "pos": 0.0,
+        "compound": -0.5106
+      }
+    ],
+    [
+      "@ ScufGaming and @ SCUFDunc hooked your boy up. Can't wait for that new @ CallofDuty for the @ PlayStationpic.twitter.com/3jlyPtvw6z",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World ROY any chance I could get a follow back? # SOVEREIGNpic.twitter.com/dxDjwQMKio",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.25
+      }
+    ],
+    [
+      "Volta @ Roy_Meets_World",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ FSKPart3 (foot) will make season debut tonight vs @ celtics , @ Roy_Meets_World out w/ right knee soreness # CelticsVsHornets",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Roy Hibbert ( @ Roy_Meets_World) is out tonight vs Celtics",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Tonight\u2019s # CHAatMIA starters: @ MKG14 Marvin Williams @ Roy_Meets_World @ nicolas88batum @ KembaWalker",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Starting 5 PG- @ KembaWalker SG- @ nicolas88batum SF- @ MKG14 PF- Marvin Williams C- @ Roy_Meets_World # AtTheHive # EntertheSwarm # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Hornets' Starters @Miami Heat: PG: @ KembaWalker SG: @ nicolas88batum SF: @ MKG14 PF: Marvin Williams C: @ Roy_Meets_World",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "The @ hornets starters remain the same in Game No. 2: @ KembaWalker @ nicolas88batum @ MKG14 # MarvinWilliams @ Roy_Meets_World # BuzzCity",
+      {
+        "neg": 0.128,
+        "neu": 0.872,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "thanks for doing this for us @ Roy_Meets_World pic.twitter.com/m95tg80i6e",
+      {
+        "neg": 0.0,
+        "neu": 0.707,
+        "pos": 0.293,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "My new sounds: 10 - 28 - 16 @ MattRochinski talks @ Hornets and the solid start for @ Roy_Meets_World https://soundcloud.com/the-scott-hamilton-show/10-28-16-mattrochinski-talks-hornets-and-the-solid-start-for-roy_meets_world \u2026 on # SoundCloud",
+      {
+        "neg": 0.0,
+        "neu": 0.914,
+        "pos": 0.086,
+        "compound": 0.1531
+      }
+    ],
+    [
+      "WATCH: Coach Cliff, @ Roy_Meets_World, Ramon Sessions and @ CodyZeller assess tonight's matchup vs. the @ miamiHEATpic.twitter.com/DUonOeNlE1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ rejectedjokes you still hanging with @ Roy_Meets_World ?!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World good job vs the bucks big dawg. We still love ya buddy! # A55forlife",
+      {
+        "neg": 0.0,
+        "neu": 0.619,
+        "pos": 0.381,
+        "compound": 0.8122
+      }
+    ],
+    [
+      "@ Roy_Meets_World had a better game https://twitter.com/sportscenter/status/791822033755725824 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.58,
+        "pos": 0.42,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "2016-17 Big East programming note Saturday Dec. 17 Georgetown at Syracuse 12pm ESPN cc: @ Roy_Meets_World @ edeven23pic.twitter.com/bAN1LrqNhs",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Evening Reading Part 1: @ rick_bonnell column on newest @ hornets @ Roy_Meets_World http://www.charlotteobserver.com/sports/nba/charlotte-hornets/article110741197.html \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Rectify been waiting for this all year. Thanks for coming back to us",
+      {
+        "neg": 0.0,
+        "neu": 0.805,
+        "pos": 0.195,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "I give up I never win lol",
+      {
+        "neg": 0.643,
+        "neu": 0.357,
+        "pos": 0.0,
+        "compound": -0.6602
+      }
+    ],
+    [
+      "@ Roy_Meets_World It's late, but Welcome to the Charlotte Hornets!! Glad to have you on our team!",
+      {
+        "neg": 0.0,
+        "neu": 0.612,
+        "pos": 0.388,
+        "compound": 0.8713
+      }
+    ],
+    [
+      "i want to # WinPetesSeats to cheer my hornets on up close! Was there for season opener last year & it was magic!",
+      {
+        "neg": 0.0,
+        "neu": 0.776,
+        "pos": 0.224,
+        "compound": 0.6351
+      }
+    ],
+    [
+      "@ BringBackTheBuz @ Roy_Meets_World BOI I NEEDS em # WinPetesSeats",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Reppin' the @ hornets after a great season opening win! BUZZIN4REAL!@Roy_meets_world @ MKG14 @ KembaWalker @ CodyZellerpic.twitter.com/xBDlUYENrs",
+      {
+        "neg": 0.0,
+        "neu": 0.541,
+        "pos": 0.459,
+        "compound": 0.8585
+      }
+    ],
+    [
+      "@ Roy_Meets_World great first game as a Bug glad to have you in # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 0.585,
+        "pos": 0.415,
+        "compound": 0.7964
+      }
+    ],
+    [
+      "1st vine I ever made was of # royhibbertchallenge. A couple days later @ Roy_Meets_World was doing it on TV. https://www.youtube.com/watch?v=heTerDZfzfE \u2026 # ripvine",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ SteveKerr @ Money23Green @ StephenCurry30 @ Warriors (GM) - Go.Get.Hibbert @ Roy_Meets_World The cost vs reward is\u2026 >",
+      {
+        "neg": 0.0,
+        "neu": 0.748,
+        "pos": 0.252,
+        "compound": 0.5719
+      }
+    ],
+    [
+      "I like the new picture @ Roy_Meets_World pic.twitter.com/QuTbePDoJ9",
+      {
+        "neg": 0.0,
+        "neu": 0.667,
+        "pos": 0.333,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "I want to # WinPetesSeats because I was the only one of my friends who knew the Hibbert deal was gonna be great!",
+      {
+        "neg": 0.0,
+        "neu": 0.659,
+        "pos": 0.341,
+        "compound": 0.8313
+      }
+    ],
+    [
+      "I'll change my name to Pete # WinPetesSeats",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "# EXTREMELY # HAPPY today my @ hornets # DESTROYED @ Bucks # CHAvsMIL @ Roy_Meets_World @ MKG14 @ KembaWalker @ nicolas88batum @ CodyZeller # win @ wfnzpic.twitter.com/1W0p0YmqUr",
+      {
+        "neg": 0.156,
+        "neu": 0.476,
+        "pos": 0.368,
+        "compound": 0.745
+      }
+    ],
+    [
+      "# winPetesSeats I would love to have a piece of that unveiling cake and cheer the HORNETS to Victory. 6th Man!!!",
+      {
+        "neg": 0.0,
+        "neu": 0.656,
+        "pos": 0.344,
+        "compound": 0.8547
+      }
+    ],
+    [
+      "me waiting to hear if I won Petes seatspic.twitter.com/YCSRZjRPTW",
+      {
+        "neg": 0.0,
+        "neu": 0.654,
+        "pos": 0.346,
+        "compound": 0.5719
+      }
+    ],
+    [
+      "loved every minute of it and he's doing what I knew he would http://thesportsdaily.com/trade-street-post/hornets-kick-off-the-season-with-a-win/ \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.755,
+        "pos": 0.245,
+        "compound": 0.5994
+      }
+    ],
+    [
+      "",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "\"Mes co\u00e9quipiers m'encouragent et je travaille tr\u00e8s dur. Les coachs croient en moi. Je suis tr\u00e8s heureux ici\" R.Hibbert @ Roy_Meets_World pic.twitter.com/C3EvtqY49E",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "we do we do # WinPetesSeatspic.twitter.com/7ODGqCIwHM",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I thought that's what I was supposed to do to # WinPetesSeats....",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "stop begging smh",
+      {
+        "neg": 0.818,
+        "neu": 0.182,
+        "pos": 0.0,
+        "compound": -0.5423
+      }
+    ],
+    [
+      "oops . # WinPetesSeats # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I tried unsuccessfully all last year. You could consider this a late bday/early baby shower present",
+      {
+        "neg": 0.172,
+        "neu": 0.828,
+        "pos": 0.0,
+        "compound": -0.4019
+      }
+    ],
+    [
+      "besides I told you the other day that the wolves couldn't hang with Kemba,and I was right so I should win lol",
+      {
+        "neg": 0.0,
+        "neu": 0.704,
+        "pos": 0.296,
+        "compound": 0.7988
+      }
+    ],
+    [
+      "MEEEEEEEEEEE",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I remember his showdown with Greg Oden in the final four gotta see Big Roy in person! # WinPetesSeats # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "# WinPetesSeats",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      ". @ Roy_Meets_World looks even bigger from 5th row. Who needs to be @opener? # WinPetesSeats Still time. Will award later today. # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 0.844,
+        "pos": 0.156,
+        "compound": 0.5423
+      }
+    ],
+    [
+      "luv u, @ Roy_Meets_World",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      ". @ Roy_Meets_World had quite the debut last night for the @ hornets: 15 points, 9 boards & 5 blocks in 31+ min of action. # BuzzCity # NBApic.twitter.com/eLVd1QxbAg",
+      {
+        "neg": 0.087,
+        "neu": 0.913,
+        "pos": 0.0,
+        "compound": -0.2263
+      }
+    ],
+    [
+      "@ macwfnz @ hornets #2 in the east! @ Roy_Meets_World is perfect 4 our system! I apologize for my doubt! # ballin # win # charlottehornets @ wfnz",
+      {
+        "neg": 0.092,
+        "neu": 0.55,
+        "pos": 0.358,
+        "compound": 0.8061
+      }
+    ],
+    [
+      "@ tradestreetpost yo have you seen @ Roy_Meets_World balling against @ Bucks",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World : Big Roy!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World Never wait for Oreos",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World looking rejuvenated this season! Could be a big factor for @ hornets",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "great job tonight!",
+      {
+        "neg": 0.0,
+        "neu": 0.313,
+        "pos": 0.687,
+        "compound": 0.6588
+      }
+    ],
+    [
+      "good work man~",
+      {
+        "neg": 0.0,
+        "neu": 0.408,
+        "pos": 0.592,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "# NothingButLove",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Live. Love. Asap",
+      {
+        "neg": 0.0,
+        "neu": 0.323,
+        "pos": 0.677,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "pourquoi relever la passe alors que Roy explose l'arceau ?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "La belle passe de @ nicolas88batum pour @ Roy_Meets_World @ Hornets_France @ HornetsFR https://vine.co/v/5dFv2mHqZLF",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World is a living legend pic.twitter.com/Wd30gVILOe",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World good stuff tonight, I told them you'll be back. Keep ya head up",
+      {
+        "neg": 0.0,
+        "neu": 0.805,
+        "pos": 0.195,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "@ Roy_Meets_World nice win, roy. keep up the good work # hornets",
+      {
+        "neg": 0.0,
+        "neu": 0.424,
+        "pos": 0.576,
+        "compound": 0.8591
+      }
+    ],
+    [
+      "the one thing we lacked last year, a big who could protect the rim",
+      {
+        "neg": 0.0,
+        "neu": 0.822,
+        "pos": 0.178,
+        "compound": 0.3818
+      }
+    ],
+    [
+      "@ MKG14 @ Roy_Meets_World pic.twitter.com/StEYkH4Jan",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Fantasy pickup of the night is @ Roy_Meets_World (aka Roy Hibbert). Dude had 15-9-5 vs MIL. It's real y'all. Big Roy is back. @ hornets",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World is SUCH a breath of fresh air to have on this @ hornets squad! We finally have that interior D we have desperately needed!",
+      {
+        "neg": 0.125,
+        "neu": 0.785,
+        "pos": 0.09,
+        "compound": -0.2225
+      }
+    ],
+    [
+      "Peter why did you get me blocked by Roy",
+      {
+        "neg": 0.208,
+        "neu": 0.792,
+        "pos": 0.0,
+        "compound": -0.2732
+      }
+    ],
+    [
+      "@QCBWFNZ @ hornets gonna make some noise in the # east @ Roy_Meets_World a good fit Bruh! @ hornets # balledout # win @BeeSurse # charlottehornetspic.twitter.com/Q9JcUVZRDf",
+      {
+        "neg": 0.0,
+        "neu": 0.612,
+        "pos": 0.388,
+        "compound": 0.8588
+      }
+    ],
+    [
+      "Awesome 1st night @ hornets road win! Welcome back @ MKG14 & welcome @ Roy_Meets_World. Glad to have y'all # HORNETNation # HornetPride # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 0.431,
+        "pos": 0.569,
+        "compound": 0.9531
+      }
+    ],
+    [
+      ". @ HornetsOnFSSE @ Roy_Meets_World @ hornets @ StephanieReady ... and we are happy to have him in # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 0.778,
+        "pos": 0.222,
+        "compound": 0.5719
+      }
+    ],
+    [
+      "Da man @ Roy_Meets_World https://twitter.com/LockedOnHornets/status/791470512148996096 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World incredible first game in # BuzzCity so glad to have you man! Hope to get to meet you soon! # PlayerOfTheGame # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 0.721,
+        "pos": 0.279,
+        "compound": 0.81
+      }
+    ],
+    [
+      "Welcome to Charlotte @ Roy_Meets_World! Need that kind of game every night! # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 0.754,
+        "pos": 0.246,
+        "compound": 0.555
+      }
+    ],
+    [
+      "hell of a game big man.",
+      {
+        "neg": 0.535,
+        "neu": 0.465,
+        "pos": 0.0,
+        "compound": -0.6808
+      }
+    ],
+    [
+      "Best center in the east??? @ Roy_Meets_World",
+      {
+        "neg": 0.0,
+        "neu": 0.513,
+        "pos": 0.487,
+        "compound": 0.6946
+      }
+    ],
+    [
+      "Great Job @ MKG14 @ KembaWalker @ Roy_Meets_World @ CodyZeller @ nicolas88batum and the rest of @ hornets ... WE ARE # BuzzCity STRONG!!!",
+      {
+        "neg": 0.0,
+        "neu": 0.625,
+        "pos": 0.375,
+        "compound": 0.8753
+      }
+    ],
+    [
+      "\"I'm really happy to be on this team.\" @ Roy_Meets_World's @ hornets debut was wonderful - Here he is with @ StephanieReady after the WIN!pic.twitter.com/H8cBlZXr9i",
+      {
+        "neg": 0.0,
+        "neu": 0.704,
+        "pos": 0.296,
+        "compound": 0.8395
+      }
+    ],
+    [
+      "Congrats @ Roy_Meets_World on tonight's game, Welcome to # BuzzCitypic.twitter.com/ZQBwcKC9No",
+      {
+        "neg": 0.0,
+        "neu": 0.484,
+        "pos": 0.516,
+        "compound": 0.7506
+      }
+    ],
+    [
+      "what a game from @ Roy_Meets_World and @ MKG14, I can see a 4 seed if they keep playing like this",
+      {
+        "neg": 0.0,
+        "neu": 0.751,
+        "pos": 0.249,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "With his 5 blocks tonight, @ Roy_Meets_World passed Bob Lanier, Buck Wiliams and Antonio McDyess and moved into 69th place all time (1105)",
+      {
+        "neg": 0.087,
+        "neu": 0.913,
+        "pos": 0.0,
+        "compound": -0.2263
+      }
+    ],
+    [
+      "@ Roy_Meets_World Great 1st game as a @ hornets You perfect for our # team Bruh! Sorry I doubted you! # BigWelcome # win # muchlove # buzzcitypic.twitter.com/srIgI4KYn8",
+      {
+        "neg": 0.115,
+        "neu": 0.473,
+        "pos": 0.412,
+        "compound": 0.8953
+      }
+    ],
+    [
+      "S/O to @ Roy_Meets_World throwing up a nice stat line and collecting the W! # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 0.795,
+        "pos": 0.205,
+        "compound": 0.4753
+      }
+    ],
+    [
+      ". @ Roy_Meets_World looking like he has something to prove! Can't wait to see how he does the rest of the season!",
+      {
+        "neg": 0.0,
+        "neu": 0.86,
+        "pos": 0.14,
+        "compound": 0.4738
+      }
+    ],
+    [
+      "@ Hornets Win!! 107-96 victory in Milwaukee. @ MKG14 looked great with 23 Pts & 14 boards. @ Roy_Meets_World had 15 Pts, 9 boards & 5 blocks",
+      {
+        "neg": 0.069,
+        "neu": 0.621,
+        "pos": 0.31,
+        "compound": 0.8217
+      }
+    ],
+    [
+      ". @ hornets with the W on the road to start the season! Great play across the whole team, but very excited by the play of @ Roy_Meets_World",
+      {
+        "neg": 0.0,
+        "neu": 0.641,
+        "pos": 0.359,
+        "compound": 0.8802
+      }
+    ],
+    [
+      "@ Roy_Meets_World Hell of a Game Tonight .. Showing the World you can Ball!!! # HornetsUp # BuzzCity",
+      {
+        "neg": 0.296,
+        "neu": 0.704,
+        "pos": 0.0,
+        "compound": -0.7562
+      }
+    ],
+    [
+      ". @ hornets C @ Roy_Meets_World with 5 blks in his Charlotte debut. CHA only had 3 total 5 blk games in 15-16 (1 Jefferson, 2 Zeller) # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Already an impressive @ hornets debut for @ Roy_Meets_World. # BuzzCity # NBApic.twitter.com/ttNMt98yiU",
+      {
+        "neg": 0.0,
+        "neu": 0.708,
+        "pos": 0.292,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "# BuzzCity is Now Block City!!! Awesome job @ Roy_Meets_World",
+      {
+        "neg": 0.209,
+        "neu": 0.432,
+        "pos": 0.359,
+        "compound": 0.4724
+      }
+    ],
+    [
+      "So @ Roy_Meets_World is pretty good. # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 0.386,
+        "pos": 0.614,
+        "compound": 0.7479
+      }
+    ],
+    [
+      "Man @ Roy_Meets_World I love you, welcome to # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 0.41,
+        "pos": 0.59,
+        "compound": 0.802
+      }
+    ],
+    [
+      "@ MKG14 healthy... Big man swatting shots @ Roy_Meets_World ... # BlockCity in # BuzzCity our D is looking strong",
+      {
+        "neg": 0.0,
+        "neu": 0.809,
+        "pos": 0.191,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "EAT EAT EAT @ Roy_Meets_World",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Yo @ Roy_Meets_World is crushin it. # BuzzCity # CHAatMILpic.twitter.com/E5mrcd77P3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "# BuzzCity my boy Roy hibbert ballin @ Roy_Meets_World",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Yep, another @ Roy_Meets_World SLAM",
+      {
+        "neg": 0.442,
+        "neu": 0.265,
+        "pos": 0.292,
+        "compound": -0.2808
+      }
+    ],
+    [
+      "ROY MEETS WORLD",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Roy_Meets_World is doing it all tonight! # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I like what I'm seeing from @ Roy_Meets_World ! Hibbert putting in work tonight!",
+      {
+        "neg": 0.0,
+        "neu": 0.764,
+        "pos": 0.236,
+        "compound": 0.4738
+      }
+    ],
+    [
+      "Really Impressed by @ Roy_Meets_World tonight ... Welcome to # BuzzCity my man!!! # Hornets # nba",
+      {
+        "neg": 0.0,
+        "neu": 0.602,
+        "pos": 0.398,
+        "compound": 0.8057
+      }
+    ],
+    [
+      "@ Roy_Meets_World BOI, you surprised me tonight! Loving your addition to this team!",
+      {
+        "neg": 0.0,
+        "neu": 0.61,
+        "pos": 0.39,
+        "compound": 0.7494
+      }
+    ],
+    [
+      "@ Roy_Meets_World makes his presence known on that high percentage dunk!! # Hornets extend lead now to 20 points with 7:28 left in the 3rd.",
+      {
+        "neg": 0.0,
+        "neu": 0.906,
+        "pos": 0.094,
+        "compound": 0.3147
+      }
+    ],
+    [
+      "@ Roy_Meets_World Damn! Nice Dunkie Dunk!",
+      {
+        "neg": 0.297,
+        "neu": 0.33,
+        "pos": 0.373,
+        "compound": 0.1739
+      }
+    ],
+    [
+      "",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "2 blocks tonight in his 1st appearance w @ hornets, @ Roy_Meets_World has tied Antonio McDyess for 69th in NBA history w 1,102 blks # BuzzCity",
+      {
+        "neg": 0.091,
+        "neu": 0.909,
+        "pos": 0.0,
+        "compound": -0.2263
+      }
+    ],
+    [
+      "We Are Playing with Confidence",
+      {
+        "neg": 0.0,
+        "neu": 0.37,
+        "pos": 0.63,
+        "compound": 0.6249
+      }
+    ],
+    [
+      "# BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "# KeepPounding oops wrong tag",
+      {
+        "neg": 0.508,
+        "neu": 0.492,
+        "pos": 0.0,
+        "compound": -0.4767
+      }
+    ],
+    [
+      "Welcome to # BuzzCity @ Roy_Meets_World! pic.twitter.com/QGgCEN2je6",
+      {
+        "neg": 0.0,
+        "neu": 0.549,
+        "pos": 0.451,
+        "compound": 0.5093
+      }
+    ],
+    [
+      "BLOCK by @ Roy_Meets_World pic.twitter.com/1WqfO0b7Zi",
+      {
+        "neg": 0.548,
+        "neu": 0.452,
+        "pos": 0.0,
+        "compound": -0.5622
+      }
+    ],
+    [
+      "@ Roy_Meets_World rewarded for the Defense! # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 0.445,
+        "pos": 0.555,
+        "compound": 0.6114
+      }
+    ],
+    [
+      "Sending mad vibes from SC tonight, lets Swarm fellas!! @ KembaWalker @ MKG14 @ nicolas88batum @ THANS50 @ Roy_Meets_World @ FSKPart3 @ CodyZeller",
+      {
+        "neg": 0.201,
+        "neu": 0.799,
+        "pos": 0.0,
+        "compound": -0.5837
+      }
+    ],
+    [
+      "tell Marvin Williams he needs a Twitter account ASAP!! Lol",
+      {
+        "neg": 0.0,
+        "neu": 0.703,
+        "pos": 0.297,
+        "compound": 0.5242
+      }
+    ],
+    [
+      "PG- @ KembaWalker SG- @ nicolas88batum SF- @ MKG14 PF- Marvin Williams C- @ Roy_Meets_World # AtTheHive # EntertheSwarm # BuzzCity",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Tonight\u2019s # CHAatMIL starters: @ MKG14 Marvin Williams @ Roy_Meets_World @ nicolas88batum @ KembaWalker",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ SwarmnSting @ KembaWalker @ nicolas88batum @ MKG14 @ Roy_Meets_World is Cody gonna come off the bench or is he out?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Hornets' Starters @Milwaukee: PG: @ KembaWalker SG: @ nicolas88batum SF: @ MKG14 PF Marvin Williams C: @ Roy_Meets_World",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Please don't get hurt this year @ MKG14 @ KembaWalker @ nicolas88batum @ FSKPart3 @ CodyZeller @ Roy_Meets_World @ marcobelinelli @ jlamb",
+      {
+        "neg": 0.0,
+        "neu": 0.703,
+        "pos": 0.297,
+        "compound": 0.6219
+      }
+    ],
+    [
+      "@ Roy_Meets_World NO SHIT YOURE ON THE HORNETS! I live in Charlotte! My inner parks and rec fan girl is SO HAPPY",
+      {
+        "neg": 0.222,
+        "neu": 0.489,
+        "pos": 0.289,
+        "compound": 0.4925
+      }
+    ],
+    [
+      "@ google really feeling my # PixelXL",
+      {
+        "neg": 0.0,
+        "neu": 0.69,
+        "pos": 0.31,
+        "compound": 0.2006
+      }
+    ],
+    [
+      "Roy Hibbert 5eme meilleur contreur de la # NBA en pr\u00e9-saison avec 1.9 Blocks # DPOY # Illbeback ^^ # Hornets @ hornets # BuzzCity @ Roy_Meets_World",
+      {
+        "neg": 0.091,
+        "neu": 0.909,
+        "pos": 0.0,
+        "compound": -0.2263
+      }
+    ],
+    [
+      "@ Roy_Meets_World Please be all-star caliber again this year!!",
+      {
+        "neg": 0.0,
+        "neu": 0.708,
+        "pos": 0.292,
+        "compound": 0.4374
+      }
+    ],
+    [
+      "Je t'adore @ nicolas88batum mais @ Roy_Meets_World \u00e0 la place de big al faut pas pousser m\u00e9m\u00e9 dans les orties # NBAextra",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "next episode is all about the saviors. You will see Ezekiel in episode 3.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "can you help my family",
+      {
+        "neg": 0.0,
+        "neu": 0.597,
+        "pos": 0.403,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "should have worn a hard hat",
+      {
+        "neg": 0.545,
+        "neu": 0.455,
+        "pos": 0.0,
+        "compound": -0.3818
+      }
+    ],
+    [
+      "I feel you're pain bro. I feel your pain.",
+      {
+        "neg": 0.569,
+        "neu": 0.431,
+        "pos": 0.0,
+        "compound": -0.765
+      }
+    ],
+    [
+      "this was a tough episode to watch! Wasn't expecting that second death! Negan is the real deal!",
+      {
+        "neg": 0.31,
+        "neu": 0.69,
+        "pos": 0.0,
+        "compound": -0.7412
+      }
+    ],
+    [
+      "Another one?!?!?! # TheWalkingDead",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "We are with you Roy..... Wow.",
+      {
+        "neg": 0.0,
+        "neu": 0.568,
+        "pos": 0.432,
+        "compound": 0.5859
+      }
+    ],
+    [
+      "Glenn is dead",
+      {
+        "neg": 0.683,
+        "neu": 0.317,
+        "pos": 0.0,
+        "compound": -0.6486
+      }
+    ],
+    [
+      "Holy smokes!!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "wtf",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.5859
+      }
+    ],
+    [
+      "@ Roy_Meets_World how about that? 2 characters in 1 segment has us all with the feels...",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "IKR",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Omg # TheWalkingDead",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "if you want to know anymore ahead just ask.",
+      {
+        "neg": 0.0,
+        "neu": 0.86,
+        "pos": 0.14,
+        "compound": 0.0772
+      }
+    ],
+    [
+      "@ Roy_Meets_World glen dies too.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "killing me man. We need to know!!!",
+      {
+        "neg": 0.468,
+        "neu": 0.532,
+        "pos": 0.0,
+        "compound": -0.7412
+      }
+    ],
+    [
+      "It will be right after this commercial.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    2016,
+    17
+  ]
+}

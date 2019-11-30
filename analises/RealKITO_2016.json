@@ -1,0 +1,834 @@
+{
+  "RealKITO": [
+    [
+      "Hey @ leighellis, who would you rather manage at @ McDonalds, @ nicolas88batum or @ realkito? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Do you think the thought of @ deronwilliams ever keeps @ realkito up at night?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "btw nice dunk. U good.",
+      {
+        "neg": 0.0,
+        "neu": 0.26,
+        "pos": 0.74,
+        "compound": 0.6908
+      }
+    ],
+    [
+      "@ RealKITO fix yo free throw bruh pic.twitter.com/SqBq1Uk7WS",
+      {
+        "neg": 0.0,
+        "neu": 0.645,
+        "pos": 0.355,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "Lions",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ RealKITO I see you boy!!!! make it happen!!!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Congrats @ RealKITO https://twitter.com/miamiheat/status/779416881690095616 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.37,
+        "pos": 0.63,
+        "compound": 0.5267
+      }
+    ],
+    [
+      "Welcome aboard, @ RealKITO. # HEATNationpic.twitter.com/U5oqORes4i",
+      {
+        "neg": 0.0,
+        "neu": 0.328,
+        "pos": 0.672,
+        "compound": 0.4767
+      }
+    ],
+    [
+      "Congratulations @ RealKITO ! # OUrstoryhttps://twitter.com/oaklandmbb/status/779425709693411328 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.323,
+        "pos": 0.677,
+        "compound": 0.636
+      }
+    ],
+    [
+      "Congrats @ RealKITO on your signing! Grizz Nation has always been proud of your accomplishments! 2x Summit Champion! https://twitter.com/miamiheat/status/779416881690095616 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.571,
+        "pos": 0.429,
+        "compound": 0.9057
+      }
+    ],
+    [
+      "congrats on signing @ RealKITO. He was a dominant force for us on championship teams. He will do the same for you! # wearthebear",
+      {
+        "neg": 0.0,
+        "neu": 0.742,
+        "pos": 0.258,
+        "compound": 0.7644
+      }
+    ],
+    [
+      "Keith Benson lands partially guaranteed deal with @ MiamiHEAT (via @ IAmDPick) @ RealKITO pic.twitter.com/kWtYGDn2Jx",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Watching your former players chase greatness never gets old. Congrats @ RealKITO. Do work young fella https://twitter.com/miamiheat/status/779416881690095616 \u2026",
+      {
+        "neg": 0.156,
+        "neu": 0.844,
+        "pos": 0.0,
+        "compound": -0.4168
+      }
+    ],
+    [
+      "Congrats to my boy Keith on signing with the @ MiamiHEAT @ RealKITO pic.twitter.com/s7tSZ2K4ol",
+      {
+        "neg": 0.0,
+        "neu": 0.764,
+        "pos": 0.236,
+        "compound": 0.5267
+      }
+    ],
+    [
+      ". @ MiamiHEAT @ RealKITO love all the haters who have no idea. Get yourself some Kito. Long deserved.",
+      {
+        "neg": 0.239,
+        "neu": 0.575,
+        "pos": 0.186,
+        "compound": -0.0516
+      }
+    ],
+    [
+      "Congrats to former @ OaklandMBB great @ RealKITO on signing with @ MiamiHEAT # WEARtheBEAR http://www.sun-sentinel.com/sports/miami-heat/sfl-miami-heat-keith-benson-s092316-story.html \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.571,
+        "pos": 0.429,
+        "compound": 0.8176
+      }
+    ],
+    [
+      "@ RealKITO welcome to # HeatNation! Prove the doubters that you deserve to be here https://twitter.com/miamiheat/status/779416881690095616 \u2026",
+      {
+        "neg": 0.131,
+        "neu": 0.682,
+        "pos": 0.187,
+        "compound": 0.2481
+      }
+    ],
+    [
+      "Congrats @ RealKITO !!! # AMGhttps://twitter.com/MiamiHEAT/status/779416881690095616 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.412,
+        "pos": 0.588,
+        "compound": 0.6458
+      }
+    ],
+    [
+      "CONGRATS @ RealKITO !!!!!!!!!!! https://twitter.com/MiamiHEAT/status/779416881690095616 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.361,
+        "pos": 0.639,
+        "compound": 0.7431
+      }
+    ],
+    [
+      "@ GoldenGrizzlies @ oaklandu @ 2kayzero @ ColumbusCrewSC @ RealKITO @OaklandVB Weird didn't get a call to use my likeness?",
+      {
+        "neg": 0.116,
+        "neu": 0.884,
+        "pos": 0.0,
+        "compound": -0.1779
+      }
+    ],
+    [
+      "@ BradGalli @ GoldenGrizzlies @ oaklandu @ 2kayzero @ ColumbusCrewSC @ RealKITO @OaklandVB gotta get your picture up there coach.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "\"Don't breath\" was good I recommend it",
+      {
+        "neg": 0.27,
+        "neu": 0.449,
+        "pos": 0.281,
+        "compound": 0.0243
+      }
+    ],
+    [
+      "Who's the bigger elephant in the room? @ realkito or @ bengordon8? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "That new Ray Donovan episode",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Happy Birthday @ RealKITO",
+      {
+        "neg": 0.0,
+        "neu": 0.351,
+        "pos": 0.649,
+        "compound": 0.5719
+      }
+    ],
+    [
+      "Happy 28th birthday to former Oakland U star & GS Warriors big guy, @ RealKITO! Have a great day! # SportITood",
+      {
+        "neg": 0.0,
+        "neu": 0.625,
+        "pos": 0.375,
+        "compound": 0.855
+      }
+    ],
+    [
+      "What's going on with @ realkito? Seriously, what's the deal? # TheStarters",
+      {
+        "neg": 0.186,
+        "neu": 0.814,
+        "pos": 0.0,
+        "compound": -0.264
+      }
+    ],
+    [
+      "@ RealKITO https://twitter.com/CapitalFMKenya/status/761257915898396672 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "now if @ XXIII_ , Jonathon Jones, @ RealKITO, @ WiscosOwn & @ KelWilliams21 could get a team together # TBT",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I see u Peter tuned in @ DarthBader3 ESPN2",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "thank you @ RealKITO for the jersey!!! Good luck in the future! pic.twitter.com/qSuhRI5m69",
+      {
+        "neg": 0.0,
+        "neu": 0.485,
+        "pos": 0.515,
+        "compound": 0.8614
+      }
+    ],
+    [
+      "I think @ mrvincecarter15 is a delicate flower that needs the light of @ realkito to flourish, do you agree? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.802,
+        "pos": 0.198,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "@ Timberwolves put @ realkito in the game!!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Who do you think is better at keeping secrets? @ bismackbiyombo0 or @ realkito? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.786,
+        "pos": 0.214,
+        "compound": 0.504
+      }
+    ],
+    [
+      "@ RealKITO and @ 2kayzero are on the court at the same time now - @ OaklandMBB # WearTheBear # NBASummerLeague",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I just wanna see @ 2kayzero & @ RealKITO go 1on1 against each other once 2nite",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Who would be the better scout master, @ imanshumpert or @ realkito? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.775,
+        "pos": 0.225,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "Make sure you check out # OaklandMBB alums @ 2kayzero @ RealKITO and @ maxthehooper all in @ NBASummerLeague action today! # WearTheBear",
+      {
+        "neg": 0.0,
+        "neu": 0.861,
+        "pos": 0.139,
+        "compound": 0.3802
+      }
+    ],
+    [
+      "Vegas",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Keith Benson to play Summer League with Minnesota @ Timberwolves @ RealKITO pic.twitter.com/wincYS82K0",
+      {
+        "neg": 0.0,
+        "neu": 0.806,
+        "pos": 0.194,
+        "compound": 0.34
+      }
+    ],
+    [
+      "Who's the bigger elephant in the room? @ realkito or @ colea45? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Them @ ATLHawks loveeee them some @ GoldenGrizzlies @ 2kayzero @ RealKITO",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "First @ RealKITO now @ 2kayzero both go to the Hawks in the draft. Putting Oakland on the map. # ProudAlum",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Who would win in a staring contest? @ realkito or @ asqared06? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.684,
+        "pos": 0.316,
+        "compound": 0.6322
+      }
+    ],
+    [
+      "no size 16?",
+      {
+        "neg": 0.524,
+        "neu": 0.476,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "You can play your heart out, everyone don't get a ring tho",
+      {
+        "neg": 0.0,
+        "neu": 0.806,
+        "pos": 0.194,
+        "compound": 0.34
+      }
+    ],
+    [
+      "Guwop's Home!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Who would be a better adversary to godzilla, @ realkito or @ r_balkman32? # TheStarters",
+      {
+        "neg": 0.131,
+        "neu": 0.657,
+        "pos": 0.212,
+        "compound": 0.2732
+      }
+    ],
+    [
+      "Whose karaoke test would you rather cheat off of, @ scottiepippen or @ realkito? # TheStarters",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.4588
+      }
+    ],
+    [
+      "@ RealKITO damn I'm just now seeing y'all won the ship,",
+      {
+        "neg": 0.188,
+        "neu": 0.556,
+        "pos": 0.257,
+        "compound": 0.25
+      }
+    ],
+    [
+      ". @ thedoubleboo @ Dreliggs34 @ RodneyMcGruder JT @ JarnellStokes @ _LarryLight @ toure_murry @ BuiltForBucketz NS @ RealKITO thx for a memorable yr",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.6289
+      }
+    ],
+    [
+      "Ok @ RealKITO B....now lunch is on you when you come back into town. https://twitter.com/coachdrewou/status/725644926575370240 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.855,
+        "pos": 0.145,
+        "compound": 0.296
+      }
+    ],
+    [
+      "Great work @ RealKITO !!! https://twitter.com/nbadleague/status/725520313979564033 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.446,
+        "pos": 0.554,
+        "compound": 0.7163
+      }
+    ],
+    [
+      "@ TFordATC Thanks",
+      {
+        "neg": 0.0,
+        "neu": 0.256,
+        "pos": 0.744,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "@ HoopsCoachJ Thanks",
+      {
+        "neg": 0.0,
+        "neu": 0.256,
+        "pos": 0.744,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "@ SMacd24 Thanks",
+      {
+        "neg": 0.0,
+        "neu": 0.256,
+        "pos": 0.744,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "@CoachDrewOU Thanks",
+      {
+        "neg": 0.0,
+        "neu": 0.256,
+        "pos": 0.744,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "Nice season @ RealKITO # OUrstoryhttps://twitter.com/CoachDrewOU/status/725644926575370240 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.517,
+        "pos": 0.483,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "Congrats to my college teammate & fellow @ OaklandMBB alum @ RealKITO winning the @ nbadleague 'Ship last night! #pic.twitter.com/eQNd3Vobwi",
+      {
+        "neg": 0.0,
+        "neu": 0.664,
+        "pos": 0.336,
+        "compound": 0.7959
+      }
+    ],
+    [
+      "Congrats @ RealKITO on the D League championship! https://twitter.com/nbadleague/status/725520313979564033 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.431,
+        "pos": 0.569,
+        "compound": 0.7644
+      }
+    ],
+    [
+      "Congratulations @ OaklandMBB Alum @ RealKITO ! # OUrstory # WearTheBearhttps://twitter.com/nbadleague/status/725520313979564033 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.544,
+        "pos": 0.456,
+        "compound": 0.636
+      }
+    ],
+    [
+      "Congratulations @ RealKITO and team. Dint sleep in the d-league # respekhttps://twitter.com/nbadleague/status/725520313979564033 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.698,
+        "pos": 0.302,
+        "compound": 0.5994
+      }
+    ],
+    [
+      "@ RealKITO # WearTheBear",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      ". @ RealKITO gets up for the BIG block for a clicking @ SFSkyforce defense in 2Q on @ ESPNU! # DLeagueVine https://vine.co/v/iPqJ22HuenT",
+      {
+        "neg": 0.162,
+        "neu": 0.762,
+        "pos": 0.076,
+        "compound": -0.4003
+      }
+    ],
+    [
+      "BTW @ RealKITO - that block was clean at the end of the first. # AllBall",
+      {
+        "neg": 0.175,
+        "neu": 0.663,
+        "pos": 0.163,
+        "compound": -0.0516
+      }
+    ],
+    [
+      "@ oakland_u_fan right",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I don't get it, @ RealKITO with 8p, 3r, and 2bl - in 12 minutes - he should have been in this game more than 12 minutes.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Former @ OaklandMBB great @ RealKITO has @ SFSkyforce playing for title. http://www.argusleader.com/story/sports/minor-league/skyforce/2016/04/17/skyforce-wallops-charge-reach-d-league-championship/83088420/ \u2026 # WEARtheBEAR # OURstory",
+      {
+        "neg": 0.0,
+        "neu": 0.629,
+        "pos": 0.371,
+        "compound": 0.7096
+      }
+    ],
+    [
+      "@ RealKITO You've got the same name as my dad, may he RIP. I get a huge kick out of hearing that name on the PA in SF. Congrats on the win!",
+      {
+        "neg": 0.0,
+        "neu": 0.726,
+        "pos": 0.274,
+        "compound": 0.8687
+      }
+    ],
+    [
+      "Who would be the better dungeon master, @ adrien4 or @ realkito? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.775,
+        "pos": 0.225,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "@ TerryVandrovec @ SFSkyforce @VCU_Bandit2 how's @ RealKITO doing tonight?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ RealKITO to Miami Heat would be great",
+      {
+        "neg": 0.0,
+        "neu": 0.594,
+        "pos": 0.406,
+        "compound": 0.6249
+      }
+    ],
+    [
+      "Who would you rather have with you in a bar fight, @ realkito or @ jusanderson1? # TheStarters",
+      {
+        "neg": 0.167,
+        "neu": 0.833,
+        "pos": 0.0,
+        "compound": -0.3818
+      }
+    ],
+    [
+      "Who do you think has the best snacks, @ realkito or @andreabargnani? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.724,
+        "pos": 0.276,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "S/O to @ RealKITO we would love if you could retweet us",
+      {
+        "neg": 0.0,
+        "neu": 0.704,
+        "pos": 0.296,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "@ thetournament OU Alumni team? @ XXIII_ @ RealKITO @ WiscosOwn @ DarthBader3 @CoachDrewOU @ coreypetros Duke, Larry, DNel, JJ, Shane @ GrizzTalkOU",
+      {
+        "neg": 0.0,
+        "neu": 0.846,
+        "pos": 0.154,
+        "compound": 0.4084
+      }
+    ],
+    [
+      "@ RealKITO u ever been to Delaware b4?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      ". @ thesummitleague teams and fans: Check out the @ nbadleague's best team, featuring ex- @ summithoops star @ RealKITO. https://twitter.com/SFSkyforce/status/705771821421867009 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.781,
+        "pos": 0.219,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "Nice job @ RealKITO # WEARtheBEARhttps://twitter.com/SFSkyforce/status/703301582054494208 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.517,
+        "pos": 0.483,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "@ GoldenGrizzlies alum @ RealKITO been on a hot streak with @ SFSkyforce, averaging 23.3 points and 10.3 boards in his last three games.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "The Miami Heat dumped a forward at the deadline. Maybe that opens up a spot for @ RealKITO",
+      {
+        "neg": 0.162,
+        "neu": 0.838,
+        "pos": 0.0,
+        "compound": -0.4019
+      }
+    ],
+    [
+      "Oakland basketball legend @ RealKITO started in last night's NBA D-League all-star game. # WearTheBear",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ RealKITO in fact, gotta link up!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ RealKITO I'm gonna be in Toronto from Wednesday! Hope to see you there!",
+      {
+        "neg": 0.0,
+        "neu": 0.775,
+        "pos": 0.225,
+        "compound": 0.5399
+      }
+    ],
+    [
+      "Congrats @ RealKITO, you definitely deserved this honor! # HardWorkPaysOffhttps://twitter.com/SFSkyforce/status/695657082402447362 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.343,
+        "pos": 0.657,
+        "compound": 0.8622
+      }
+    ],
+    [
+      "@ XXIII_ @ RealKITO now someone call him up!! I see the bigs in the league, and there's no doubt Kito is better than many of them",
+      {
+        "neg": 0.181,
+        "neu": 0.72,
+        "pos": 0.099,
+        "compound": -0.3365
+      }
+    ],
+    [
+      "Congrats to @ OaklandMBB alum @ RealKITO http://m.kdlt.com/news/skyforces-benson-named-nba-dleague-allstar-replacement/37838208 \u2026 # WEARtheBEAR",
+      {
+        "neg": 0.0,
+        "neu": 0.638,
+        "pos": 0.362,
+        "compound": 0.5267
+      }
+    ],
+    [
+      "Congrats to # OULegend @ RealKITO on being named a @ nbadleague All-Star # WearTheBearhttps://twitter.com/insidehoops/status/695658373333852164 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.726,
+        "pos": 0.274,
+        "compound": 0.5267
+      }
+    ],
+    [
+      "Congratulations @ RealKITO for making the D-League All Star team! # ThisisOU",
+      {
+        "neg": 0.0,
+        "neu": 0.682,
+        "pos": 0.318,
+        "compound": 0.636
+      }
+    ],
+    [
+      "Congrats @ RealKITO! # forcenationhttps://twitter.com/SFSkyforce/status/695657082402447362 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.351,
+        "pos": 0.649,
+        "compound": 0.5707
+      }
+    ],
+    [
+      "Fans! You can watch former @ OaklandMBB great @ RealKITO tonight on @ NBATV at 8PM in @ nbadleague action! # WEARtheBEAR http://www.nba.com/nbatv/schedule/",
+      {
+        "neg": 0.0,
+        "neu": 0.784,
+        "pos": 0.216,
+        "compound": 0.6892
+      }
+    ],
+    2016,
+    13
+  ]
+}

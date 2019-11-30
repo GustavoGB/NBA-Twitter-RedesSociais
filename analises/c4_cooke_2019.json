@@ -1,0 +1,1356 @@
+{
+  "c4_cooke": [
+    [
+      "you doin my thing? you gonna be cool about it?",
+      {
+        "neg": 0.0,
+        "neu": 0.772,
+        "pos": 0.228,
+        "compound": 0.3939
+      }
+    ],
+    [
+      "MM champs. Heard it here first",
+      {
+        "neg": 0.0,
+        "neu": 0.641,
+        "pos": 0.359,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "25-4 & Regular Season champs, A10 final, Elite8 with Obi Conf MVP, Jalen and others in the All conference teams, Trey on an All Conf Defensive team best promise in this team this decade. Let\u2019s go boys",
+      {
+        "neg": 0.0,
+        "neu": 0.755,
+        "pos": 0.245,
+        "compound": 0.8555
+      }
+    ],
+    [
+      "Anything short of Sweet 16 and I\u2019ll be disappointed.",
+      {
+        "neg": 0.237,
+        "neu": 0.534,
+        "pos": 0.229,
+        "compound": -0.0258
+      }
+    ],
+    [
+      "pic.twitter.com/dKquKclsyT",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Final 4 or bust. Probably the most talented team we\u2019ve had this century",
+      {
+        "neg": 0.0,
+        "neu": 0.754,
+        "pos": 0.246,
+        "compound": 0.5563
+      }
+    ],
+    [
+      "more days until @ DaytonMBB starts their season . What\u2019s everyone\u2019s expectations for this season? @ c4_cooke pic.twitter.com/L4cZ9CPszy",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Solid game for @ c4_cooke - second leading scorer for his team in a close loss https://twitter.com/treviso_basket/status/1188228772555841536 \u2026",
+      {
+        "neg": 0.145,
+        "neu": 0.755,
+        "pos": 0.101,
+        "compound": -0.1779
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/treviso_basket/status/1188008331505557506 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Che stoppata di Charles Cooke! @ c4_cooke arriva dal nulla e cancella il tentativo di De Nicolao @ treviso_basket # EurosportBASKET | https://www.eurosportplayer.com/ | # LBASerieApic.twitter.com/DsXpQzNkUz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Charles Cooke III #25 . G.Masi . # trevisobasket # treviso # legabasketa # pallacanestro # basketball # sport # nikon # nikonsportsphotography # ciamillocastoria # picoftheday # instagood # instalike # instasport @ trevisobasket @ciamillo_castoria @ c4_cooke https://ift.tt/2pi09oR pic.twitter.com/AIXMRoM4Hv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Charles Cooke III sulla sirena del primo tempo! Big three for @ c4_cooke # EurosportBASKET | https://www.eurosportplayer.com/ | # LBASerieApic.twitter.com/W4XvOeImdK",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "10 PTS for @ c4_cooke in a win https://twitter.com/treviso_basket/status/1180940942565675009 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.612,
+        "pos": 0.388,
+        "compound": 0.5859
+      }
+    ],
+    [
+      "They worrying bout free throws lol",
+      {
+        "neg": 0.209,
+        "neu": 0.261,
+        "pos": 0.53,
+        "compound": 0.5719
+      }
+    ],
+    [
+      "On David",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "6 PTS for @ c4_cooke in his debut in Italy https://twitter.com/treviso_basket/status/1177324672465215488 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Here\u2019s @ c4_cooke and his team before their season starts on Thursday https://twitter.com/treviso_basket/status/1175725167470923779 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "As Jablo points out, this is a change of plans for @ c4_cooke who was originally slated to head to Germany this season https://twitter.com/DavidPJablonski/status/1168504877363924992 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Another former Flyer headed overseas. @ c4_cooke had his summer league screwed up by a concussion https://twitter.com/Carchia/status/1155946711950319618 \u2026",
+      {
+        "neg": 0.186,
+        "neu": 0.814,
+        "pos": 0.0,
+        "compound": -0.4939
+      }
+    ],
+    [
+      "This year you guys planted the seeds. Next year, you harvest the rewards.",
+      {
+        "neg": 0.0,
+        "neu": 0.795,
+        "pos": 0.205,
+        "compound": 0.4767
+      }
+    ],
+    [
+      "I saw Charles tweet yesterday he could\u2019ve given them 8 and 7 - they for sure could\u2019ve used him to push some bodies around in the paint",
+      {
+        "neg": 0.0,
+        "neu": 0.905,
+        "pos": 0.095,
+        "compound": 0.3182
+      }
+    ],
+    [
+      "@ CharlesLittle15",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Rob_lowery3 @ flyght33wright",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "So.... @ scoochstackin @ c4_cooke @ DyshawnPierre @ JoshMCunninghampic.twitter.com/ohrxGTIKZp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Includes a write-up about @ c4_cooke https://twitter.com/SFSkyforce/status/1151514526476578816 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Final Summer League stats for @ c4_cooke https://twitter.com/TristanHeatNBA/status/1150220736742789120 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "11 PTS and 3 AST for @ c4_cooke https://twitter.com/MiamiHEAT/status/1150201777830207490 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Hopefully we see @ c4_cooke for the first time after his concussion https://twitter.com/MiamiHEAT/status/1150131080239951873 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.803,
+        "pos": 0.197,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "Hopefully this extra day off is enough to get @ c4_cooke back into action https://twitter.com/MiamiHEAT/status/1149697699379367936 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.828,
+        "pos": 0.172,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "Good news for @ c4_cooke - he\u2019ll be back in action today https://twitter.com/IraHeatBeat/status/1148673316552466432 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.775,
+        "pos": 0.225,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "Sweats today for @ c4_cooke as he recovers from the concussion he sustained Tuesday night https://twitter.com/NBASummerLeague/status/1147272700873756672 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I\u2019m guessing no @ c4_cooke in the California Classic finale today after entering concussion protocol last night. Hopefully he can get back and play at some point in Vegas https://twitter.com/NBA/status/1146418431404716033 \u2026",
+      {
+        "neg": 0.066,
+        "neu": 0.781,
+        "pos": 0.153,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "Good luck to our guys in the @ nbasummerleague this month! Do work! @ Smooth_Jordan @ c4_cooke @ Kostas_ante13 @ DyshawnPierrepic.twitter.com/d5I3bIAUaR",
+      {
+        "neg": 0.0,
+        "neu": 0.683,
+        "pos": 0.317,
+        "compound": 0.7568
+      }
+    ],
+    [
+      "Tough day at the office for @ c4_cooke: went 0-4, picked up a foul, then had a big guy fall on his head, ending his night after just 3 minutes",
+      {
+        "neg": 0.057,
+        "neu": 0.943,
+        "pos": 0.0,
+        "compound": -0.128
+      }
+    ],
+    [
+      "@ c4_cooke into the game on @ NBATV",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Late night tip (11PM) for @ c4_cooke and the Heat on NBATV tonight https://twitter.com/NBA/status/1146056054830247936 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "15 PTS (4-8, 2-4 3PT, 5-9 FT), 2 REB for @ c4_cooke https://twitter.com/MiamiHEAT/status/1145890589810073601 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "9 PTS and 1 REB for @ c4_cooke through 3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Two more trips to the line for @ c4_cooke in the 3rd - he\u2019s doing a great job drawing contact in the lane",
+      {
+        "neg": 0.0,
+        "neu": 0.823,
+        "pos": 0.177,
+        "compound": 0.6249
+      }
+    ],
+    [
+      "Buzzer beater to end the quarter plus a transition 3 earlier gives @ c4_cooke 7 in the 1st",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ c4_cooke headed to the line for 3 on @ NBATV",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "HAPPY BIRTHDAY to former Swarm player @ c4_cooke pic.twitter.com/ksdaet4Zl3",
+      {
+        "neg": 0.0,
+        "neu": 0.612,
+        "pos": 0.388,
+        "compound": 0.6633
+      }
+    ],
+    [
+      "First Summer League signing for a former Flyer: @ c4_cooke will play with the Heat in Vegas https://twitter.com/SFSkyforce/status/1144666775876845569 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.862,
+        "pos": 0.138,
+        "compound": 0.34
+      }
+    ],
+    [
+      "Dead!!! I was screaming at the screen the whole time",
+      {
+        "neg": 0.526,
+        "neu": 0.474,
+        "pos": 0.0,
+        "compound": -0.8306
+      }
+    ],
+    [
+      "Good man.",
+      {
+        "neg": 0.0,
+        "neu": 0.256,
+        "pos": 0.744,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "Class move by @ c4_cooke coming to help @ flyght33wright\u2019s cleanup effortspic.twitter.com/auDdtCnXWc",
+      {
+        "neg": 0.0,
+        "neu": 0.769,
+        "pos": 0.231,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "No Josh or Obi, but @ c4_cooke is among the current G Leaguers invited to work out in front of NBA front offices https://twitter.com/RidicUpside/status/1125492246730629121 \u2026",
+      {
+        "neg": 0.071,
+        "neu": 0.929,
+        "pos": 0.0,
+        "compound": -0.1531
+      }
+    ],
+    [
+      "Ditto.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Still waiting on @ scoochstackin and @ Smooth_Jordan! @ c4_cooke in the mix?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ c4_cooke put in work this year! https://twitter.com/SFSkyforce/status/1116419009098997761 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Pleasant surprise this beautiful day. 1) you guys failed to mention possibly the best transfer we have seen.. @ c4_cooke . 2)Have had season tix since 88-89. O'Brien 's first season was magical. Thankfully, I was away at @ ohiou for most of his years. Have a good off season. # Reds",
+      {
+        "neg": 0.054,
+        "neu": 0.634,
+        "pos": 0.312,
+        "compound": 0.9423
+      }
+    ],
+    [
+      "@ scoochstackin @ Smooth_Jordan @ c4_cooke",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "He is a walking bucket! @ c4_cooke scored points and added rebounds for the @ SFSkyforce last night! # pbcalum",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      ". @ MiamiHEAT assignment player @ c4_cooke poured in 26 PTS for the @ SFSkyforce tonight! Watch his top highlights:pic.twitter.com/hnPcsXPb8r",
+      {
+        "neg": 0.0,
+        "neu": 0.878,
+        "pos": 0.122,
+        "compound": 0.2714
+      }
+    ],
+    [
+      "26 PTS, 5 REB, 3 STL, 1 AST, 1 BLK for @ c4_cooke 8 PTS, 5 REB, 2 STL, 1 AST for @ flyght33wrighthttps://twitter.com/SFSkyforce/status/1108188628625313792 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1108035399589363714 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Chance for @ c4_cooke to make his 2018-19 NBA debut tonight (he played 13 games for the Pelicans last year) https://twitter.com/MiamiHEAT/status/1107696172557324288 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.804,
+        "pos": 0.196,
+        "compound": 0.5267
+      }
+    ],
+    [
+      "Keep grinding @ c4_cooke https://twitter.com/GrantKelly07/status/1107131015951196160 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Keep making us proud @ c4_cooke https://twitter.com/SFSkyforce/status/1107433699493273600 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.617,
+        "pos": 0.383,
+        "compound": 0.4767
+      }
+    ],
+    [
+      "@ c4_cooke Congratulations fam",
+      {
+        "neg": 0.0,
+        "neu": 0.339,
+        "pos": 0.661,
+        "compound": 0.5994
+      }
+    ],
+    [
+      "Shout out to my guy Charles Cooke on the NBA call up! People forget I beat him one on one, but I think he was wearing jeans.. @ c4_cooke",
+      {
+        "neg": 0.065,
+        "neu": 0.935,
+        "pos": 0.0,
+        "compound": -0.1882
+      }
+    ],
+    [
+      "CONGRATULATIONS @ c4_cooke keep worKING!! https://twitter.com/SFSkyforce/status/1106978434989776896 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.434,
+        "pos": 0.566,
+        "compound": 0.7365
+      }
+    ],
+    [
+      "Former Flyer @ c4_cooke signs a 10-day contract with the Miami Heat! https://twitter.com/SFSkyforce/status/1106978434989776896 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Keeping Working @ c4_cooke https://twitter.com/Airrick__/status/1107102708476055557 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "CONGRATS to former 1,000 Point @ DaytonMBB, @ c4_cooke! Keep up the great work # JustTheBeginning # JoinTheFight # proUD CC: @ DaytonFlyers // @ MiamiHEAThttps://twitter.com/SFSkyforce/status/1106978434989776896 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.579,
+        "pos": 0.421,
+        "compound": 0.9122
+      }
+    ],
+    [
+      "\u2022 @ c4_cooke to Miami let\u2019s go Brova \u2022",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Except it won't be those colors",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Charles Cooke III ( @ c4_cooke) will wear No. 25 with the # Heat. # NBA @ UniWatchpic.twitter.com/wzmBaIyO5i",
+      {
+        "neg": 0.155,
+        "neu": 0.845,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "Sign @ filayyyy",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "to # NBACallUp Charles Cooke ( @ c4_cooke)! @ DaytonMBB @ SFSkyforce @ MiamiHEAThttps://twitter.com/MiamiHEAT/status/1106686397061218304 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "high, @ c4_cooke ! https://twitter.com/ProLOWD/status/1106670379467186176 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Couldn\u2019t be prouder of my guy! Congrats @ c4_cooke # NEXTFamhttps://twitter.com/ShamsCharania/status/1106668407678742532 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.504,
+        "pos": 0.496,
+        "compound": 0.784
+      }
+    ],
+    [
+      "Former Flyer @ c4_cooke getting a chance in the nba https://twitter.com/ShamsCharania/status/1106668407678742532 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.25
+      }
+    ],
+    [
+      "Awesome to see @ c4_cooke get the call up. Like @ Smooth_Jordan, he had been killing it the last couple weeks in the G Leaguehttps://twitter.com/IraHeatBeat/status/1106669978604978184 \u2026",
+      {
+        "neg": 0.147,
+        "neu": 0.633,
+        "pos": 0.22,
+        "compound": 0.296
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1105136297813905410 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1104487018912874496 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Charles Cooke ( @ c4_cooke) had it going on Saturday night, dropping 21 PTS, 9 REB & 4 AST for the @ SFSkyforce @ DaytonMBB @ SFSkyforcepic.twitter.com/sYseG4f2qM",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Court side watching this guy @ c4_cooke pic.twitter.com/M54nppwmzm",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1101935203818266626 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1101498595889631233 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Includes @ c4_cooke\u2019s #4 https://twitter.com/SFSkyforce/status/1101301025175035904 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "In his return from playing for @ usabasketball at the 2019 FIBA Word Cup, @ c4_cooke totaled points, rebounds, and assists in last night's game for the @ SFSkyforce! # pbcalum",
+      {
+        "neg": 0.0,
+        "neu": 0.926,
+        "pos": 0.074,
+        "compound": 0.2714
+      }
+    ],
+    [
+      "Fresh off @ USABasketball duty, Charles Cooke ( @ c4_cooke) POWERS HOME the putback JAM @ DaytonMBB @ SFSkyforce @ windycitybulls @ SFSkyforce: https://es.pn/2XuschE pic.twitter.com/BSJGfSvuBa",
+      {
+        "neg": 0.0,
+        "neu": 0.881,
+        "pos": 0.119,
+        "compound": 0.3182
+      }
+    ],
+    [
+      "Solid game from @ c4_cooke last night - second leading scorer at 10 points on 5-6 FG, plus 2 AST and 1 STL https://twitter.com/usabasketball/status/1100245944531148800 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.922,
+        "pos": 0.078,
+        "compound": 0.1531
+      }
+    ],
+    [
+      "",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ CamoCinco @ C4_Cooke Reggie Hearn Michael Frazier Greensboro, NC USA vs. Argentina 7 PM ET ESPN+ pic.twitter.com/HE4GRX3Pgo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/usabasketball/status/1100044197716000769 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Let work cousin @ c4_cooke https://twitter.com/nbagleague/status/1099737288387543043 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Charles Cooke ( @ c4_cooke) @ DaytonMBB @ SFSkyforce @ USABasketball pic.twitter.com/htc9iFmcEO",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "9 PTS, 3 REB, 1 AST for @ c4_cooke in his Team USA debut https://twitter.com/usabasketball/status/1099123889551089666 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/usabasketball/status/1098961364276690944 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      ". @ c4_cooke triple @ Chiozza11 fadeaway @ CamoCinco triple USA Men's World Cup Qualifying Team training camppic.twitter.com/0ioclH8mp6",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Set up by @ c4_cooke https://twitter.com/usabasketball/status/1097246811075403776 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ c4_cooke",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Let\u2019s go ball out kid",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Congrats Cooke!",
+      {
+        "neg": 0.0,
+        "neu": 0.213,
+        "pos": 0.787,
+        "compound": 0.5707
+      }
+    ],
+    [
+      "CONGRATS @ DaytonMBB alum, @ c4_cooke, for being selected to participate in the @ usabasketball @ FIBAWC Qualifying play! # JoinTheFight CC: @ DaytonFlyers // @ SFSkyforcehttps://twitter.com/usabasketball/status/1095383545269211136 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.725,
+        "pos": 0.275,
+        "compound": 0.7798
+      }
+    ],
+    [
+      "Congrats @ c4_cooke! https://twitter.com/SFSkyforce/status/1095383798743818242 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.351,
+        "pos": 0.649,
+        "compound": 0.5707
+      }
+    ],
+    [
+      "Way to go @ c4_cooke & Emanuel! # SanfordSports # USABasketballhttps://twitter.com/SFSkyforce/status/1095383798743818242 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Cool opportunity for @ c4_cooke. These in-season qualifying windows have given a lot more guys chances to rep their countries. Same thing @ DyshawnPierre has done with @ CanBballhttps://twitter.com/SFSkyforce/status/1095383798743818242 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.754,
+        "pos": 0.246,
+        "compound": 0.7334
+      }
+    ],
+    [
+      "The @ SFSkyforce won on Friday night behind points, rebounds and assists from @ c4_cooke! He now has straight games with at least double digit points! # pbcalum",
+      {
+        "neg": 0.0,
+        "neu": 0.788,
+        "pos": 0.212,
+        "compound": 0.7339
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1094294861241552898 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "for @ c4_cooke from last night https://twitter.com/SFSkyforce/status/1094250065672192000 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "21 PTS, 4 REB, 4 AST, 3 STL for @ c4_cooke https://twitter.com/SFSkyforce/status/1094069976447836160 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1093887344153784321 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      ". @ SFSkyforce player Charles Cooke ( @ c4_cooke) has been knocking down three pointers with great efficiency this season! What is his 3-point percentage?",
+      {
+        "neg": 0.0,
+        "neu": 0.734,
+        "pos": 0.266,
+        "compound": 0.784
+      }
+    ],
+    [
+      "@ scoochstackin @ Smooth_Jordan @ c4_cooke",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "10 PTS, 5 AST, 3 REB for @ c4_cooke https://twitter.com/SFSkyforce/status/1092167632306999301 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Game Day - @ c4_cooke v. @ flyght33wrighthttps://twitter.com/SFSkyforce/status/1092075234360885250 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Game Day: @ c4_cooke v. @ Kostas_ante13https://twitter.com/SFSkyforce/status/1091395758220136448 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      ". @ c4_cooke stays on for the @ SFSkyforce scoring 23 points in last nights game. # pbcalum",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "23 PTS, 5 REB, 3 AST, 1 BLK for @ c4_cooke https://twitter.com/SFSkyforce/status/1090806793238921216 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1090633575261601792 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "give @ c4_cooke a 10-day https://twitter.com/SFSkyforce/status/1090308594468380674 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Charles Cooke ( @ c4_cooke) erupted in the second half last night scoring 15 of his 19 points for the @ SFSkyforce He finished 7-11 from the field with 5 assists and 3 rebounds. # pbcalum",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "19 PTS, 5 AST, 3 REB for @ c4_cooke https://twitter.com/SFSkyforce/status/1090077938266132480 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "The efficiency of @ c4_cooke helped the @ SFSkyforce secure the win on Saturday night PTS / FG REB # pbcalum",
+      {
+        "neg": 0.0,
+        "neu": 0.617,
+        "pos": 0.383,
+        "compound": 0.8271
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1089916006779232256 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "26 minutes to Westchester from Rose Hill if any Flyers want to check out @ c4_cooke tonight too https://goo.gl/maps/BkukWe66rkT2 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.929,
+        "pos": 0.071,
+        "compound": 0.0772
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1089251645429411840 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1088843949815590913 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Charles Cooke ( @ c4_cooke) scored 17 points on 7-12 shooting last night helping @ SFSkyforce secure the win! # pbcalum",
+      {
+        "neg": 0.0,
+        "neu": 0.617,
+        "pos": 0.383,
+        "compound": 0.8268
+      }
+    ],
+    [
+      "17 PTS, 5 REB, 4 STL, 2 AST for @ c4_cooke https://twitter.com/SFSkyforce/status/1087902882114998273 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Nice sequence for @ SFSkyforce to close the 3Q! @ c4_cooke takes it strong for the layup, And-1 : https://on.nba.com/2U86M7e pic.twitter.com/tjHyBnKSvn",
+      {
+        "neg": 0.0,
+        "neu": 0.715,
+        "pos": 0.285,
+        "compound": 0.75
+      }
+    ],
+    [
+      "Strong drive and finish in a crowded restricted area for @ c4_cooke 4:16 left in 1Q: @ SFSkyforce 20- @ GLeagueWarriors 11 : https://on.nba.com/2U86M7e pic.twitter.com/pYuen0FZD8",
+      {
+        "neg": 0.109,
+        "neu": 0.753,
+        "pos": 0.138,
+        "compound": 0.1779
+      }
+    ],
+    [
+      "Nah forreal",
+      {
+        "neg": 0.583,
+        "neu": 0.417,
+        "pos": 0.0,
+        "compound": -0.1027
+      }
+    ],
+    [
+      "Big fact",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "It's time for # FollowFriday! Inspired by our friends at @ frntofficesport, we'll share names we think you should follow Today's starting lineup: Antonio Blakeney @ blakeney96 - @ chicagobulls Troy Caupain @ caupain10 - @ LakelandMagic Charles Cooke @ c4_cooke - @ SFSkyforce",
+      {
+        "neg": 0.0,
+        "neu": 0.773,
+        "pos": 0.227,
+        "compound": 0.8313
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1085567355516669954 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "PBC WEEKEND STAT UPDATE @ c4_cooke could not be stopped last night on the way to a @ SFSkyforce win! PTS / FG REB AST",
+      {
+        "neg": 0.0,
+        "neu": 0.767,
+        "pos": 0.233,
+        "compound": 0.6964
+      }
+    ],
+    [
+      "CALL HIM UP!!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "And pick up @ Smooth_Jordan and @ scoochstackin as well!",
+      {
+        "neg": 0.0,
+        "neu": 0.745,
+        "pos": 0.255,
+        "compound": 0.3382
+      }
+    ],
+    [
+      "In a @ SFSkyforce win, teammates @ EmanuelTerry08 & @ c4_cooke had matching 31-point efforts, while @gaddy253 was DISHING the rock for the @ okcblue pic.twitter.com/T3hJts2FlF",
+      {
+        "neg": 0.0,
+        "neu": 0.833,
+        "pos": 0.167,
+        "compound": 0.5859
+      }
+    ],
+    [
+      "Charles Cooke @ c4_cooke https://twitter.com/austingwalton/status/1084608936773382144 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "A BIG performance from Charles Cooke ( @ c4_cooke) in tonight's @ SFSkyforce win. The @ DaytonMBB product dropped 31 points, to go with 9 boards & 7 dimes pic.twitter.com/J1u4udSePL",
+      {
+        "neg": 0.0,
+        "neu": 0.847,
+        "pos": 0.153,
+        "compound": 0.5859
+      }
+    ],
+    [
+      "SOMEBODY SIGN @ c4_cooke - he\u2019s been out of his mind the last 6 games https://twitter.com/SFSkyforce/status/1084618332597301248 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Charles Cooke ( @ c4_cooke) helped the @ SFSkyforce stay competitive all night long with a TEAM-LEADING 23 PTS @ DaytonMBB @ SFSkyforcepic.twitter.com/4ihDNPDLaH",
+      {
+        "neg": 0.0,
+        "neu": 0.904,
+        "pos": 0.096,
+        "compound": 0.1779
+      }
+    ],
+    [
+      ". @ c4_cooke hot streak continues as he helped lead the @ SFSkyforce to a win over the @ ACClippers with 19 points! # PBCAlum",
+      {
+        "neg": 0.0,
+        "neu": 0.815,
+        "pos": 0.185,
+        "compound": 0.6239
+      }
+    ],
+    [
+      "That\u2019s 4 straight big games for @ c4_cooke https://twitter.com/SFSkyforce/status/1083026862736052224 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.759,
+        "pos": 0.241,
+        "compound": 0.2263
+      }
+    ],
+    [
+      "Over his last 3 games, Charles Cooke ( @ c4_cooke) has been on a tear! pic.twitter.com/6FqJJsIyp9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Baller @ c4_cooke",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ c4_cooke https://twitter.com/SFSkyforce/status/1081573536106467329 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ scoochstackin @ Smooth_Jordan @ c4_cooke @ flyght33wright https://twitter.com/nbagleague/status/1081555269144981504 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ c4_cooke hey bro, do you have any pics that i could edit for you",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Yeahhhhh @ c4_cooke https://twitter.com/nbagleague/status/1080664866816446465 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "PBC STAT UPDATE @ c4_cooke led all scorers last night in a 122-118 win for the @ SFSkyforce! PTS / FG 3PM REB # pbcalum",
+      {
+        "neg": 0.0,
+        "neu": 0.823,
+        "pos": 0.177,
+        "compound": 0.6239
+      }
+    ],
+    [
+      "Some highlights from @ c4_cooke\u2019s big game https://twitter.com/nbagleague/status/1080664866816446465 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Charles Cooke III ( @ c4_cooke) lived up to his name, hitting a CAREER-HIGH 6 triples en route to 26 PTS & 5 REB in the @ SFSkyforce's win on Wednesday night @ DaytonMBB @ SFSkyforcepic.twitter.com/R9WbNHCIeK",
+      {
+        "neg": 0.0,
+        "neu": 0.872,
+        "pos": 0.128,
+        "compound": 0.5859
+      }
+    ],
+    [
+      "Game Day for @ c4_cooke https://twitter.com/SFSkyforce/status/1080491094062915584 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "4 PTS, 1 AST, 1 STL for @ c4_cooke https://twitter.com/SFSkyforce/status/1080105320142106624 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    2019,
+    13
+  ]
+}

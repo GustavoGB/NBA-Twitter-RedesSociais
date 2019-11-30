@@ -1,0 +1,78 @@
+{
+  "easyst0": [
+    [
+      "What's one thing @easyst0 is really proud of and why? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.747,
+        "pos": 0.253,
+        "compound": 0.5256
+      }
+    ],
+    [
+      "Name a movie that could make @easyst0 cry, because that's a movie I want to watch. # The Starters",
+      {
+        "neg": 0.178,
+        "neu": 0.747,
+        "pos": 0.075,
+        "compound": -0.4215
+      }
+    ],
+    [
+      "@easyst0 # AnythingYOUThinkCanHappen Needs your HELP to reach our goal to raise four thousand dollars for for Basketball Uniforms, Equipment, Trophies for August 2018 Program. ANY DONATION AMOUNT HELPS All Donations 100% Tax Deductiblehttps://www.gofundme.com/wawbasketball",
+      {
+        "neg": 0.0,
+        "neu": 0.792,
+        "pos": 0.208,
+        "compound": 0.7824
+      }
+    ],
+    [
+      "Who would you rather have with you in a bar fight, @ geealonzo or @easyst0? # TheStarters",
+      {
+        "neg": 0.167,
+        "neu": 0.833,
+        "pos": 0.0,
+        "compound": -0.3818
+      }
+    ],
+    [
+      "Who would you rather go to Paris with, @easyst0 or @ scottiepippen? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Who do you think would be the better cat burglar, @easyst0 or @ paugasol? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.818,
+        "pos": 0.182,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "Do you think @easyst0 takes his PB&J with a crust or no crust? # TheStarters",
+      {
+        "neg": 0.155,
+        "neu": 0.845,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "Who would you rather trust with your grocery list, @ steveblake5 or @easyst0? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.784,
+        "pos": 0.216,
+        "compound": 0.5106
+      }
+    ],
+    2018,
+    8
+  ]
+}

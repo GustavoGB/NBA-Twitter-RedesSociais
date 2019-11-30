@@ -1,0 +1,735 @@
+{
+  "GeeAlonzo": [
+    [
+      "Who do you think is better at keeping secrets? @ luoldeng9 or @ geealonzo? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.786,
+        "pos": 0.214,
+        "compound": 0.504
+      }
+    ],
+    [
+      "@ GeeAlonzo Fear and anger are the 2 thoughts that hold most people back from their dreams & potential. # faceit",
+      {
+        "neg": 0.292,
+        "neu": 0.593,
+        "pos": 0.114,
+        "compound": -0.6369
+      }
+    ],
+    [
+      "@ GeeAlonzo do you play 2K on Xbox? I swear I'm playing against you right now",
+      {
+        "neg": 0.073,
+        "neu": 0.671,
+        "pos": 0.256,
+        "compound": 0.4588
+      }
+    ],
+    [
+      "What u put in is what u get out! Stay grinding and never give u!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Who would be a better adversary to godzilla, @ geealonzo or @ carllandry? # TheStarters",
+      {
+        "neg": 0.131,
+        "neu": 0.657,
+        "pos": 0.212,
+        "compound": 0.2732
+      }
+    ],
+    [
+      "La what's goood",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Good Lord! How many games did they win?",
+      {
+        "neg": 0.0,
+        "neu": 0.462,
+        "pos": 0.538,
+        "compound": 0.7901
+      }
+    ],
+    [
+      "I miss @ GeeAlonzo https://twitter.com/sportsboytony/status/900137350474412033 \u2026",
+      {
+        "neg": 0.444,
+        "neu": 0.556,
+        "pos": 0.0,
+        "compound": -0.1531
+      }
+    ],
+    [
+      "@ GeeAlonzo Help Kids. Save Youth Sports. Fund our Crowd Funding Campaign. Back smashAdz! Watch video http://smashAdz.com # smashAdz",
+      {
+        "neg": 0.0,
+        "neu": 0.708,
+        "pos": 0.292,
+        "compound": 0.7345
+      }
+    ],
+    [
+      "@ GeeAlonzo was the last person to leave the gym last night, and the first one in this morning! # work",
+      {
+        "neg": 0.077,
+        "neu": 0.923,
+        "pos": 0.0,
+        "compound": -0.126
+      }
+    ],
+    [
+      "Who's the bigger elephant in the room? @ the_real_smooth or @ geealonzo? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Who do you wish was in the car during DeLonte West's infamous KFC rap, @ steveblake5 or @ geealonzo? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.863,
+        "pos": 0.137,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "Nice to see Alonzo Gee ( @ GeeAlonzo) - grinding in July too. He is such a good player. Hard to believe he's not on a roster.",
+      {
+        "neg": 0.054,
+        "neu": 0.728,
+        "pos": 0.218,
+        "compound": 0.6486
+      }
+    ],
+    [
+      "Wish you both were coming back to Cleveland!",
+      {
+        "neg": 0.0,
+        "neu": 0.701,
+        "pos": 0.299,
+        "compound": 0.4574
+      }
+    ],
+    [
+      "Man preciate you bro !",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Happy for you bro",
+      {
+        "neg": 0.0,
+        "neu": 0.448,
+        "pos": 0.552,
+        "compound": 0.5719
+      }
+    ],
+    [
+      "@ GeeAlonzo set up a meeting with Dennis Lindsey # utahjazz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Alonzo Gee's ( @ GeeAlonzo) 2013-14 Shot Chart (91 EFG+ | -22 PAA). # AlonzoGee # Nuggets # Cavalierspic.twitter.com/6unNjjYCoE",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ GeeAlonzo Come back to the @ PelicansNBA we need you",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Who do you think has the best snacks, @ geealonzo or @ keefmorris? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.724,
+        "pos": 0.276,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "Not gonna lie @ patbev21 I hated you when # blazers played y'all! But I respect your game & grind. I'd love you on my team! Come to # ripcity",
+      {
+        "neg": 0.075,
+        "neu": 0.574,
+        "pos": 0.351,
+        "compound": 0.8918
+      }
+    ],
+    [
+      "@ GeeAlonzo where you been G",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Baron Davis was a beast before injuries ruined him.",
+      {
+        "neg": 0.307,
+        "neu": 0.693,
+        "pos": 0.0,
+        "compound": -0.4767
+      }
+    ],
+    [
+      "Do you think the thought of @ geealonzo ever keeps @ scottiepippen up at night?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ GeeAlonzo come back to the Cavs!!!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "And this woulda been our year! @ WessyWes23 @ GeeAlonzo @ GhJr09 @ nicolas88batum @ aldridge_12 @ rolopez42 all yall lame as fuck for leaving POR!pic.twitter.com/jIvYvNASoM",
+      {
+        "neg": 0.277,
+        "neu": 0.723,
+        "pos": 0.0,
+        "compound": -0.7835
+      }
+    ],
+    [
+      "Miss you in the wine and gold!",
+      {
+        "neg": 0.24,
+        "neu": 0.76,
+        "pos": 0.0,
+        "compound": -0.2244
+      }
+    ],
+    [
+      "Alonzo, wish you were on the Cavs again man",
+      {
+        "neg": 0.0,
+        "neu": 0.748,
+        "pos": 0.252,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "My dude Alonzo Gee RTing this cuz he knows Kyrie is the truth",
+      {
+        "neg": 0.0,
+        "neu": 0.839,
+        "pos": 0.161,
+        "compound": 0.3182
+      }
+    ],
+    [
+      "Yooooo bro!!! RT @ GeeAlonzo: Yoooooo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "In Minnesota who's watching the game tonight ?!?!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Yoooooo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ GeeAlonzo saw that boy in dicks today",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Hey @ tasmelas, who would you rather have on the rounders, @ agentzeroshow or @ geealonzo? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ GeeAlonzo happy birthday cous !",
+      {
+        "neg": 0.0,
+        "neu": 0.429,
+        "pos": 0.571,
+        "compound": 0.6114
+      }
+    ],
+    [
+      "@ GeeAlonzo happy Birthday Alonzo Gee! Good times in CLEVELAND!",
+      {
+        "neg": 0.0,
+        "neu": 0.494,
+        "pos": 0.506,
+        "compound": 0.8011
+      }
+    ],
+    [
+      "Happy Birthday @ GeeAlonzo! We hope you have a great day!",
+      {
+        "neg": 0.0,
+        "neu": 0.347,
+        "pos": 0.653,
+        "compound": 0.9059
+      }
+    ],
+    [
+      "30 years old today. HIGH FLIER. Journeyman who can stroke the three. Happy birthday to the man who always belongs in THE LAND, @ GeeAlonzo!",
+      {
+        "neg": 0.0,
+        "neu": 0.852,
+        "pos": 0.148,
+        "compound": 0.6114
+      }
+    ],
+    [
+      "Happy birthday to # RaefLaFrentz & @ GeeAlonzo, who are both former members of the @ trailblazers. # HappyBirthday # Drazen # RipCitypic.twitter.com/BEuC9vDHjL",
+      {
+        "neg": 0.0,
+        "neu": 0.802,
+        "pos": 0.198,
+        "compound": 0.5719
+      }
+    ],
+    [
+      "@ GeeAlonzo still waiting on you to text me bruh so we can practice don't got issues driving to wpb or being a defense body TBH...",
+      {
+        "neg": 0.0,
+        "neu": 0.939,
+        "pos": 0.061,
+        "compound": 0.128
+      }
+    ],
+    [
+      "Who would you rather go to a Cannibal Corpse show with, @ drayblatche or @ geealonzo? # TheStarters",
+      {
+        "neg": 0.222,
+        "neu": 0.778,
+        "pos": 0.0,
+        "compound": -0.5719
+      }
+    ],
+    [
+      "Still at the park? @ GeeAlonzo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ GeeAlonzo Capstone Chiropractic in jupiter, massage/chiro/acupuncture, they work as a team, tried over 10 clinics, best Dr. and staff",
+      {
+        "neg": 0.0,
+        "neu": 0.802,
+        "pos": 0.198,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "Who do you think would be the better cat burglar, @ steveblake5 or @ geealonzo? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.818,
+        "pos": 0.182,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "3 weeks till me, @ PelicansNBA , @ TyrekeEvans, @ TheofficialEG10, @ pg30_Cole, @ GeeAlonzo , remember @ B2nyce",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I think @ geealonzo is a delicate flower that needs the light of @ magicjohnson to flourish, do you agree? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.802,
+        "pos": 0.198,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "awesome",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.6249
+      }
+    ],
+    [
+      "Hey @ GeeAlonzo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "her name is Betz Janik, 561-312-6336. Great massage therapist and person.",
+      {
+        "neg": 0.0,
+        "neu": 0.709,
+        "pos": 0.291,
+        "compound": 0.6249
+      }
+    ],
+    [
+      "dude I'm a PTA and went to Dwyer high.... the best one I've ever met is in Jupiter",
+      {
+        "neg": 0.0,
+        "neu": 0.792,
+        "pos": 0.208,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "Looking for a good massage therapist in West Palm Beach!!!!",
+      {
+        "neg": 0.0,
+        "neu": 0.663,
+        "pos": 0.337,
+        "compound": 0.6209
+      }
+    ],
+    [
+      "Who would win in a staring contest? @ kendrickperkins or @ geealonzo? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.684,
+        "pos": 0.316,
+        "compound": 0.6322
+      }
+    ],
+    [
+      "Assuming the # pelicans @ boogiecousins wears his normal #15, last worn by @ GeeAlonzo last season. pic.twitter.com/ztqDwyE5yY",
+      {
+        "neg": 0.136,
+        "neu": 0.864,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "It was 2008. Just looked it up, finished second to Dwight Howard that year.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I feel like 2007 or 2008 because I was still in high school for it.",
+      {
+        "neg": 0.0,
+        "neu": 0.828,
+        "pos": 0.172,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "Total missed opportunities. If i remember correctly, the dunk contest sucked that year.",
+      {
+        "neg": 0.31,
+        "neu": 0.536,
+        "pos": 0.155,
+        "compound": -0.3818
+      }
+    ],
+    [
+      "Same. Loved his game. Would've been a good dunk contest candidate in his Cle prime.",
+      {
+        "neg": 0.0,
+        "neu": 0.638,
+        "pos": 0.362,
+        "compound": 0.7783
+      }
+    ],
+    [
+      "Missed a good opportunity for a Gee-League but I saw you were flirting enough with the pun.",
+      {
+        "neg": 0.091,
+        "neu": 0.567,
+        "pos": 0.343,
+        "compound": 0.5346
+      }
+    ],
+    [
+      "@ GeeAlonzo Love ya man...",
+      {
+        "neg": 0.0,
+        "neu": 0.417,
+        "pos": 0.583,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "Ya han pasado...",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "pero hay alguna opcion?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "# NBA # Nuggets Alonzo Gee's 10 day contract has expired and he will re-join free agency. @ GeeAlonzo",
+      {
+        "neg": 0.0,
+        "neu": 0.82,
+        "pos": 0.18,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "# NBA # Nuggets Alonzo Gee will play in Tuesday's game vs Los Angeles. @ GeeAlonzo",
+      {
+        "neg": 0.0,
+        "neu": 0.833,
+        "pos": 0.167,
+        "compound": 0.34
+      }
+    ],
+    [
+      "# NBA # Nuggets Alonzo Gee (inactive) is out for Monday's game vs Orlando. @ GeeAlonzo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ GeeAlonzo RT to vote # AlonzoGee to the NBA All-Star Game # NBAVote",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Hey @ tasmelas, who would make a better Moo Milk Bar (RIP) employee, @ chriskaman or @ geealonzo? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.828,
+        "pos": 0.172,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "@ GeeAlonzo RT to vote # AlonzoGee to the NBA All-Star Game # NBAVote",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "# NBA # Nuggets Alonzo Gee has signed a 10-day contract with the Denver Nuggets. @ GeeAlonzo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@adeto_koubos & @ geealonzo: Who is the cat & who is the dog? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "feel bad for @ GeeAlonzo, dude gets moved around team to team all the time. prob sucks having to pack your shit every trade season lol",
+      {
+        "neg": 0.287,
+        "neu": 0.629,
+        "pos": 0.084,
+        "compound": -0.7783
+      }
+    ],
+    [
+      "Tough day- @ nuggets @ GeeAlonzo, @ dallasmavs @ PAPPYGAWD, @ ATLHawks @ RyanKelly34, @ Suns @ JohnnyCashVU23, & @ OrlandoMagic @BeholdArinze waived",
+      {
+        "neg": 0.111,
+        "neu": 0.889,
+        "pos": 0.0,
+        "compound": -0.128
+      }
+    ],
+    [
+      "come home @ GeeAlonzo https://twitter.com/espnsteinline/status/817493929469747200 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ GeeAlonzo what's the move",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Hi, @ Timberwolves, @ GeeAlonzo is free. Can we try and get this solid veteran with good DBPM and ok WS?",
+      {
+        "neg": 0.0,
+        "neu": 0.596,
+        "pos": 0.404,
+        "compound": 0.8462
+      }
+    ],
+    [
+      "# NBA # Nuggets Alonzo Gee has been waived by the Denver Nuggets. @ GeeAlonzo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "# NBA # Nuggets Alonzo Gee will play in Thursday's game vs San Antonio. @ GeeAlonzo",
+      {
+        "neg": 0.0,
+        "neu": 0.833,
+        "pos": 0.167,
+        "compound": 0.34
+      }
+    ],
+    [
+      "@ GeeAlonzo Good luck! https://twitter.com/nbawind/status/817127289074974721 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.244,
+        "pos": 0.756,
+        "compound": 0.7345
+      }
+    ],
+    [
+      "# NBA # Nuggets Alonzo Gee (inactive) is out for Tuesday's game vs Sacramento. @ GeeAlonzo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Who would you trust more to dogsit for you, @ geealonzo or @ johnbrisker? # TheStarters",
+      {
+        "neg": 0.0,
+        "neu": 0.784,
+        "pos": 0.216,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "@ GeeAlonzo RT to vote # AlonzoGee to the NBA All-Star Game # NBAVote",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "# NBA # Nuggets Alonzo Gee will play in Monday's game vs Golden State. @ GeeAlonzo",
+      {
+        "neg": 0.0,
+        "neu": 0.833,
+        "pos": 0.167,
+        "compound": 0.34
+      }
+    ],
+    2017,
+    16
+  ]
+}

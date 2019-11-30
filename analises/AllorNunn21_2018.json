@@ -1,0 +1,1806 @@
+{
+  "AllorNunn21": [
+    [
+      "So @ AllorNunn21 don\u2019t want to buy me lunch so he says he lost his phone okkkkk",
+      {
+        "neg": 0.129,
+        "neu": 0.784,
+        "pos": 0.088,
+        "compound": -0.1868
+      }
+    ],
+    [
+      "@ AllorNunn21 we want the gaucho !! ol\u00e9 pic.twitter.com/eKnL07U73j \u2013 bei STAPLES Center",
+      {
+        "neg": 0.0,
+        "neu": 0.841,
+        "pos": 0.159,
+        "compound": 0.2225
+      }
+    ],
+    [
+      "as her own, and",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "and the hours passed",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ AllorNunn21 in the game. Keep ballin young fellas. pic.twitter.com/M2AQXKtxX0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Trade Wiggins pour faire de la plzce a okogie aussi",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "aye i see @ AllorNunn21 in this gif lmao https://twitter.com/LordBalvin/status/1058209012997595136 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.642,
+        "pos": 0.358,
+        "compound": 0.5994
+      }
+    ],
+    [
+      "James, we really love you and are excited to welcome you into the sassy nonsense that is wolves twitter",
+      {
+        "neg": 0.098,
+        "neu": 0.544,
+        "pos": 0.359,
+        "compound": 0.8016
+      }
+    ],
+    [
+      "",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Cali really has the best weather",
+      {
+        "neg": 0.0,
+        "neu": 0.528,
+        "pos": 0.472,
+        "compound": 0.6666
+      }
+    ],
+    [
+      "Lol You just love hoops",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7906
+      }
+    ],
+    [
+      "We love this! # GauchoPride # GoGauchos",
+      {
+        "neg": 0.0,
+        "neu": 0.471,
+        "pos": 0.529,
+        "compound": 0.6696
+      }
+    ],
+    [
+      "",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "So many people from high school tweeting about not knowing that @ AllorNunn21 plays in the NBA. Like, people really don\u2019t watch basketball? pic.twitter.com/w1e2FOihvH",
+      {
+        "neg": 0.0,
+        "neu": 0.824,
+        "pos": 0.176,
+        "compound": 0.5423
+      }
+    ],
+    [
+      "On a de bonnes chances de jouer la course au PO jusqu\u2019\u00e0 la fin en construisant autour de KAT. Le trade de @ JimmyButler appara\u00eet presque secondaire, m\u00eame si on crache pas sur une belle pi\u00e8ce suppl\u00e9mentaire \u00e0 ajouter au Roster.",
+      {
+        "neg": 0.103,
+        "neu": 0.854,
+        "pos": 0.043,
+        "compound": -0.5473
+      }
+    ],
+    [
+      "Josh Okogie d\u00e9fend! Et d\u00e9j\u00e0 largement au-dessus de la moyenne des guards NBA. La bonne nouvelle de ce match: On est comp\u00e9titif sans Butler (Utah est un bon \u00e9talon, comme les Spurs) avec cet effectif. On a un bon banc, @ AllorNunn21 @ 1Tyus @ ATolliver44, c\u2019est tt \u00e0 fait au niveau.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Keep thinking @ AllorNunn21 is Terrell Brandon # classicnight",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "This is great & all ... but please trade Jimmy. Enough is enough.",
+      {
+        "neg": 0.0,
+        "neu": 0.645,
+        "pos": 0.355,
+        "compound": 0.6705
+      }
+    ],
+    [
+      "Go Gauchos!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Hello Glen Taylor # FireThibspic.twitter.com/kt7P10Js5e",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "# FireThibs and thishttps://twitter.com/JonKrawczynski/status/1057678008918724608?s=19 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "# FireThibs And thishttps://twitter.com/ShamsCharania/status/1057674623666585602?s=19 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Haven't seen trees like this in...pic.twitter.com/42LbiuKumh",
+      {
+        "neg": 0.297,
+        "neu": 0.703,
+        "pos": 0.0,
+        "compound": -0.2755
+      }
+    ],
+    [
+      "# FireThibs it is embarrassinghttps://twitter.com/ShamsCharania/status/1057673222089515009?s=19 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Do you guys have those for sale with #23 on it?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I am at an extended absencepic.twitter.com/TpMMs0Ud17",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "via @ AllorNunn21 pic.twitter.com/KFNow3GT0r",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "RT @ UCSBbasketball: Former Gauchos @ JonPastorek and @ AllorNunn21 reuniting in the league # GoGauchos # Gauchosintheprospic.twitter.com/OjVj2S78TT",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Great seeing my guy @ allornunn21 last night! Proud of you Nunny! # Gauchos # Ol\u00e9 # UCSBtotheNBA @Target Center https://www.instagram.com/p/BpksdSwHzuL-5PBySxeTxLSbGzUD81gCNQ7Dws0/?utm_source=ig_twitter_share&igshid=1rdjp2okwjmx6 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.658,
+        "pos": 0.342,
+        "compound": 0.8309
+      }
+    ],
+    [
+      "Former Gauchos @ JonPastorek and @ AllorNunn21 reuniting in the league # GoGauchos # Gauchosintheprospic.twitter.com/rXWLOlKiQo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Watching the # Lakers game cheering for the Lakers But if the camera spans the # Timberwolves team and @ AllorNunn21 is on screen... I will scream with all my # GauchoPride... even for my family watching for #7 Born & Raised a Laker fan but UCSB BASKETBALL WILL ALWAYS HAVE MY",
+      {
+        "neg": 0.07,
+        "neu": 0.829,
+        "pos": 0.101,
+        "compound": 0.1406
+      }
+    ],
+    [
+      "El ex @ CangrejerosBSN James Nunnally hizo su debut con los Minnesota # Twolves en la NBA sumando 9pts con dos 3ples en 4 intentos y 3/3 FT. Showing once again he belongs to the League @ AllorNunn21 Mr. \u2019s.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "U know nothing",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "James Nunnally deserves minutes. Been saying it since they signed him. Automatic from 3. @ AllorNunn21 # timberwolves # wolves",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Nunnally @ AllorNunn21 finally getting off the bench to do his thing for the # Timberwolves. And yes I\u2019m still watching for some reasonpic.twitter.com/9pMYkVJE3u",
+      {
+        "neg": 0.0,
+        "neu": 0.886,
+        "pos": 0.114,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "@ AllorNunn21 needs mo minutes!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I see you @ AllorNunn21.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Proud of you bro!",
+      {
+        "neg": 0.0,
+        "neu": 0.469,
+        "pos": 0.531,
+        "compound": 0.5255
+      }
+    ],
+    [
+      "Wave your towel bro :) # notsniperszn",
+      {
+        "neg": 0.0,
+        "neu": 0.625,
+        "pos": 0.375,
+        "compound": 0.4588
+      }
+    ],
+    [
+      "Blessed!",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.636
+      }
+    ],
+    [
+      "",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Dm den bana ulasirmisin acil",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Good luck James! The Gauchos are rooting for you!",
+      {
+        "neg": 0.0,
+        "neu": 0.519,
+        "pos": 0.481,
+        "compound": 0.7568
+      }
+    ],
+    [
+      "Good luck James",
+      {
+        "neg": 0.0,
+        "neu": 0.145,
+        "pos": 0.855,
+        "compound": 0.7096
+      }
+    ],
+    [
+      "Good luck tonight to @ alantwilliams and @ AllorNunn21 in their NBA season openers tonight # GoGauchospic.twitter.com/GaXL6g54ai",
+      {
+        "neg": 0.0,
+        "neu": 0.67,
+        "pos": 0.33,
+        "compound": 0.7096
+      }
+    ],
+    [
+      "",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "OMG!! Duck, girl! Run for your life.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Good luck Mr. Sniper!",
+      {
+        "neg": 0.0,
+        "neu": 0.244,
+        "pos": 0.756,
+        "compound": 0.7345
+      }
+    ],
+    [
+      "Ba\u015far\u0131lar",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Season Opener tonight in San Antonio! Blessed is a understatement! Year 7!",
+      {
+        "neg": 0.0,
+        "neu": 0.677,
+        "pos": 0.323,
+        "compound": 0.6981
+      }
+    ],
+    [
+      "Gaucho legend! @ AllorNunn21",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Great things happening for our Cougar alum!! Congratulations @ AllorNunn21!! We are proud of you!! Keep shining # CougarsintheNBA # CougarPride # ProudToBeMUSD @ WRHSLEADERSHIP @ HosaWrhs @ WRHS_BSU @ WRHSLinkCrew @ sreyes35 @ its_coach_edhttps://twitter.com/WRHSJOURNALISM/status/1051848016225681408 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.642,
+        "pos": 0.358,
+        "compound": 0.9227
+      }
+    ],
+    [
+      "Congratulations to Weston Ranch graduate James Nunnaly upon making the NBA\u2019s Minnesota Timberwolves! Awesome to see a Cougar in the NBA, and we\u2019re so proud! Come back and see us if you can when you visit the Kings and Warriors. @ AllorNunn21 @ BairdFrancine @ WRHSLEADERSHIP",
+      {
+        "neg": 0.0,
+        "neu": 0.756,
+        "pos": 0.244,
+        "compound": 0.927
+      }
+    ],
+    [
+      "Is that funny to u or something? I think you both are cornballs straight up!",
+      {
+        "neg": 0.0,
+        "neu": 0.684,
+        "pos": 0.316,
+        "compound": 0.6239
+      }
+    ],
+    [
+      "Yes bro I love",
+      {
+        "neg": 0.0,
+        "neu": 0.127,
+        "pos": 0.873,
+        "compound": 0.7845
+      }
+    ],
+    [
+      "miss the homie RIPhttps://twitter.com/EuroLeague/status/1050796437796212741 \u2026",
+      {
+        "neg": 0.348,
+        "neu": 0.652,
+        "pos": 0.0,
+        "compound": -0.1531
+      }
+    ],
+    [
+      "Yes I would, where you at right now",
+      {
+        "neg": 0.0,
+        "neu": 0.69,
+        "pos": 0.31,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "I know you'd never say this in my face so I can't respect a man like u. Convo over.",
+      {
+        "neg": 0.261,
+        "neu": 0.739,
+        "pos": 0.0,
+        "compound": -0.6049
+      }
+    ],
+    [
+      "Lmaoo, it\u2019s sad that the thing you have in common with KD is not being good at basketball, but being triggered in Twitter even tho you both play in the NBA",
+      {
+        "neg": 0.108,
+        "neu": 0.803,
+        "pos": 0.089,
+        "compound": 0.0892
+      }
+    ],
+    [
+      "Watch your mouth",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Haha these the sameness moves since 1997 fam gotta give it uphttps://twitter.com/OrlandoVJohnson/status/1050380526521991169 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.786,
+        "pos": 0.214,
+        "compound": 0.4588
+      }
+    ],
+    [
+      "@ AllorNunn21 did you attend the team only meeting that allegedly happened?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ AllorNunn21 man I knew I seen these moves before she just hit your go to!! https://twitter.com/jstcwarrior/status/941515937265733633 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Yo... @ AllorNunn21 can shoot that rock, tho. should be on @ MiamiHEAT but i don't wanna bring up old shit...https://twitter.com/BlvdeBrown/status/1050164455055781889 \u2026",
+      {
+        "neg": 0.091,
+        "neu": 0.909,
+        "pos": 0.0,
+        "compound": -0.1779
+      }
+    ],
+    [
+      "Don\u2019t disrespect @ AllorNunn21 , One of the coldest to come from Weston Ranch. https://twitter.com/BlvdeBrown/status/1050164455055781889 \u2026",
+      {
+        "neg": 0.189,
+        "neu": 0.811,
+        "pos": 0.0,
+        "compound": -0.4215
+      }
+    ],
+    [
+      "",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "# TheHardway shoutout the fam jrock",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ AllorNunn21 is READY.",
+      {
+        "neg": 0.0,
+        "neu": 0.382,
+        "pos": 0.618,
+        "compound": 0.4995
+      }
+    ],
+    [
+      "In honor of @ AllorNunn21 not getting enough playing time, here he was checkin' in for his first NBA minutes this season # UCSBpic.twitter.com/GXNxMHbBEm",
+      {
+        "neg": 0.064,
+        "neu": 0.807,
+        "pos": 0.129,
+        "compound": 0.3834
+      }
+    ],
+    [
+      "Great to see @ AllorNunn21 put some points on the board in LA. Warms my heart that he shoots FT the same way he did here in Santa Barbara. Can't wait to see him play more this season!",
+      {
+        "neg": 0.0,
+        "neu": 0.793,
+        "pos": 0.207,
+        "compound": 0.8356
+      }
+    ],
+    [
+      "The @ Timberwolves should give @ AllorNunn21 a little run tonight. I wanna see if he can really run it up like people say",
+      {
+        "neg": 0.0,
+        "neu": 0.884,
+        "pos": 0.116,
+        "compound": 0.3612
+      }
+    ],
+    [
+      ". @ SuperiorFandom @ tweet_popwell @ JFloyd_Popwell @ LivingMyDreamSB @ bklong1969 @ coachScottSharp @ alantwilliams @ AllorNunn21 https://twitter.com/UCSBbasketball/status/1047529460386287617 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "No @ JimmyButler ?",
+      {
+        "neg": 0.688,
+        "neu": 0.312,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "Great shoot today with the @ Timberwolves at @ NBA Media Day. See our interviews with @ drose, @ KarlTowns, @ 22wiggins, @TajGibson22, @ GorguiDieng, @ Teague0, @ AllorNunn21, @ JustinPatton17, @ CallMe_NonStop, @ KBD_33 and Coach Tom Thibodeau all season on @ NBATV.pic.twitter.com/j4WSTHb3K0",
+      {
+        "neg": 0.066,
+        "neu": 0.822,
+        "pos": 0.112,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "@ AllorNunn21 is dope. Had the most relatable personality today.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "The goats of every sports league NBA @ Scalabrine @ AllorNunn21 @ GraysonJAllen Darko milicic NHL @ johnscott_32 Sidney Crosby Paul Bissonette NFL @ PatrickMahomes5 @ bakermayfield @ saquon MLB @ JabariBlash @ RowdyTellez Vladimir Guerrero Jr Soccer Lionel Messi Yeet",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Yes bro !!",
+      {
+        "neg": 0.0,
+        "neu": 0.379,
+        "pos": 0.621,
+        "compound": 0.508
+      }
+    ],
+    [
+      "Look how hyped Pino is for ya! @ 2cooltone Love that",
+      {
+        "neg": 0.0,
+        "neu": 0.667,
+        "pos": 0.333,
+        "compound": 0.6696
+      }
+    ],
+    [
+      "Yah ally boe!!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Always got hyped when Nunny went and caught one of my lobs # DynamicDuo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "OSU was gassed at that point but back-to-back lengthy media timeouts hurt @ UCSBbasketball",
+      {
+        "neg": 0.277,
+        "neu": 0.723,
+        "pos": 0.0,
+        "compound": -0.6808
+      }
+    ],
+    [
+      "I love how hyped OJ is here after he passes it off to Nunn.",
+      {
+        "neg": 0.0,
+        "neu": 0.741,
+        "pos": 0.259,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "# tbt @ OrlandoVJohnson to @ AllorNunn21 pic.twitter.com/1SjwQw0jsu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ AllorNunn21 hold it down then bro!!!! https://twitter.com/Timberwolves/status/1039638386926120961 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "GODS PLANFormer NBA player @ ackright on the hardwood with current NBA player @ AllorNunn21 # BluePrintpic.twitter.com/BMp77ukAea",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Unmatched",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.0772
+      }
+    ],
+    [
+      "@ AllorNunn21 real madrid ma\u00e7\u0131 bu adam sayesinde yendik. Gitti\u011fim ilk ma\u00e7ta yenilecektik adamlara ipten ald\u0131 bizi https://twitter.com/neozepron/status/1039955155855257607 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Nothing will ever top Days in the East @ AllorNunn21 https://twitter.com/JRAM/status/1039711553447124997 \u2026",
+      {
+        "neg": 0.15,
+        "neu": 0.85,
+        "pos": 0.0,
+        "compound": -0.1511
+      }
+    ],
+    [
+      "@ TroydanGaming",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I see you @ AllorNunn21 https://twitter.com/Timberwolves/status/1039638386926120961 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Looks better on this half man, half beast! @ JoakimNoahpic.twitter.com/tnBO3Ng3cb",
+      {
+        "neg": 0.0,
+        "neu": 0.715,
+        "pos": 0.285,
+        "compound": 0.4926
+      }
+    ],
+    [
+      "\u2018Sota looks good on you, @ AllorNunn21 pic.twitter.com/3oUCGyWazt",
+      {
+        "neg": 0.0,
+        "neu": 0.674,
+        "pos": 0.326,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "James Nunnally ( @ AllorNunn21) will wear number 7 with the # Timberwolves. # NBApic.twitter.com/5LXpJVht13",
+      {
+        "neg": 0.0,
+        "neu": 0.874,
+        "pos": 0.126,
+        "compound": 0.0772
+      }
+    ],
+    [
+      "Epppppperrrrrr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Appreciate it Nunn!",
+      {
+        "neg": 0.0,
+        "neu": 0.401,
+        "pos": 0.599,
+        "compound": 0.4574
+      }
+    ],
+    [
+      "That's great bro Blessings to her!",
+      {
+        "neg": 0.0,
+        "neu": 0.336,
+        "pos": 0.664,
+        "compound": 0.8356
+      }
+    ],
+    [
+      "@ AllorNunn21 is the goat of the @ NBA # HallOfFame # bbbbrand # THEGOAT # jamesnunnally # firstballothalloffamer # minnesotatimberwolves",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "gigs!https://twitter.com/OrlandoVJohnson/status/1036699735946477568 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ AllorNunn21 With the dance moves! https://twitter.com/_trussmidaddi_/status/1035993530336989184 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "That ones done u in SF or la?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I need that!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "need to see some @ AllorNunn21 jerseys!! https://twitter.com/Timberwolves/status/1035524842630602752 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Este martes 13:30h s\u00e9ptimo a\u00f1o presentando las nuevas camisetas que @ JomaSport ha preparado para # MovistarEstudiantes . En 2014-15 juntamos a masculino y femenino: Nunnally @ AllorNunn21 , @ MariaaConde , @ RocioTorcal , @ AliLapuente , Simpson @ _diamante20 y Bircevicpic.twitter.com/ZgtzsbhyCX",
+      {
+        "neg": 0.0,
+        "neu": 0.918,
+        "pos": 0.082,
+        "compound": 0.34
+      }
+    ],
+    [
+      "Naneli: Iskustvo iz Fenerbah\u010dea \u0107e mi pomo\u0107i u NBA @ AllorNunn21 http://basketballsphere.com/naneli-iskustvo-iz-fenerbahcea-ce-mi-pomoci-u-nba/ \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ Timberwolves forward @ AllorNunn21 talked about the role he had in @ FBBasketbol https://www.talkbasket.net/29845-james-nunnally-on-his-performance-in-fenerbahce-my-role-was-to-knock-down-the-open-shots \u2026 @ YBouranis # NBA",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ AllorNunn21 on his performance in @ FBBasketbol: \u201cMy role was to knock down the open shots\u201d https://www.talkbasket.net/29845-james-nunnally-on-his-performance-in-fenerbahce-my-role-was-to-knock-down-the-open-shots \u2026 via @ talkbasket # NBA @ Timberwolves",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Fenerbah\u00e7e ailesinin \u00e7izdi\u011fi en g\u00fczel portre @ erkan_karacaa @ barishersek @ ekpeudoh @ mahmutoglu10 @ antic12pero @ LeaderOfHorde kos_slou16 @ egehanarna @ allornunn21 @BerkIUgurlu\u2026 https://www.instagram.com/p/Bm6JESbnNJ0/?utm_source=ig_twitter_share&igshid=p1sb7k5p928b \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "T-Wolves got a steal with this one @ AllorNunn21 https://twitter.com/WRHSLEADERSHIP/status/1032332760105410561 \u2026",
+      {
+        "neg": 0.314,
+        "neu": 0.686,
+        "pos": 0.0,
+        "compound": -0.4939
+      }
+    ],
+    [
+      "Weston Ranch High School HOSA & Be.Vital would like to congratulate WRHS alumni James Nunnaly on signing a 2 year contract with the Minnesota Timberwolves!! KEEP BEING AMAZING!! @ AllorNunn21 pic.twitter.com/CwrLG4Hyn1",
+      {
+        "neg": 0.0,
+        "neu": 0.678,
+        "pos": 0.322,
+        "compound": 0.9081
+      }
+    ],
+    [
+      "One more 2-3 points player was required instead @ AllorNunn21 , he is an important loss...",
+      {
+        "neg": 0.0,
+        "neu": 0.878,
+        "pos": 0.122,
+        "compound": 0.2023
+      }
+    ],
+    [
+      "Dude that's awesome!",
+      {
+        "neg": 0.0,
+        "neu": 0.313,
+        "pos": 0.687,
+        "compound": 0.6588
+      }
+    ],
+    [
+      "Appreciate the like @ AllorNunn21. Good luck in Minnesota this year! pic.twitter.com/mx9UmMzPh0",
+      {
+        "neg": 0.0,
+        "neu": 0.381,
+        "pos": 0.619,
+        "compound": 0.8858
+      }
+    ],
+    [
+      "@ AllorNunn21 congrats on making it back to the league!!",
+      {
+        "neg": 0.0,
+        "neu": 0.668,
+        "pos": 0.332,
+        "compound": 0.6103
+      }
+    ],
+    [
+      "Condivido",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Thank you bro!",
+      {
+        "neg": 0.0,
+        "neu": 0.417,
+        "pos": 0.583,
+        "compound": 0.4199
+      }
+    ],
+    [
+      "good luck in your new team @ AllorNunn21",
+      {
+        "neg": 0.0,
+        "neu": 0.459,
+        "pos": 0.541,
+        "compound": 0.7096
+      }
+    ],
+    [
+      "Congrats man, well deserved.",
+      {
+        "neg": 0.0,
+        "neu": 0.267,
+        "pos": 0.733,
+        "compound": 0.6705
+      }
+    ],
+    [
+      "LOOKS EFFICIENT",
+      {
+        "neg": 0.0,
+        "neu": 0.263,
+        "pos": 0.737,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "Here's his shot chart @ AllorNunn21 pic.twitter.com/laB8OssCn0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ AllorNunn21: \u201cI am ready to step up\u201d https://www.talkbasket.net/29480-james-nunnally-i-am-ready-to-step-up \u2026 via @ talkbasket # NBA @ PioneerPress @ Timberwolves",
+      {
+        "neg": 0.0,
+        "neu": 0.828,
+        "pos": 0.172,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "It's ALL ABOUT MENTALITY!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Final fourda ka\u00e7 say\u0131 att\u0131n",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "\u00d6yle de piyasada iyi adam kalm\u0131yor, kalsada o paralar\u0131 verecek b\u00fct\u00e7e kalmad\u0131 art\u0131k..",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Adam kariyerindeki tek ba\u015far\u0131s\u0131n\u0131 Obradovi\u00e7 ve FB sayesinde kazanm\u0131\u015f, vasat\u0131n vasat\u0131 oyunu kar\u015f\u0131l\u0131\u011f\u0131nda milyon dolarlar\u0131 g\u00f6t\u00fcrm\u00fc\u015f sanki \u00e7ok b\u00fcy\u00fck fedakarl\u0131k yapm\u0131\u015f gibi konu\u015fuyor! S\u00f6zle\u015fmeni sonland\u0131rmasayd\u0131k yine konu\u015facak m\u0131yd\u0131n?",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Fenerbah\u00e7e de Obrayla \u00e7al\u0131\u015fmam\u0131\u015f olsan NBA yi b\u0131rak euroleguede \u00fcst seviyede olamazd\u0131n \u015fimdi euroleague kupanla nbadesin vefas\u0131z",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Obradovi\u00e7 ve Fenerbah\u00e7e sayesinde isim ve kariyer yap\u0131p bi de \u00e7\u0131k\u0131p fedekakarl\u0131k yapt\u0131k demiyorlar m\u0131",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ AllorNunn21 ba\u015far\u0131lar",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Ya sanki bedavaya yapt\u0131n salak herif ko\u00e7un istedi\u011fi o senden zaten yapmak zorundas\u0131n",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Good luck",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.7096
+      }
+    ],
+    [
+      "",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Oggi ci teniamo ad augurare buona fortuna a @ AllorNunn21 per il suo ritorno in NBA e al nostro ex capitano @ mleunen10 per il prosieguo della sua carriera qui in Italia. Sarete sempre i benvenuti ad Avellino # BornIn1948 # WolvesInsidepic.twitter.com/DNvrO4slD7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      ". @ AllorNunn21: \" @ FBBasketbol yerine ba\u015fka bir tak\u0131mda herhangi birimiz 20 say\u0131 ortalamayla oynayabilirdik ancak ma\u00e7 kazanabilir miydik? \u015eampiyonluk alabilir miydik? Her y\u0131l Finallerde oynama rekabetinde olabilir miydik? Hay\u0131r.\" https://www.eurohoops.net/tr/nba-news-tr/723783/nunnally-hepimiz-fenerbahcenin-iyiligi-icin-fedakarliklar-yaptik/?f \u2026pic.twitter.com/XodCbAq6ga",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Bu yaz iki y\u0131ll\u0131k @ FBBasketbol maceras\u0131n\u0131 noktalayarak # NBA'in yolunu @ Timberwolves formas\u0131yla tutan @ AllorNunn21 a\u00e7\u0131klamalarda bulundu... Nunnally, Sar\u0131 Lacivertli formayla ge\u00e7irdi\u011fi g\u00fcnlerden bahsetti, fedakarl\u0131k yapt\u0131klar\u0131n\u0131 s\u00f6yledi: https://www.eurohoops.net/tr/nba-news-tr/723783/nunnally-hepimiz-fenerbahcenin-iyiligi-icin-fedakarliklar-yaptik/?n \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "\u00f6yleydi zaten",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Vavvvv...Sen neymi\u015fsin... @ AllorNunn21 pic.twitter.com/dDNX4pOFon",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Sniper",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "T\u00fcrk de\u011filim ama universiteti Turkiyede okudum",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Abi sen de t\u00fcrkm\u00fc\u015fs\u00fcn zaten ya skduskaus",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Thanks for everything. Don't forget you are the Europen Champion's player. Good luck in Minosata, sniper ;)",
+      {
+        "neg": 0.0,
+        "neu": 0.492,
+        "pos": 0.508,
+        "compound": 0.8851
+      }
+    ],
+    [
+      "Good luck out there big bro... Keep workin @ AllorNunn21 https://twitter.com/Timberwolves/status/1027208836560637953 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.576,
+        "pos": 0.424,
+        "compound": 0.7096
+      }
+    ],
+    [
+      "Be\u011fenmeyip gitsin dedi\u011fimiz nunn nba 'e gidiyor vay aq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Really proud of one of my former AAU kids with the Bay Area Hoosiers @ AllorNunn21 signing a 2 year deal with the @ Timberwolves A blue collar kid from Stockton, CA who worked his tail off to get into @ UCSBbasketball and now @ nba James was on loaded AAU team in the summer of 2007.",
+      {
+        "neg": 0.0,
+        "neu": 0.935,
+        "pos": 0.065,
+        "compound": 0.5256
+      }
+    ],
+    [
+      "# AllEyesNorth Now that # Thibs is set to sign @ AllorNunn21 I have \"0\" problem with him bringing on @ JoakimNoah Hell, go get @ LuolDeng9 too!",
+      {
+        "neg": 0.275,
+        "neu": 0.725,
+        "pos": 0.0,
+        "compound": -0.8221
+      }
+    ],
+    [
+      "Very CQQL Thibs!",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ AllorNunn21 wellcome to Minnesota j, as a former mvp of my italian league i\u2019m happy you are here!",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.6114
+      }
+    ],
+    [
+      "Congrats @ AllorNunn21 you deserve it! Proud of you dude! https://twitter.com/Timberwolves/status/1027208836560637953 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.53,
+        "pos": 0.47,
+        "compound": 0.7955
+      }
+    ],
+    [
+      "You translated me mind",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "He added a cherry on top by shooting 55% on 83 attempts last season for Fenerbah\u00e7e\u2019s contending team. Nunnally recently tweeted: \u201cMy hard work finally catching up with perfect timing\u201d ( @ AllorNunn21). His first guaranteed NBA contract - what a journey.",
+      {
+        "neg": 0.034,
+        "neu": 0.831,
+        "pos": 0.134,
+        "compound": 0.6249
+      }
+    ],
+    [
+      "Congrats to @ AllorNunn21 on getting signed to the TWOLVES proud of this G right here, now I need his jersey haha",
+      {
+        "neg": 0.0,
+        "neu": 0.627,
+        "pos": 0.373,
+        "compound": 0.8591
+      }
+    ],
+    [
+      "@ AllorNunn21 congrats my G for signing with the wolves. Do Work!!!",
+      {
+        "neg": 0.0,
+        "neu": 0.678,
+        "pos": 0.322,
+        "compound": 0.6458
+      }
+    ],
+    [
+      "Yes i think he has a concentration problem especially in big and more important games. He ruined that 4 F4 games. Anyway he is a great shooter. And he has a speacial thing he can create his own shoot. I'm sure he will contribute next year",
+      {
+        "neg": 0.15,
+        "neu": 0.606,
+        "pos": 0.244,
+        "compound": 0.624
+      }
+    ],
+    [
+      "And to think the man almost broke his neck... How the wheel turns...",
+      {
+        "neg": 0.173,
+        "neu": 0.827,
+        "pos": 0.0,
+        "compound": -0.3626
+      }
+    ],
+    [
+      "Sor bakal\u0131m final fourda ka\u00e7 say\u0131 atm\u0131\u015f",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Exactly best shooter, I watched every game in 3 season but he played very bad game at especially euroleage final four games",
+      {
+        "neg": 0.186,
+        "neu": 0.61,
+        "pos": 0.204,
+        "compound": -0.1254
+      }
+    ],
+    [
+      "1st*",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Mr.Sniper Good luck! @ AllorNunn21 https://twitter.com/Timberwolves/status/1027208836560637953 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.326,
+        "pos": 0.674,
+        "compound": 0.7345
+      }
+    ],
+    [
+      "Bu arada nully gitti iyi ho\u015fda yerine halen adam gelmedi???",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Congrats Sniper we will miss you",
+      {
+        "neg": 0.178,
+        "neu": 0.444,
+        "pos": 0.378,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "You'll be missed @ AllorNunn21 https://twitter.com/Timberwolves/status/1027208836560637953 \u2026",
+      {
+        "neg": 0.355,
+        "neu": 0.645,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "So happy for you man! You made the long way back to where you always belonged. Finally I can draft you for my Fantasy team",
+      {
+        "neg": 0.0,
+        "neu": 0.843,
+        "pos": 0.157,
+        "compound": 0.6468
+      }
+    ],
+    [
+      "Winter is coming",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      ". @ AllorNunn21 @ ClubEstudiantes @ Timberwolvespic.twitter.com/T3E1RadMsP",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Congrats @ AllorNunn21 I\u2019m proud of you man you deserve this!!! # GauchoLegendhttps://twitter.com/Timberwolves/status/1027208836560637953 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.55,
+        "pos": 0.45,
+        "compound": 0.8114
+      }
+    ],
+    [
+      "Good Luck @ AllorNunn21",
+      {
+        "neg": 0.0,
+        "neu": 0.145,
+        "pos": 0.855,
+        "compound": 0.7096
+      }
+    ],
+    [
+      "Congrats bro... Surely you will be loved in Minnesota like you are loved in Istanbul...",
+      {
+        "neg": 0.0,
+        "neu": 0.376,
+        "pos": 0.624,
+        "compound": 0.9485
+      }
+    ],
+    [
+      "Good luck j nunn. All the best. Thanks for everything",
+      {
+        "neg": 0.0,
+        "neu": 0.278,
+        "pos": 0.722,
+        "compound": 0.9186
+      }
+    ],
+    [
+      "Nba in alt yap\u0131s\u0131na d\u00f6nd\u00fck bu ne karde\u015fim",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Like if you remember him netting the second highest 3pt% in Euroleague history.",
+      {
+        "neg": 0.0,
+        "neu": 0.828,
+        "pos": 0.172,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "enjoy the bench idiot @ AllorNunn21",
+      {
+        "neg": 0.347,
+        "neu": 0.316,
+        "pos": 0.337,
+        "compound": -0.0258
+      }
+    ],
+    [
+      "trash",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Welcome to the Wolves @ AllorNunn21 ... Can't wait to see you out there on the court.",
+      {
+        "neg": 0.0,
+        "neu": 0.833,
+        "pos": 0.167,
+        "compound": 0.4588
+      }
+    ],
+    [
+      "Obradovic effect.",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Real development w/ @ AllorNunn21 The Sniper work ethic is crazy!!! pic.twitter.com/pjvWITqwn9",
+      {
+        "neg": 0.247,
+        "neu": 0.753,
+        "pos": 0.0,
+        "compound": -0.5067
+      }
+    ],
+    [
+      "pic.twitter.com/rHvNTBt0Jm",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Admin \u00f6ld\u00fc\u011f\u00fc sma\u00e7\u0131 neden koymad\u0131n",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "4XL",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "2 tane final four oynad\u0131 onlardan da bi \u015feyler koysayd\u0131n\u0131z :d",
+      {
+        "neg": 0.0,
+        "neu": 0.732,
+        "pos": 0.268,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "He is the best",
+      {
+        "neg": 0.0,
+        "neu": 0.417,
+        "pos": 0.583,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "pic.twitter.com/olwHidGwG4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "congratulations! @ AllorNunn21 good luck",
+      {
+        "neg": 0.0,
+        "neu": 0.09,
+        "pos": 0.91,
+        "compound": 0.8777
+      }
+    ],
+    [
+      "He was the best shooter in Europe. Give him some minutes plz cuz he deserved it",
+      {
+        "neg": 0.0,
+        "neu": 0.718,
+        "pos": 0.282,
+        "compound": 0.6705
+      }
+    ],
+    [
+      "James Nunnally signs two-year deal with Minnesota @ Timberwolves. Congratulations and good luck @ AllorNunn21! # Minnesota # minnesotatimberwolves # timberwolves # wolvespic.twitter.com/EnQdKAlSrS",
+      {
+        "neg": 0.0,
+        "neu": 0.581,
+        "pos": 0.419,
+        "compound": 0.8777
+      }
+    ],
+    [
+      "kanka KAT'\u0131 verin bari",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "@ AllorNunn21 https://twitter.com/Timberwolves/status/1027223450044194816 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Good luck, Mr.Sniper! We are gonna miss you! @ AllorNunn21",
+      {
+        "neg": 0.114,
+        "neu": 0.426,
+        "pos": 0.46,
+        "compound": 0.7081
+      }
+    ],
+    [
+      "He is not good for nba \u0131 think he goes d-league He is a\"casper\" in the important times at match",
+      {
+        "neg": 0.113,
+        "neu": 0.802,
+        "pos": 0.085,
+        "compound": -0.1546
+      }
+    ],
+    [
+      "Kendine iyi bak ..",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Range is range, no matter the continent. @ AllorNunn21's European highlights below! pic.twitter.com/6VxD1D9gam",
+      {
+        "neg": 0.183,
+        "neu": 0.736,
+        "pos": 0.081,
+        "compound": -0.3382
+      }
+    ],
+    [
+      "WOW @ AllorNunn21! Congrats and good luck for this new great adventure! https://twitter.com/Timberwolves/status/1027208836560637953 \u2026",
+      {
+        "neg": 0.0,
+        "neu": 0.224,
+        "pos": 0.776,
+        "compound": 0.9675
+      }
+    ],
+    [
+      "like if u remember him as the worst player in 2k",
+      {
+        "neg": 0.281,
+        "neu": 0.548,
+        "pos": 0.171,
+        "compound": -0.3818
+      }
+    ],
+    [
+      "\u0386\u03c1\u03b3\u03b7\u03c3\u03b5, \u03b1\u03bb\u03bb\u03ac \u03b2\u03c1\u03ae\u03ba\u03b5 \u03c4\u03b5\u03bb\u03b9\u03ba\u03ac \u03ba\u03b1\u03bb\u03ae \u03b4\u03bf\u03c5\u03bb\u03b5\u03b9\u03ac \u03bf @ AllorNunn21 http://basketa.gr/%CF%83%CF%84%CE%BF%CF%85%CF%82-%CF%84%CE%AF%CE%BC%CF%80%CE%B5%CF%81%CE%B3%CE%BF%CF%85%CE%BB%CE%B2%CF%82-%CE%BF-%CE%BD%CE%AC%CE%BD%CE%B1%CE%BB%CE%B9/ \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "I'm pretty sure they have cranberry sauce in Des Moinespic.twitter.com/8g4W0sRVh5",
+      {
+        "neg": 0.0,
+        "neu": 0.593,
+        "pos": 0.407,
+        "compound": 0.6705
+      }
+    ],
+    [
+      "coming from fenerbah\u00e7e. good luck nunnaly",
+      {
+        "neg": 0.0,
+        "neu": 0.404,
+        "pos": 0.596,
+        "compound": 0.7096
+      }
+    ],
+    [
+      "Enjoy the bench! And Des Moines.",
+      {
+        "neg": 0.0,
+        "neu": 0.589,
+        "pos": 0.411,
+        "compound": 0.5411
+      }
+    ],
+    [
+      "Welcome to The North, @ AllorNunn21! Press Release \u00bb https://on.nba.com/2AT2qMH pic.twitter.com/1Kgyo0A4Tu",
+      {
+        "neg": 0.0,
+        "neu": 0.708,
+        "pos": 0.292,
+        "compound": 0.5093
+      }
+    ],
+    [
+      "My Dawg!!! @ AllorNunn21 Again, the C A M P going crazy right now. # TeamNunnally # TWolves # Premierpic.twitter.com/yw0Qzw4aLa",
+      {
+        "neg": 0.229,
+        "neu": 0.771,
+        "pos": 0.0,
+        "compound": -0.5067
+      }
+    ],
+    [
+      "Updated workouts of The Sniper!!! @ AllorNunn21 # Hibachi # Premierpic.twitter.com/hFbBzSxilS",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "Trust the process!! @ AllorNunn21 pic.twitter.com/EyXXiwzjGt",
+      {
+        "neg": 0.0,
+        "neu": 0.507,
+        "pos": 0.493,
+        "compound": 0.5972
+      }
+    ],
+    [
+      ". @ FBBasketbol, Avrupa'n\u0131n # NBA'e son y\u0131llarda en \u00e7ok oyuncu g\u00f6nderen tak\u0131mlar\u0131ndan biri oldu... @ AllorNunn21'nin @ Timberwolves ile anla\u015fmas\u0131 bu ba\u011flant\u0131n\u0131n son \u00f6rne\u011fiydi, Eurohoops F\u0131r\u0131n Sar\u0131 Lacivertlilerin NBA'e g\u00f6nderdi\u011fi oyuncular\u0131 derledi!https://www.eurohoops.net/tr/trademarks-tr/480571/fenerbahcenin-nba-yolcu-ettigi-oyuncular/?p \u2026",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    2018,
+    14
+  ]
+}
